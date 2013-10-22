@@ -1,0 +1,102 @@
+=Main=
+
+<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">[[File:OWASP_Project_Header.jpg|link=]]</div>
+
+{| style="padding: 0;margin:0;margin-top:10px;text-align:left;" |-
+| valign="top"  style="border-right: 1px dotted gray;padding-right:25px;" |
+
+==OWASP Vulnerable Web Applications Directory Project==
+
+The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.
+
+==Introduction==
+
+Select from the above tabs to view all of the:
+* On-Line applications
+* Off-Line applications
+* Virtual Machines and ISO images
+
+
+==Description==
+
+The OWASP Vulnerable Web Applications Directory (VWAD) Project is a comprehensive and well maintained registry of all known vulnerable web applications currently available. These vulnerable web applications can be used by web developers, security auditors and penetration testers to put in practice their knowledge and skills during training sessions (and especially afterwards), as well as to test at any time the multiple hacking tools and offensive techniques available, in preparation for their next real-world engagement.
+
+The main goal of VWAD is to provide a list of vulnerable web applications available to security professionals for hacking and offensive activities, so that they can attack realistic web environments... without going to jail :)
+
+The vulnerable web applications have been classified in three categories: On-Line, Off-Line, and VMs/ISOs. Each list has been ordered alphabetically.
+
+An initial list that inspired this project was maintained till the end on 2013 at: http://blog.taddong.com/2011/10/hacking-vulnerable-web-applications.html.
+
+
+==Licensing==
+OWASP Vulnerable Web Applications Directory Projects is free to use. It is licensed under the Apache 2.0 License, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially.
+
+| valign="top"  style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" |
+
+== What is VWAD? ==
+
+OWASP VWAD provides:
+
+* A list of all known vulnerable web applications.
+
+
+== Presentation ==
+
+Interview with [http://trustedsoftwarealliance.com/2013/10/18/simon-bennetts-the-owasp-web-applications-vulnerability-project/ Simon Bennetts – The OWASP Web Applications Vulnerability Project ].
+
+
+
+
+== Project Leaders ==
+
+*[mailto:raul@raulsiles.com Raul Siles]
+*[[User:Simon Bennetts|Simon Bennetts]]
+
+
+
+== Related Projects ==
+
+* N/A
+
+
+
+| valign="top"  style="padding-left:25px;width:200px;" | 
+
+== Quick Download ==
+
+* N/A - The project is self contained on the wiki.
+
+
+
+== News and Events ==
+* [16 Oct 2013] Project created.
+
+
+== In Print ==
+N/A
+
+
+==Classifications==
+
+   {| width="200" cellpadding="2"
+   |-
+   | align="center" valign="top" width="50%" rowspan="2"| [[File:Owasp-incubator-trans-85.png|link=:Category:OWASP_Project#tab=Terminology]]
+   | align="center" valign="top" width="50%"| [[File:Owasp-builders-small.png|link=Builders]]  
+   |-
+   | align="center" valign="top" width="50%"| [[File:Owasp-breakers-small.png|link=Breakers]]
+   |-
+   | colspan="2" align="center"  | [[File:Cc-button-y-sa-small.png|link=http://creativecommons.org/licenses/by-sa/3.0/]] 
+   |-
+   | colspan="2" align="center"  | [[File:Project_Type_Files_DOC.jpg|link=]]   
+   |}
+
+|}
+
+=On-Line apps=
+
+{| border="1" width="80%" cellspacing="0" cellpadding="2"
+|-
+! scope="col" | App Name / Link
+! scope="col" | Technology
+! scope="col" | Author
+! scope="col" | Notes

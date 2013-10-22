@@ -1,0 +1,15 @@
+|}
+
+Please add any new apps in alphabetic order, correct mistakes or just comment on this page if you dont have write access to this wiki.
+
+= Off-Line apps =
+
+Vulnerable applications that have to be downloaded and used locally:
+
+{| border="1" width="80%" cellspacing="0" cellpadding="2"
+|-
+! scope="col" | App Name / Link
+! scope="col" | Technology
+! scope="col" | Other links
+! scope="col" | Author
+! scope="col" | Notes

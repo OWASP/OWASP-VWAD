@@ -1,0 +1,13 @@
+|}
+
+= Virtual Machines or ISOs =
+
+VMs which contain multiple vulnerable applications:
+
+{| border="1" width="80%" cellspacing="0" cellpadding="2"
+|-
+! scope="col" | App Name / Link
+! scope="col" | Technology
+! scope="col" | Other links
+! scope="col" | Author
+! scope="col" | Notes
