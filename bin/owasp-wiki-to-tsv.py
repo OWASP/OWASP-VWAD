@@ -3,22 +3,29 @@
 import os
 import string
 
-def table_start(title, offset):
-    offset = wikisrc.find(title, offset)
-    
-    if (offset < 0):
-        print 'Unable to find string "' + title + ' "'
-        exit (1)
-    
-    offset = wikisrc.find('|-', offset)
-    offset = wikisrc.find('|-', offset+1)
+def table_start(data):
+    offset = data.find('|-')
+    offset = data.find('|-', offset+1)
     return offset
 
-def save_data(string, file):
-    print ('Generating ' + file);
-    with open (file, 'w') as f:
+def convert(file_in, file_out):
+
+    if not os.path.isfile(file_in):
+        print 'Unable to find wiki source file ' + file_in
+        exit (1)
+    
+    with open(file_in, 'r') as wiki_file:
+        wikisrc = wiki_file.read()
+
+    start = table_start(wikisrc)
+    end = wikisrc.find('|}', start)
+    
+    data = wikisrc[start:end]
+    
+    print ('Generating ' + file_out);
+    with open (file_out, 'w') as f:
         # Split into rows (returns list)
-        rows = string.split('|-')
+        rows = data.split('|-')
         for row in rows:
             lines = row.split('|')
             # First line always blank
@@ -29,60 +36,8 @@ def save_data(string, file):
         print 'Found ' + str(len(rows)) + ' records'
                 
 
-wikifile = 'src/owasp-wiki/full.wiki'
-
-if not os.path.isfile(wikifile):
-    print 'Unable to find wiki source file ' + wikifile
-    exit (1)
-
-with open(wikifile, 'r') as wiki_file:
-    wikisrc = wiki_file.read()
-
-"""
-TODO
-    Output start - =On-Line apps=
-"""
-
-# On-Line apps section
-start = table_start('=On-Line apps=', 0)
-with open ('src/owasp-wiki/start.wiki', 'w') as f:
-    f.write (wikisrc[0:start])
-
-end = wikisrc.find('|}', start)
-save_data(wikisrc[start:end], 'src/online.tsv')
-
-# Off-Line apps section
-start = table_start('= Off-Line apps =', end)
-with open ('src/owasp-wiki/post-online.wiki', 'w') as f:
-    f.write (wikisrc[end:start])
-
-end = wikisrc.find('|}', start)
-save_data(wikisrc[start:end], 'src/offline.tsv')
-
-# Old Off-Line apps section
-start = table_start('quite old', end)
-with open ('src/owasp-wiki/post-offline.wiki', 'w') as f:
-    f.write (wikisrc[end:start])
-
-end = wikisrc.find('|}', start)
-save_data(wikisrc[start:end], 'src/offline-old.tsv')
-
-# Virtual Machines or ISOs section
-start = table_start('= Virtual Machines or ISOs =', end)
-with open ('src/owasp-wiki/post-offline-old.wiki', 'w') as f:
-    f.write (wikisrc[end:start])
-
-end = wikisrc.find('|}', start)
-save_data(wikisrc[start:end], 'src/vm-iso.tsv')
-
-# Virtual Machines or ISOs section
-start = table_start('quite old', end)
-with open ('src/owasp-wiki/post-vm-iso.wiki', 'w') as f:
-    f.write (wikisrc[end:start])
-
-end = wikisrc.find('|}', start)
-save_data(wikisrc[start:end], 'src/post-vm-iso-old.tsv')
-
-# The rest of the file
-with open ('src/owasp-wiki/end.wiki', 'w') as f:
-    f.write (wikisrc[end:])
+convert('src/owasp-wiki/Online.wiki', 'src/online.tsv')
+convert('src/owasp-wiki/Offline.wiki', 'src/offline.tsv')
+convert('src/owasp-wiki/OfflineOld.wiki', 'src/offline-old.tsv')
+convert('src/owasp-wiki/VMs.wiki', 'src/vm-iso.tsv')
+convert('src/owasp-wiki/VMsOld.wiki', 'src/vm-iso-old.tsv')
