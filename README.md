@@ -8,11 +8,11 @@ The raw data for the project is held in the src/*.tsv files.
 The full OWASP wiki source code is available at https://www.owasp.org/index.php?title=OWASP_Vulnerable_Web_Applications_Directory_Project&action=edit.
 
 The individual five wiki source code pages are available at:
-- [x] https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Online 
-- [x] https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
-- [x] https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/OfflineOld
-- [x] https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/VMs
-- [x] https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/VMsOld
+- https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Online 
+- https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
+- https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/OfflineOld
+- https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/VMs
+- https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/VMsOld
 
 To recreate the TSV files from the OWASP wiki pages:
 * Copy the five wiki source code pages into the 'src/owasp-wiki/' directory, using the following filenames: Online.wiki, Offline.wiki, OfflineOld.wiki, VMs.wiki, and VMsOld.wiki.
