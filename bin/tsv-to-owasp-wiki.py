@@ -32,8 +32,6 @@ def convert(in_file, out_file):
                 f.write("| " + field + "\n")
             f.write("|-\n")
 
-wikifile = 'dist/owasp.wiki'
-
 
 convert('src/online.tsv', 'dist/Online.wiki')
 convert('src/offline.tsv', 'dist/Offline.wiki')

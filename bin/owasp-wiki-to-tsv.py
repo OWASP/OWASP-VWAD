@@ -34,7 +34,7 @@ def convert(file_in, file_out):
                 f.write(line.strip() + '\t')
             f.write('\n')
         print 'Found ' + str(len(rows)) + ' records'
-                
+
 
 convert('src/owasp-wiki/Online.wiki', 'src/online.tsv')
 convert('src/owasp-wiki/Offline.wiki', 'src/offline.tsv')
