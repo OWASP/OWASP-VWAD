@@ -19,6 +19,6 @@ To recreate the TSV files from the OWASP wiki pages:
 * Run the 'python bin/owasp-wiki-to-tsv.py' script
 
 To regenerate the OWASP wiki pages after updating the TSV files:
-* Run the ' python bin/tsv-to-owasp-wiki.py' script
+* Run the 'python bin/tsv-to-owasp-wiki.py' script
 * Update the five OWASP wiki pages with the contents of the new files available at 'dist/': Online.wiki, Offline.wiki, OfflineOld.wiki, VMs.wiki, and VMsOld.wiki.
 
