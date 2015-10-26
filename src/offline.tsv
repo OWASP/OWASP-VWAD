@@ -18,7 +18,7 @@
 [http://hackxor.sourceforge.net/cgi-bin/index.pl hackxor]				First 2 levels online, rest offline	
 [http://sourceforge.net/projects/lampsecurity/ LampSecurity]	PHP				
 [http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10 Mutillidae ]	PHP	[http://www.irongeek.com/mutillidae/ download]			
-[https://owasp.codeplex.com/ .NET Goat ]	C#	[https://owasp.codeplex.com/SourceControl/list/changesets# download]	OWASP		
+[https://github.com/jerryhoff/WebGoat.NET .NET Goat ]	C#	[https://github.com/jerryhoff/WebGoat.NET git repository]	OWASP		
 [http://peruggia.sourceforge.net/ Peruggia ]	PHP	[http://sourceforge.net/projects/peruggia/files/ download]			
 [https://code.google.com/p/puzzlemall/ Puzzlemall ]	Java	[https://code.google.com/p/puzzlemall/downloads/list download] [https://code.google.com/p/puzzlemall/downloads/list docs]			
 [https://www.owasp.org/index.php/OWASP_Rails_Goat_Project Rails Goat ]	Ruby on Rails	[https://github.com/OWASP/railsgoat/archive/master.zip download] [http://railsgoat.cktricky.com/getting_started.html docs]	OWASP		
@@ -35,6 +35,5 @@
 [https://github.com/adamdoupe/WackoPicko WackoPicko ]	PHP	[https://github.com/adamdoupe/WackoPicko/zipball/master download] [http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf whitepaper]			
 [https://code.google.com/p/wavsep/ Wavsep - Web Application Vulnerability Scanner Evaluation Project ]	Java	[https://code.google.com/p/wavsep/downloads/list download] [https://code.google.com/p/wavsep/downloads/list docs]			
 [https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project WebGoat ]	Java	[http://code.google.com/p/webgoat/downloads/list download] [https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents guide]	OWASP		
-[https://owasp.codeplex.com/ WebGoat.NET]	C#	[https://owasp.codeplex.com/SourceControl/list/changesets# download]	OWASP		
 [https://code.google.com/p/wivet/ WIVET&nbsp;- Web Input Vector Extractor Teaser]		[http://www.webguvenligi.org/projeler/wivet download] [https://code.google.com/p/wivet/downloads/list?can=1&amp;q= tests]			
 
