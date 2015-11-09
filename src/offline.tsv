@@ -33,7 +33,7 @@
 [http://www.nth-dimension.org.uk/blog.php?id=88 VulnApp ]	.NET	[http://projects.nth-dimension.org.uk/dir?d=VulnApp CVS download] [http://projects.nth-dimension.org.uk/rptview?rn=6 vulns]			
 [http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/ Vulnerable Web App]			Exploit.co.il		
 [https://github.com/adamdoupe/WackoPicko WackoPicko ]	PHP	[https://github.com/adamdoupe/WackoPicko/zipball/master download] [http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf whitepaper]			
-[https://code.google.com/p/wavsep/ Wavsep - Web Application Vulnerability Scanner Evaluation Project ]	Java	[https://code.google.com/p/wavsep/downloads/list download] [https://code.google.com/p/wavsep/downloads/list docs]			
+[https://github.com/sectooladdict/wavsep WAVSEP - Web Application Vulnerability Scanner Evaluation Project ]	Java	[https://sourceforge.net/projects/wavsep/ download (builds)] [https://code.google.com/p/wavsep/downloads/list download (old)] [https://github.com/sectooladdict/wavsep/wiki wiki]	Shay Chen		
 [https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project WebGoat ]	Java	[http://code.google.com/p/webgoat/downloads/list download] [https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents guide]	OWASP		
 [https://code.google.com/p/wivet/ WIVET&nbsp;- Web Input Vector Extractor Teaser]		[http://www.webguvenligi.org/projeler/wivet download] [https://code.google.com/p/wivet/downloads/list?can=1&amp;q= tests]			
 
