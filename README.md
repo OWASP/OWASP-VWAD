@@ -1,5 +1,6 @@
 OWASP-VWAD
 ==========
+[![OWASP Labs](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
 
 The OWASP Vulnerable Web Applications Directory Project (VWAD, https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.
 
