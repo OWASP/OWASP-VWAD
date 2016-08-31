@@ -1,4 +1,4 @@
-
+URL Language  Brand 
 [http://testphp.vulnweb.com Acuart]	PHP	Acunetix	Art shopping	
 [http://testaspnet.vulnweb.com/ Acublog]	.NET	Acunetix	Blog	
 [http://testasp.vulnweb.com/ Acuforum]	ASP	Acunetix	Forum	
@@ -6,8 +6,8 @@
 [http://crackme.trustwave.com/ Crack Me Bank]		Trustwave		
 [http://enigmagroup.org/ Enigma Group]		Enigma Group		
 [http://google-gruyere.appspot.com/ Gruyere]	Python	Google		
-[https://public-firing-range.appspot.com/ Firing Range]		Google	[
-https://github.com/google/firing-range Source code]	
+[https://public-firing-range.appspot.com/ Firing Range]		Google	
+[https://github.com/google/firing-range Source code]	
 [http://hackademic1.teilar.gr Hackademic Challenges Project]	PHP - Joomla	OWASP		
 [http://pctechtips.org/hacker-challenge-pwn3d-the-login-form/ Hacker Challenge]		PCTechtips		
 [http://hackazon.webscantest.com/ Hackazon]	AJAX, JSON, XML, GwT, AMF	NTObjectives	
@@ -22,6 +22,6 @@ https://github.com/google/firing-range Source code]
 [http://www.webscantest.com Web Scanner Test Site]		NTOSpider	(testuser/testpass)	
 [http://blasze.com/xsstestsuite/ XSS Test Suite]				
 [http://zero.webappsecurity.com/ Zero Bank]		HP/SpiDynamics	(admin/admin)	
-[http://aspnet.testsparker.com/ Netsparker ASP.NET Test App] Netsparker
-[http://php.testsparker.com/ Netsparker PHP Test App] Netsparker
+[http://aspnet.testsparker.com/ Netsparker Test App]  ASP.NET Netsparker
+[http://php.testsparker.com/ Netsparker Test App] PHP Netsparker
 [http://www.bgabank.com/ BGA Vulnerable BANK App] BGA Security
