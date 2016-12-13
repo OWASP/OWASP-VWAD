@@ -1,26 +1,25 @@
-
 [http://testphp.vulnweb.com Acuart]	PHP	Acunetix	Art shopping
 [http://testaspnet.vulnweb.com/ Acublog]	.NET	Acunetix	Blog
 [http://testasp.vulnweb.com/ Acuforum]	ASP	Acunetix	Forum
 [http://demo.testfire.net/ Altoro Mutual]		IBM/Watchfire	(jsmith/Demo1234)
-[http://www.bgabank.com/ BGA Vulnerable BANK App]	.NET	BGA Security
-[http://crackme.trustwave.com/ Crack Me Bank]		Trustwave
-[http://enigmagroup.org/ Enigma Group]		Enigma Group
-[http://google-gruyere.appspot.com/ Gruyere]	Python	Google
+[http://www.bgabank.com/ BGA Vulnerable BANK App]	.NET	BGA Security	
+[http://crackme.trustwave.com/ Crack Me Bank]		Trustwave	
+[http://enigmagroup.org/ Enigma Group]		Enigma Group	
+[http://google-gruyere.appspot.com/ Gruyere]	Python	Google	
 [https://public-firing-range.appspot.com/ Firing Range]		Google	[https://github.com/google/firing-range Source code]
-[http://hackademic1.teilar.gr Hackademic Challenges Project]	PHP - Joomla	OWASP
-[http://pctechtips.org/hacker-challenge-pwn3d-the-login-form/ Hacker Challenge]		PCTechtips
+[http://hackademic1.teilar.gr Hackademic Challenges Project]	PHP - Joomla	OWASP	
+[http://pctechtips.org/hacker-challenge-pwn3d-the-login-form/ Hacker Challenge]		PCTechtips	
 [http://hackazon.webscantest.com/ Hackazon]	AJAX, JSON, XML, GwT, AMF	NTObjectives	[http://www.ntobjectives.com/hackazon/ Project page]
-[https://www.hacking-lab.com/events/registerform.html?eventid=245 Hacking Lab]		Hacking Lab
+[https://www.hacking-lab.com/events/registerform.html?eventid=245 Hacking Lab]		Hacking Lab	
 [https://hack.me Hack.me]		eLearnSecurity	Beta
-[http://www.hackthissite.org HackThisSite]  HackThisSite	Basic & Realistic (web) Missions
+[http://www.hackthissite.org HackThisSite]  HackThisSite	Basic & Realistic (web) Missions		
 [http://hackxor.sourceforge.net/cgi-bin/index.pl hackxor]			First 2 levels online (algo/smurf), rest offline
-[https://juice-shop.herokuapp.com Juice Shop] Javascript  OWASP Demo instance. Do not use for massive attacks/scans!
-[http://aspnet.testsparker.com/ Netsparker Test App .NET]	ASP.NET	Netsparker
-[http://php.testsparker.com/ Netsparker Test App PHP]	PHP	Netsparker
-[http://pentesteracademylab.appspot.com Pentester Academy]
+[https://juice-shop.herokuapp.com Juice Shop]	Javascript	OWASP	Demo instance. Do not use for massive attacks/scans!
+[http://aspnet.testsparker.com/ Netsparker Test App .NET]	ASP.NET	Netsparker	
+[http://php.testsparker.com/ Netsparker Test App PHP]	PHP	Netsparker	
+[http://pentesteracademylab.appspot.com Pentester Academy]			
 [http://testhtml5.vulnweb.com/ Security Tweets]		Acunetix	HTML5
-[http://vicnum.ciphertechs.com Vicnum Project]	Perl & PHP
+[http://vicnum.ciphertechs.com Vicnum Project]	Perl & PHP		
 [http://www.webscantest.com Web Scanner Test Site]		NTOSpider	(testuser/testpass)
-[http://blasze.com/xsstestsuite/ XSS Test Suite]
+[http://blasze.com/xsstestsuite/ XSS Test Suite]			
 [http://zero.webappsecurity.com/ Zero Bank]		HP/SpiDynamics	(admin/admin)
