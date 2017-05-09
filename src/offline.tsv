@@ -22,6 +22,7 @@
 [http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10 Mutillidae ]	PHP	[http://www.irongeek.com/mutillidae/ download]		
 [https://github.com/jerryhoff/WebGoat.NET .NET Goat ]	C#	[https://github.com/jerryhoff/WebGoat.NET git repository]	OWASP	
 [https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project NodeGoat ]	Node.js	[https://github.com/OWASP/NodeGoat git repository]	OWASP	
+[https://digi.ninja/projects/nosqli_lab.php NoSQL Injection Lab]	PHP/Mongo	[https://github.com/digininja/nosqlilab github Repo] @digininja		
 [http://peruggia.sourceforge.net/ Peruggia ]	PHP	[http://sourceforge.net/projects/peruggia/files/ download]		
 [https://code.google.com/p/puzzlemall/ Puzzlemall ]	Java	[https://code.google.com/p/puzzlemall/downloads/list download] [https://code.google.com/p/puzzlemall/downloads/list docs]		
 [https://www.owasp.org/index.php/OWASP_Rails_Goat_Project Rails Goat ]	Ruby on Rails	[https://github.com/OWASP/railsgoat/archive/master.zip download] [http://railsgoat.cktricky.com/getting_started.html docs]	OWASP	
@@ -33,7 +34,7 @@
 [https://github.com/SpiderLabs/SQLol SQLol ]	PHP	[https://github.com/SpiderLabs/SQLol/archive/master.zip download]		
 [https://github.com/SpiderLabs/SQLol SQLol ]	PHP	[https://github.com/SpiderLabs/SQLol/archive/master.zip download]		
 [https://github.com/dhatanian/ticketmagpie TicketMagpie ]	Java	[https://github.com/dhatanian/ticketmagpie download]		
-[https://github.com/sakti/twitterlike twitterlike ]	PHP	[https://github.com/sakti/twitterlike git repository]	Sakti Dwi Cahyono
+[https://github.com/sakti/twitterlike twitterlike ]	PHP	[https://github.com/sakti/twitterlike git repository]	Sakti Dwi Cahyono	
 [https://github.com/mattvaldes/vulnerable-api vulnerable-api]	Python	[https://github.com/mattvaldes/vulnerable-api git repository]	Matthew Valdes	
 [http://www.nth-dimension.org.uk/blog.php?id=88 VulnApp ]	.NET	[http://projects.nth-dimension.org.uk/dir?d=VulnApp CVS download] [http://projects.nth-dimension.org.uk/rptview?rn=6 vulns]		
 [http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/ Vulnerable Web App]			Exploit.co.il	
