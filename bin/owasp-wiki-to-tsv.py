@@ -36,8 +36,8 @@ def convert(file_in, file_out):
         print 'Found ' + str(len(rows)) + ' records'
 
 
-convert('src/owasp-wiki/Online.wiki', 'src/online.tsv')
-convert('src/owasp-wiki/Offline.wiki', 'src/offline.tsv')
-convert('src/owasp-wiki/OfflineOld.wiki', 'src/offline-old.tsv')
-convert('src/owasp-wiki/VMs.wiki', 'src/vm-iso.tsv')
-convert('src/owasp-wiki/VMsOld.wiki', 'src/vm-iso-old.tsv')
+convert('src/owasp-wiki/Online.wiki', 'src/owasp-wiki/deprecated/online.tsv')
+convert('src/owasp-wiki/Offline.wiki', 'src/owasp-wiki/deprecated/offline.tsv')
+convert('src/owasp-wiki/OfflineOld.wiki', 'src/owasp-wiki/deprecated/offline-old.tsv')
+convert('src/owasp-wiki/VMs.wiki', 'src/owasp-wiki/deprecated/vm-iso.tsv')
+convert('src/owasp-wiki/VMsOld.wiki', 'src/owasp-wiki/deprecated/vm-iso-old.tsv')

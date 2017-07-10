@@ -33,8 +33,8 @@ def convert(in_file, out_file):
             f.write("|-\n")
 
 
-convert('src/online.tsv', 'dist/Online.wiki')
-convert('src/offline.tsv', 'dist/Offline.wiki')
-convert('src/offline-old.tsv', 'dist/OfflineOld.wiki')
-convert('src/vm-iso.tsv', 'dist/VMs.wiki')
-convert('src/vm-iso-old.tsv', 'dist/VMsOld.wiki')
+convert('src/owasp-wiki/deprecated/online.tsv', 'dist/Online.wiki')
+convert('src/owasp-wiki/deprecated/offline.tsv', 'dist/Offline.wiki')
+convert('src/owasp-wiki/deprecated/offline-old.tsv', 'dist/OfflineOld.wiki')
+convert('src/owasp-wiki/deprecated/vm-iso.tsv', 'dist/VMs.wiki')
+convert('src/owasp-wiki/deprecated/vm-iso-old.tsv', 'dist/VMsOld.wiki')
