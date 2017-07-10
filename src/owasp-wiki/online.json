@@ -1,0 +1,152 @@
+[{
+		"URL": "http://testphp.vulnweb.com",
+		"Name": "Acuart",
+		"Technology": "PHP",
+		"Author": "Acunetix",
+		"Notes": "Art shopping"
+	}, {
+		"URL": "http://testaspnet.vulnweb.com/",
+		"Name": "Acublog",
+		"Technology": ".NET",
+		"Author": "Acunetix",
+		"Notes": "Blog"
+	}, {
+		"URL": "http://testasp.vulnweb.com/",
+		"Name": "Acuforum",
+		"Technology": "ASP",
+		"Author": "Acunetix",
+		"Notes": "Forum"
+	}, {
+		"URL": "http://demo.testfire.net/",
+		"Name": "Altoro Mutual",
+		"Technology": null,
+		"Author": "IBM/Watchfire",
+		"Notes": "(jsmith/Demo1234)"
+	}, {
+		"URL": "http://www.bgabank.com/",
+		"Name": "BGA Vulnerable BANK App",
+		"Technology": ".NET",
+		"Author": "BGA Security",
+		"Notes": null
+	}, {
+		"URL": "http://crackme.trustwave.com/",
+		"Name": "Crack Me Bank",
+		"Technology": null,
+		"Author": "Trustwave",
+		"Notes": null
+	}, {
+		"URL": "http://enigmagroup.org/",
+		"Name": "Enigma Group",
+		"Technology": null,
+		"Author": "Enigma Group",
+		"Notes": null
+	}, {
+		"URL": "http://google-gruyere.appspot.com/",
+		"Name": "Gruyere",
+		"Technology": "Python",
+		"Author": "Google",
+		"Notes": null
+	}, {
+		"URL": "https://public-firing-range.appspot.com/",
+		"Name": "Firing Range",
+		"Technology": null,
+		"Author": "Google",
+		"Notes": "[https://github.com/google/firing-range Source code"
+	}, {
+		"URL": "http://hackademic1.teilar.gr",
+		"Name": "Hackademic Challenges Project",
+		"Technology": "PHP - Joomla",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "http://pctechtips.org/hacker-challenge-pwn3d-the-login-form/",
+		"Name": "Hacker Challenge",
+		"Technology": null,
+		"Author": "PCTechtips",
+		"Notes": null
+	}, {
+		"URL": "http://hackazon.webscantest.com/",
+		"Name": "Hackazon",
+		"Technology": "AJAX, JSON, XML, GwT, AMF",
+		"Author": "NTObjectives",
+		"Notes": "[http://www.ntobjectives.com/hackazon/ Project page"
+	}, {
+		"URL": "https://www.hacking-lab.com/events/registerform.html?eventid=245",
+		"Name": "Hacking Lab",
+		"Technology": null,
+		"Author": "Hacking Lab",
+		"Notes": null
+	}, {
+		"URL": "https://hack.me",
+		"Name": "Hack.me",
+		"Technology": null,
+		"Author": "eLearnSecurity",
+		"Notes": "Beta"
+	}, {
+		"URL": "http://www.hackthissite.org",
+		"Name": "HackThisSite HackThisSite",
+		"Technology": "Basic & Realistic (web) Missions",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
+		"Name": "hackxor",
+		"Technology": null,
+		"Author": null,
+		"Notes": "First 2 levels online (algo/smurf), rest offline"
+	}, {
+		"URL": "https://juice-shop.herokuapp.com",
+		"Name": "Juice Shop",
+		"Technology": "Javascript",
+		"Author": "OWASP",
+		"Notes": "Demo instance. Do not use for massive attacks/scans!"
+	}, {
+		"URL": "http://aspnet.testsparker.com/",
+		"Name": "Netsparker Test App .NET",
+		"Technology": "ASP.NET",
+		"Author": "Netsparker",
+		"Notes": null
+	}, {
+		"URL": "http://php.testsparker.com/",
+		"Name": "Netsparker Test App PHP",
+		"Technology": "PHP",
+		"Author": "Netsparker",
+		"Notes": null
+	}, {
+		"URL": "http://pentesteracademylab.appspot.com",
+		"Name": "Pentester Academy",
+		"Technology": null,
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "http://testhtml5.vulnweb.com/",
+		"Name": "Security Tweets",
+		"Technology": null,
+		"Author": "Acunetix",
+		"Notes": "HTML5"
+	}, {
+		"URL": "http://vicnum.ciphertechs.com",
+		"Name": "Vicnum Project",
+		"Technology": "Perl & PHP",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "http://www.webscantest.com",
+		"Name": "Web Scanner Test Site",
+		"Technology": null,
+		"Author": "NTOSpider",
+		"Notes": "(testuser/testpass)"
+	}, {
+		"URL": "http://blasze.com/xsstestsuite/",
+		"Name": "XSS Test Suite",
+		"Technology": null,
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "http://zero.webappsecurity.com/",
+		"Name": "Zero Bank",
+		"Technology": null,
+		"Author": "HP/SpiDynamics",
+		"Notes": "(admin/admin)"
+	}
+]

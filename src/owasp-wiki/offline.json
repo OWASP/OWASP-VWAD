@@ -1,0 +1,300 @@
+[{
+		"URL": "http://www.badstore.net/",
+		"Name": "BadStore",
+		"Technology": "Perl(CGI)",
+		"References": null,
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/psiinon/bodgeit",
+		"Name": "BodgeIt Store ",
+		"Technology": "Java",
+		"References": "https://github.com/psiinon/bodgeit/releases/latest https://hub.docker.com/r/psiinon/bodgeit",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "http://sechow.com/bricks/index.html",
+		"Name": "Bricks",
+		"Technology": "PHP",
+		"References": "http://sechow.com/bricks/download.html http://sechow.com/bricks/docs/",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "http://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
+		"Name": "Butterfly Security Project",
+		"Technology": "PHP",
+		"References": "http://sourceforge.net/projects/thebutterflytmp/files/ ",
+		"Author": null,
+		"Notes": "Last updated in 2008"
+	}, {
+		"URL": "http://www.itsecgames.com/",
+		"Name": "bWAPP",
+		"Technology": "PHP",
+		"References": "http://sourceforge.net/projects/bwapp/files/ http://itsecgames.blogspot.be/2013/01/bwapp-installation.html",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/fridaygoldsmith/bwa_cyclone_transfers Cyclone Transfers ",
+		"Name": "Ruby on Rails",
+		"Technology": null,
+		"References": null,
+		"Author": null
+	}, {
+		"URL": "https://github.com/quantumfoam/DVNA/",
+		"Name": "Damn Vulnerable Node Application - DVNA",
+		"Technology": "Node.js",
+		"References": "https://github.com/quantumfoam/DVNA/",
+		"Author": "Claudio Lacayo",
+		"Notes": null
+	}, {
+		"URL": "http://www.dvwa.co.uk/",
+		"Name": "Damn Vulnerable Web Application - DVWA ",
+		"Technology": "PHP",
+		"References": "http://code.google.com/p/dvwa/downloads/list",
+		"Author": "RandomStorm",
+		"Notes": null
+	}, {
+		"URL": "http://dvws.secureideas.net/",
+		"Name": "Damn Vulnerable Web Services - DVWS ",
+		"Technology": "PHP",
+		"References": "http://dvws.secureideas.net/downloads/files/dvws.tgz",
+		"Author": "Secure Ideas",
+		"Notes": null
+	}, {
+		"URL": "http://google-gruyere.appspot.com/",
+		"Name": "Gruyere ",
+		"Technology": "Python",
+		"References": "http://google-gruyere.appspot.com/gruyere-code.zip",
+		"Author": "Google",
+		"Notes": null
+	}, {
+		"URL": "https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project",
+		"Name": "Hackademic Challenges Project ",
+		"Technology": "PHP",
+		"References": "https://code.google.com/p/owasp-hackademic-challenges/",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx",
+		"Name": "Hacme Bank - Android",
+		"Technology": null,
+		"References": null,
+		"Author": "McAfee / Foundstone",
+		"Notes": null
+	}, {
+		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
+		"Name": "Hacme Bank ",
+		"Technology": ".NET",
+		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-bank.aspx",
+		"Author": "McAfee / Foundstone",
+		"Notes": null
+	}, {
+		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx",
+		"Name": "Hacme Books ",
+		"Technology": "Java",
+		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmebooks.aspx",
+		"Author": "McAfee / Foundstone",
+		"Notes": null
+	}, {
+		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx",
+		"Name": "Hacme Casino ",
+		"Technology": "Ruby on Rails",
+		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-casino.aspx",
+		"Author": "McAfee / Foundstone",
+		"Notes": null
+	}, {
+		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx",
+		"Name": "Hacme Shipping ",
+		"Technology": "ColdFusion",
+		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmeshipping.aspx",
+		"Author": "McAfee / Foundstone",
+		"Notes": null
+	}, {
+		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx",
+		"Name": "Hacme Travel ",
+		"Technology": "C++",
+		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmetravel.aspx",
+		"Author": "McAfee / Foundstone",
+		"Notes": null
+	}, {
+		"URL": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
+		"Name": "hackxor",
+		"Technology": null,
+		"References": null,
+		"Author": null,
+		"Notes": "First 2 levels online, rest offline"
+	}, {
+		"URL": "https://www.owasp.org/index.php/OWASP_Juice_Shop_Project",
+		"Name": "Juice Shop",
+		"Technology": "Javascript",
+		"References": "https://github.com/bkimminich/juice-shop https://hub.docker.com/r/bkimminich/juice-shop/ https://www.gitbook.com/book/bkimminich/pwning-owasp-juice-shop",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "http://sourceforge.net/projects/lampsecurity/",
+		"Name": "LampSecurity",
+		"Technology": "PHP",
+		"References": null,
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",
+		"Name": "Mutillidae ",
+		"Technology": "PHP",
+		"References": "http://www.irongeek.com/mutillidae/",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/jerryhoff/WebGoat.NET",
+		"Name": ".NET Goat ",
+		"Technology": "C#",
+		"References": "https://github.com/jerryhoff/WebGoat.NET",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project NodeGoat ",
+		"Name": "Node.js",
+		"Technology": "https://github.com/OWASP/NodeGoat",
+		"References": "OWASP",
+		"Author": null
+	}, {
+		"URL": "http://peruggia.sourceforge.net/",
+		"Name": "Peruggia",
+		"Technology": "PHP",
+		"References": "http://sourceforge.net/projects/peruggia/files/",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://code.google.com/p/puzzlemall/",
+		"Name": "Puzzlemall",
+		"Technology": "Java",
+		"References": "https://code.google.com/p/puzzlemall/downloads/list https://code.google.com/p/puzzlemall/downloads/list",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://www.owasp.org/index.php/OWASP_Rails_Goat_Project",
+		"Name": "Rails Goat",
+		"Technology": "Ruby on Rails",
+		"References": "https://github.com/OWASP/railsgoat/archive/master.zip http://railsgoat.cktricky.com/getting_started.html",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "http://suif.stanford.edu/%7Elivshits/securibench/",
+		"Name": "SecuriBench",
+		"Technology": "Java",
+		"References": null,
+		"Author": "Stanford",
+		"Notes": null
+	}, {
+		"URL": "http://suif.stanford.edu/%7Elivshits/work/securibench-micro/",
+		"Name": "SecuriBench Micro",
+		"Technology": "Java",
+		"References": "http://suif.stanford.edu/~livshits/securibench/download.html",
+		"Author": "Stanford",
+		"Notes": null
+	}, {
+		"URL": "https://www.owasp.org/index.php/OWASP_Security_Shepherd",
+		"Name": "Security Shepherd",
+		"Technology": "Java",
+		"References": "https://sourceforge.net/projects/owaspshepherd/",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "https://github.com/sqlmapproject/testenv",
+		"Name": "SQL injection test environment",
+		"Technology": "PHP",
+		"References": null,
+		"Author": null,
+		"Notes": "SQLmap Project"
+	}, {
+		"URL": "https://github.com/Audi-1/sqli-labs",
+		"Name": "SQLI-labs",
+		"Technology": "PHP",
+		"References": "https://github.com/Audi-1/sqli-labs/archive/master.zip http://dummy2dummies.blogspot.com/",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/SpiderLabs/SQLol",
+		"Name": "SQLol",
+		"Technology": "PHP",
+		"References": "https://github.com/SpiderLabs/SQLol/archive/master.zip",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/dhatanian/ticketmagpie",
+		"Name": "TicketMagpie",
+		"Technology": "Java",
+		"References": "https://github.com/dhatanian/ticketmagpie",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/sakti/twitterlike",
+		"Name": "twitterlike",
+		"Technology": "PHP",
+		"References": "https://github.com/sakti/twitterlike ",
+		"Author": "Sakti Dwi Cahyono"
+	}, {
+		"URL": "https://github.com/mattvaldes/vulnerable-api",
+		"Name": "vulnerable-api",
+		"Technology": "Python",
+		"References": "https://github.com/mattvaldes/vulnerable-api ",
+		"Author": "Matthew Valdes",
+		"Notes": null
+	}, {
+		"URL": "http://www.nth-dimension.org.uk/blog.php?id=88",
+		"Name": "VulnApp",
+		"Technology": ".NET",
+		"References": "http://projects.nth-dimension.org.uk/dir?d=VulnApp http://projects.nth-dimension.org.uk/rptview?rn=6",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/",
+		"Name": "Vulnerable Web App",
+		"Technology": null,
+		"References": null,
+		"Author": "Exploit.co.il",
+		"Notes": null
+	}, {
+		"URL": "https://github.com/adamdoupe/WackoPicko",
+		"Name": "WackoPicko",
+		"Technology": "PHP",
+		"References": "https://github.com/adamdoupe/WackoPicko/zipball/master http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/sectooladdict/wavsep",
+		"Name": "WAVSEP - Web Application Vulnerability Scanner Evaluation Project",
+		"Technology": "Java",
+		"References": "https://sourceforge.net/projects/wavsep/ https://code.google.com/p/wavsep/downloads/list https://github.com/sectooladdict/wavsep/wiki",
+		"Author": "Shay Chen",
+		"Notes": null
+	}, {
+		"URL": "https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project",
+		"Name": "WebGoat",
+		"Technology": "Java",
+		"References": "http://code.google.com/p/webgoat/downloads/list https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "https://www.owasp.org/index.php/WebGoatPHP",
+		"Name": "WebGoatPHP",
+		"Technology": "PHP",
+		"References": "https://github.com/OWASP/OWASPWebGoatPHP download https://github.com/OWASP/OWASPWebGoatPHP/blob/master/README.md",
+		"Author": "OWASP",
+		"Notes": null
+	}, {
+		"URL": "https://code.google.com/p/wivet/",
+		"Name": "WIVET- Web Input Vector Extractor Teaser",
+		"Technology": null,
+		"References": "http://www.webguvenligi.org/projeler/wivet https://code.google.com/p/wivet/downloads/list?can=1&q=",
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/s4n7h0/xvwa",
+		"Name": "Xtreme Vulnerable Web Application (XVWA)",
+		"Technology": "PHP/MySQL",
+		"References": "https://github.com/s4n7h0/xvwa",
+		"Author": "@s4n7h0, @samanL33T",
+		"Notes": null
+	}
+]
