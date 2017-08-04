@@ -2,7 +2,11 @@
 
 The OWASP Vulnerable Web Applications Directory Project (VWAD, https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.
 
-The raw data for the project is held in the `src/*.tsv` files.
+**Note**: The data format of the collection files is currently being changed. The project is moving away from tsv to JSON.
+New JSON files are in place and should be updated when adding new projects/content. The *.tsv files have been deprecated. 
+
+The new raw data for the project is held in the `/src/owasp-wiki/*.json` files. The deprecated tsv files are located in
+`/src/owasp-wiki/deprecated/*.tsv`.
 
 The full OWASP wiki source code is available at https://www.owasp.org/index.php?title=OWASP_Vulnerable_Web_Applications_Directory_Project&action=edit.
 
