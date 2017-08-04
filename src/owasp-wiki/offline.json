@@ -152,11 +152,19 @@
 		"Author": "OWASP",
 		"Notes": null
 	}, {
-		"URL": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project NodeGoat ",
-		"Name": "Node.js",
-		"Technology": "https://github.com/OWASP/NodeGoat",
+		"URL": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project",
+		"Name": "NodeGoat",
+		"Technology": "Node.js",
 		"References": "OWASP",
-		"Author": null
+		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://digi.ninja/projects/nosqli_lab.php",
+		"Name": "NoSQL Injection Lab",
+		"Technology": "PHP/Mongo",
+		"References": "https://github.com/digininja/nosqlilab",
+		"Author": "@digininja",
+		"Notes": null
 	}, {
 		"URL": "http://peruggia.sourceforge.net/",
 		"Name": "Peruggia",
