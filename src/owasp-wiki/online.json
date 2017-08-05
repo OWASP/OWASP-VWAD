@@ -89,6 +89,12 @@
 		"Author": null,
 		"Notes": null
 	}, {
+		"URL": " https://www.hackthis.co.uk/",
+		"Name": "HackThis",
+		"Technology": "PHP",
+		"Author": "Luke Ward (0x6C77)",
+		"Notes": "Github repo: https://github.com/HackThis/hackthis.co.uk"
+	}, {
 		"URL": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
 		"Name": "hackxor",
 		"Technology": null,
