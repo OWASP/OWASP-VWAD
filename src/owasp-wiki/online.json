@@ -131,6 +131,12 @@
 		"Author": "Acunetix",
 		"Notes": "HTML5"
 	}, {
+		"URL": "http://racetheweb.io/bank",
+		"Name": "Race The Web",
+		"Technology": null,
+		"Author": "insp3ctre",
+		"Notes": "https://github.com/insp3ctre/race-the-web"
+	}, {
 		"URL": "http://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest",
 		"Name": "Solyd - Introdução ao Hacking e Pentest",
 		"Technology": "PHP & Linux",

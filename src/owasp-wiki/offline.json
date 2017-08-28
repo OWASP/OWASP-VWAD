@@ -256,6 +256,13 @@
 		"Author": null,
 		"Notes": null
 	}, {
+		"URL": "https://github.com/mddanish/Vulnerable-OTP-Application",
+		"Name": "Vulnerable OTP App",
+		"Technology": "PHP & Google OTP",
+		"References": null,
+		"Author": "mddanish",
+		"Notes": null
+	}, {
 		"URL": "http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/",
 		"Name": "Vulnerable Web App",
 		"Technology": null,
