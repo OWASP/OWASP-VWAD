@@ -104,6 +104,13 @@
 		"Author": null,
 		"Notes": null
 	}, {
+		"URL": "https://hub.docker.com/r/deadrobots/pixi/",
+		"Name": "Pixi (OWASP)",
+		"Technology": "Docker - MEAN Stack",
+		"References": "https://github.com/thedeadrobots/pixi https://www.slideshare.net/TanyaJanca/api-and-web-service-hacking-with-pixi-part-of-owasp-devslop https://www.youtube.com/watch?v=td-2rN4PgRw",
+		"Author": "thedeadrobots",
+		"Notes": null,
+	}, {
 		"URL": "http://www.samurai-wtf.org/",
 		"Name": "Samurai WTF",
 		"Technology": "ISO - list",
