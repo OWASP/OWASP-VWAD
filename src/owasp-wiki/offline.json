@@ -34,6 +34,12 @@
 		"Author": null,
 		"Notes": null
 	}, {
+		"URL": "https://github.com/SpiderLabs/CryptOMG",
+		"Name": "CryptOMG",
+		"Technology": "PHP",
+		"References": "https://isc.sans.edu/forums/diary/Modern+Web+Application+Penetration+Testing+Hash+Length+Extension+Attacks/22792/",
+		"Author": "SpiderLabs"
+	}, {
 		"URL": "https://github.com/fridaygoldsmith/bwa_cyclone_transfers Cyclone Transfers ",
 		"Name": "Ruby on Rails",
 		"Technology": null,
@@ -45,6 +51,13 @@
 		"Technology": "Node.js",
 		"References": "https://github.com/quantumfoam/DVNA/",
 		"Author": "Claudio Lacayo",
+		"Notes": null
+	}, {
+		"URL": "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
+		"Name": "Damn Vulnerable Stateful WebApp",
+		"Technology": "PHP",
+		"References": "https://www.sans.org/reading-room/whitepapers/testing/testing-stateful-web-application-workflows-36637",
+		"Author": "dnet",
 		"Notes": null
 	}, {
 		"URL": "http://www.dvwa.co.uk/",
