@@ -7,10 +7,10 @@
 		"Notes": null
 	}, {
 		"URL": "https://github.com/psiinon/bodgeit",
-		"Name": "BodgeIt Store ",
+		"Name": "BodgeIt Store",
 		"Technology": "Java",
 		"References": "https://github.com/psiinon/bodgeit/releases/latest https://hub.docker.com/r/psiinon/bodgeit",
-		"Author": null,
+		"Author": Simon Bennetts (psiinon),
 		"Notes": null
 	}, {
 		"URL": "http://sechow.com/bricks/index.html",
@@ -23,7 +23,7 @@
 		"URL": "http://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
 		"Name": "Butterfly Security Project",
 		"Technology": "PHP",
-		"References": "http://sourceforge.net/projects/thebutterflytmp/files/ ",
+		"References": "http://sourceforge.net/projects/thebutterflytmp/files/",
 		"Author": null,
 		"Notes": "Last updated in 2008"
 	}, {
@@ -40,9 +40,9 @@
 		"References": "https://isc.sans.edu/forums/diary/Modern+Web+Application+Penetration+Testing+Hash+Length+Extension+Attacks/22792/",
 		"Author": "SpiderLabs"
 	}, {
-		"URL": "https://github.com/fridaygoldsmith/bwa_cyclone_transfers Cyclone Transfers ",
-		"Name": "Ruby on Rails",
-		"Technology": null,
+		"URL": "https://github.com/fridaygoldsmith/bwa_cyclone_transfers",
+		"Name": "Cyclone Transfers",
+		"Technology": "Ruby on Rails",
 		"References": null,
 		"Author": null
 	}, {
@@ -61,28 +61,28 @@
 		"Notes": null
 	}, {
 		"URL": "http://www.dvwa.co.uk/",
-		"Name": "Damn Vulnerable Web Application - DVWA ",
+		"Name": "Damn Vulnerable Web Application - DVWA",
 		"Technology": "PHP",
 		"References": "http://code.google.com/p/dvwa/downloads/list",
 		"Author": "RandomStorm",
 		"Notes": null
 	}, {
 		"URL": "http://dvws.secureideas.net/",
-		"Name": "Damn Vulnerable Web Services - DVWS ",
+		"Name": "Damn Vulnerable Web Services - DVWS",
 		"Technology": "PHP",
 		"References": "http://dvws.secureideas.net/downloads/files/dvws.tgz",
 		"Author": "Secure Ideas",
 		"Notes": null
 	}, {
 		"URL": "http://google-gruyere.appspot.com/",
-		"Name": "Gruyere ",
+		"Name": "Gruyere",
 		"Technology": "Python",
 		"References": "http://google-gruyere.appspot.com/gruyere-code.zip",
 		"Author": "Google",
 		"Notes": null
 	}, {
 		"URL": "https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project",
-		"Name": "Hackademic Challenges Project ",
+		"Name": "Hackademic Challenges Project",
 		"Technology": "PHP",
 		"References": "https://code.google.com/p/owasp-hackademic-challenges/",
 		"Author": "OWASP",
@@ -96,35 +96,35 @@
 		"Notes": null
 	}, {
 		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
-		"Name": "Hacme Bank ",
+		"Name": "Hacme Bank",
 		"Technology": ".NET",
 		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-bank.aspx",
 		"Author": "McAfee / Foundstone",
 		"Notes": null
 	}, {
 		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx",
-		"Name": "Hacme Books ",
+		"Name": "Hacme Books",
 		"Technology": "Java",
 		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmebooks.aspx",
 		"Author": "McAfee / Foundstone",
 		"Notes": null
 	}, {
 		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx",
-		"Name": "Hacme Casino ",
+		"Name": "Hacme Casino",
 		"Technology": "Ruby on Rails",
 		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-casino.aspx",
 		"Author": "McAfee / Foundstone",
 		"Notes": null
 	}, {
 		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx",
-		"Name": "Hacme Shipping ",
+		"Name": "Hacme Shipping",
 		"Technology": "ColdFusion",
 		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmeshipping.aspx",
 		"Author": "McAfee / Foundstone",
 		"Notes": null
 	}, {
 		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx",
-		"Name": "Hacme Travel ",
+		"Name": "Hacme Travel",
 		"Technology": "C++",
 		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmetravel.aspx",
 		"Author": "McAfee / Foundstone",
@@ -152,14 +152,14 @@
 		"Notes": null
 	}, {
 		"URL": "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",
-		"Name": "Mutillidae ",
+		"Name": "Mutillidae",
 		"Technology": "PHP",
 		"References": "http://www.irongeek.com/mutillidae/",
 		"Author": null,
 		"Notes": null
 	}, {
 		"URL": "https://github.com/jerryhoff/WebGoat.NET",
-		"Name": ".NET Goat ",
+		"Name": ".NET Goat",
 		"Technology": "C#",
 		"References": "https://github.com/jerryhoff/WebGoat.NET",
 		"Author": "OWASP",
@@ -168,8 +168,8 @@
 		"URL": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project",
 		"Name": "NodeGoat",
 		"Technology": "Node.js",
-		"References": "OWASP",
-		"Author": null,
+		"References": null,
+		"Author": "OWASP",
 		"Notes": null
 	}, {
 		"URL": "https://digi.ninja/projects/nosqli_lab.php",
@@ -252,13 +252,13 @@
 		"URL": "https://github.com/sakti/twitterlike",
 		"Name": "twitterlike",
 		"Technology": "PHP",
-		"References": "https://github.com/sakti/twitterlike ",
+		"References": "https://github.com/sakti/twitterlike",
 		"Author": "Sakti Dwi Cahyono"
 	}, {
 		"URL": "https://github.com/mattvaldes/vulnerable-api",
 		"Name": "vulnerable-api",
 		"Technology": "Python",
-		"References": "https://github.com/mattvaldes/vulnerable-api ",
+		"References": "https://github.com/mattvaldes/vulnerable-api",
 		"Author": "Matthew Valdes",
 		"Notes": null
 	}, {
