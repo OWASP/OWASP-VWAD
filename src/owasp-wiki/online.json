@@ -101,6 +101,12 @@
 		"Author": null,
 		"Notes": "First 2 levels online (algo/smurf), rest offline"
 	}, {
+		"URL": "http://hackyourselffirst.troyhunt.com/",
+		"Name": "HackYourselfFirst",
+		"Technology": null,
+		"Author": "Troy Hunt",
+		"Notes": "https://www.troyhunt.com/hack-yourself-first-how-to-go-on/"
+	}, {
 		"URL": "https://juice-shop.herokuapp.com",
 		"Name": "Juice Shop",
 		"Technology": "Javascript",
