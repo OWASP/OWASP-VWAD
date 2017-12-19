@@ -172,6 +172,13 @@
 		"Author": "OWASP",
 		"Notes": null
 	}, {
+		"URL": "https://github.com/cr0hn/vulnerable-node",
+		"Name": "NodeVulnerable",
+		"Technology": "Node.js",
+		"References": null,
+		"Author": "cr0hn",
+		"Notes": null
+	}, {
 		"URL": "https://digi.ninja/projects/nosqli_lab.php",
 		"Name": "NoSQL Injection Lab",
 		"Technology": "PHP/Mongo",
