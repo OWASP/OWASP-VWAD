@@ -338,5 +338,12 @@
 		"References": "https://github.com/appsecco/dvna",
 		"Author": "@appsecco",
 		"Notes": "Seperate project from other DV node apps"
+	}, {
+		"URL": "https://github.com/interference-security/DVWS",
+		"Name": "Damn VulnerableWeb Sockets",
+		"Technology": "Web Sockets",
+		"References": "https://github.com/interference-security/DVWS",
+		"Author": "@appsecco",
+		"Notes": null
 	}
 ]
