@@ -10,7 +10,7 @@
 		"Name": "BodgeIt Store",
 		"Technology": "Java",
 		"References": "https://github.com/psiinon/bodgeit/releases/latest https://hub.docker.com/r/psiinon/bodgeit",
-		"Author": Simon Bennetts (psiinon),
+		"Author": "Simon Bennetts (psiinon)",
 		"Notes": null
 	}, {
 		"URL": "http://sechow.com/bricks/index.html",
@@ -331,5 +331,12 @@
 		"References": "https://github.com/s4n7h0/xvwa",
 		"Author": "@s4n7h0, @samanL33T",
 		"Notes": null
+	}, {
+		"URL": "https://github.com/appsecco/dvna",
+		"Name": "Damn Vulnerable NodeJS Application",
+		"Technology": "NodeJS",
+		"References": "https://github.com/appsecco/dvna",
+		"Author": "@appsecco",
+		"Notes": "Seperate project from other DV node apps"
 	}
 ]
