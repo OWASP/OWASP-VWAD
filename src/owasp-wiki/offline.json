@@ -352,5 +352,12 @@
 		"References": "https://github.com/snoopysecurity/dvws",
 		"Author": "snoopysecurity",
 		"Notes": null
+	}, {
+		"URL": "https://github.com/vegabird/xvna",
+		"Name": "Extreme Vulnerable Node Application",
+		"Technology": "NodeJS",
+		"References": "https://www.vegabird.com/xvna-setup/",
+		"Author": "vegabird",
+		"Notes": null
 	}
 ]
