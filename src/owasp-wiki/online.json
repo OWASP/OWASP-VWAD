@@ -172,5 +172,11 @@
 		"Technology": null,
 		"Author": "HP/SpiDynamics",
 		"Notes": "(admin/admin)"
+	 }, {
+		"URL": "https://www.hackthebox.eu/",
+		"Name": "Hack the Box",
+		"Technology": null,
+		"Author": "Hack the Box",
+		"Notes": null,
 	}
 ]
