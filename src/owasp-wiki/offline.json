@@ -49,7 +49,7 @@
 		"URL": "https://github.com/LunaM00n/File-Upload-Lab",
 		"Name": "Damn Vulnerable File Upload - DVFU",
 		"Technology": "PHP",
-		"References": "null,
+		"References": null,
 		"Author": "Thin Ba Shane (@art0flunam00n)",
 		"Notes": null
 	}, {
