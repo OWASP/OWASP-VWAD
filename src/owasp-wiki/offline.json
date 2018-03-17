@@ -186,6 +186,13 @@
 		"Author": null,
 		"Notes": null
 	}, {
+		"URL": "https://github.com/SpiderLabs/MCIR",
+		"Name": "Magical Code Injection Rainbow - MCIR",
+		"Technology": "PHP",
+		"References": null,
+		"Author": "SpiderLabs",
+		"Notes": null
+	}, {
 		"URL": "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",
 		"Name": "Mutillidae",
 		"Technology": "PHP",
@@ -309,6 +316,13 @@
 		"Technology": ".NET",
 		"References": "http://projects.nth-dimension.org.uk/dir?d=VulnApp http://projects.nth-dimension.org.uk/rptview?rn=6",
 		"Author": null,
+		"Notes": null
+	}, {
+		"URL": "https://github.com/CSPF-Founder/JavaVulnerableLab/",
+		"Name": "Vulnerable Java Web Application",
+		"Technology": "Java",
+		"References": null,
+		"Author": "Cyber Security and Privacy Foundation",
 		"Notes": null
 	}, {
 		"URL": "https://github.com/mddanish/Vulnerable-OTP-Application",
