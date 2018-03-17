@@ -10,7 +10,7 @@
 		"Name": "BodgeIt Store",
 		"Technology": "Java",
 		"References": "https://github.com/psiinon/bodgeit/releases/latest https://hub.docker.com/r/psiinon/bodgeit",
-		"Author": Simon Bennetts (psiinon),
+		"Author": "Simon Bennetts (psiinon)",
 		"Notes": null
 	}, {
 		"URL": "http://sechow.com/bricks/index.html",
@@ -46,12 +46,26 @@
 		"References": null,
 		"Author": null
 	}, {
-		"URL": "https://github.com/quantumfoam/DVNA/",
+		"URL": "https://github.com/LunaM00n/File-Upload-Lab",
+		"Name": "Damn Vulnerable File Upload - DVFU",
+		"Technology": "PHP",
+		"References": "null,
+		"Author": "Thin Ba Shane (@art0flunam00n)",
+		"Notes": null
+	}, {
+		"URL": "https://github.com/isp1r0/DVNA",
 		"Name": "Damn Vulnerable Node Application - DVNA",
 		"Technology": "Node.js",
-		"References": "https://github.com/quantumfoam/DVNA/",
+		"References": null,
 		"Author": "Claudio Lacayo",
 		"Notes": null
+	}, {
+		"URL": "https://github.com/appsecco/dvna",
+		"Name": "Damn Vulnerable NodeJS Application - DVNA",
+		"Technology": "Node.js",
+		"References": null,
+		"Author": "@appsecco",
+		"Notes": "Different project from the old DVNA"
 	}, {
 		"URL": "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
 		"Name": "Damn Vulnerable Stateful WebApp",
@@ -72,6 +86,27 @@
 		"Technology": "PHP",
 		"References": "http://dvws.secureideas.net/downloads/files/dvws.tgz",
 		"Author": "Secure Ideas",
+		"Notes": null
+	}, {
+		"URL": "https://github.com/snoopysecurity/dvws",
+		"Name": "Damn Vulnerable Web Services",
+		"Technology": "Web Services",
+		"References": null,
+		"Author": "snoopysecurity",
+		"Notes": null
+	}, {
+		"URL": "https://github.com/interference-security/DVWS",
+		"Name": "Damn Vulnerable Web Sockets",
+		"Technology": "Web Sockets",
+		"References": null,
+		"Author": "@appsecco",
+		"Notes": null
+	}, {
+		"URL": "https://github.com/vegabird/xvna",
+		"Name": "Extreme Vulnerable Node Application",
+		"Technology": "NodeJS",
+		"References": "https://www.vegabird.com/xvna-setup/",
+		"Author": "vegabird",
 		"Notes": null
 	}, {
 		"URL": "http://google-gruyere.appspot.com/",
