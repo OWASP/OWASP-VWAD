@@ -152,5 +152,12 @@
 		"References": "http://sourceforge.net/projects/xxe/files/",
 		"Author": null,
 		"Notes": null
+	}, {
+		"URL": "https://pentesterlab.com/",
+		"Name": "PentesterLab",
+		"Technology": "VMware, VirtualBox",
+		"References": "https://pentesterlab.com/exercises/",
+		"Author": "Louis Nyffenegger",
+		"Notes": null
 	}
 ]
