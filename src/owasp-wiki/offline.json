@@ -380,5 +380,12 @@
 		"References": "https://github.com/s4n7h0/xvwa",
 		"Author": "@s4n7h0, @samanL33T",
 		"Notes": null
+	}, {
+		"URL": "https://github.com/payatu/Tiredful-API",
+		"Name": "Tiredful API",
+		"Technology": "Python & Django",
+		"References": "https://github.com/payatu/Tiredful-API",
+		"Author": "@payatu",
+		"Notes": null
 	}
 ]
