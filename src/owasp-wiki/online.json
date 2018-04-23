@@ -158,7 +158,7 @@
 		"URL": "http://www.webscantest.com",
 		"Name": "Web Scanner Test Site",
 		"Technology": null,
-		"Author": "NTOSpider",
+		"Author": "Rapid7 appspider (was NTOSpider)",
 		"Notes": "(testuser/testpass)"
 	}, {
 		"URL": "http://blasze.com/xsstestsuite/",
