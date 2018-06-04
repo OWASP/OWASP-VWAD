@@ -13,11 +13,11 @@
 		"Author": null,
 		"Notes": null,
 	}, {
-		"URL": "http://code.google.com/p/owaspbwa/wiki/ProjectSummary",
-		"Name": "Broken Web Applications Project (BWA)",
+		"URL": "https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project",
+		"Name": "(OWASP) Broken Web Applications Project (BWA)",
 		"Technology": "VMware",
-		"References": "http://code.google.com/p/owaspbwa/wiki/Downloads",
-		"Author": "OWASP",
+		"References": "https://github.com/chuckfw/owaspbwa/ https://sourceforge.net/projects/owaspbwa/files/",
+		"Author": "OWASP - Chuck Willis",
 		"Notes": null,
 	}, {
 		"URL": "https://bechtsoudis.com/work-stuff/challenges/drunk-admin-web-hacking-challenge/",
