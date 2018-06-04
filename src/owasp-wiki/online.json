@@ -95,11 +95,11 @@
 		"Author": "Luke Ward (0x6C77)",
 		"Notes": "Github repo: https://github.com/HackThis/hackthis.co.uk"
 	}, {
-		"URL": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
+		"URL": "https://hackxor.net",
 		"Name": "hackxor",
 		"Technology": null,
-		"Author": null,
-		"Notes": "First 2 levels online (algo/smurf), rest offline"
+		"Author": "albinowax",
+		"Notes": "Web application hacking game via missions, based on real vulnerabilities."
 	}, {
 		"URL": "http://hackyourselffirst.troyhunt.com/",
 		"Name": "HackYourselfFirst",
