@@ -1,391 +1,795 @@
-[{
-		"URL": "http://www.badstore.net/",
-		"Name": "BadStore",
-		"Technology": "Perl(CGI)",
-		"References": null,
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/psiinon/bodgeit",
-		"Name": "BodgeIt Store",
-		"Technology": "Java",
-		"References": "https://github.com/psiinon/bodgeit/releases/latest https://hub.docker.com/r/psiinon/bodgeit",
-		"Author": "Simon Bennetts (psiinon)",
-		"Notes": null
-	}, {
-		"URL": "http://sechow.com/bricks/index.html",
-		"Name": "Bricks",
-		"Technology": "PHP",
-		"References": "http://sechow.com/bricks/download.html http://sechow.com/bricks/docs/",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "http://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
-		"Name": "Butterfly Security Project",
-		"Technology": "PHP",
-		"References": "http://sourceforge.net/projects/thebutterflytmp/files/",
-		"Author": null,
-		"Notes": "Last updated in 2008"
-	}, {
-		"URL": "http://www.itsecgames.com/",
-		"Name": "bWAPP",
-		"Technology": "PHP",
-		"References": "http://sourceforge.net/projects/bwapp/files/ http://itsecgames.blogspot.be/2013/01/bwapp-installation.html",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/SpiderLabs/CryptOMG",
-		"Name": "CryptOMG",
-		"Technology": "PHP",
-		"References": "https://isc.sans.edu/forums/diary/Modern+Web+Application+Penetration+Testing+Hash+Length+Extension+Attacks/22792/",
-		"Author": "SpiderLabs"
-	}, {
-		"URL": "https://github.com/fridaygoldsmith/bwa_cyclone_transfers",
-		"Name": "Cyclone Transfers",
-		"Technology": "Ruby on Rails",
-		"References": null,
-		"Author": null
-	}, {
-		"URL": "https://github.com/LunaM00n/File-Upload-Lab",
-		"Name": "Damn Vulnerable File Upload - DVFU",
-		"Technology": "PHP",
-		"References": null,
-		"Author": "Thin Ba Shane (@art0flunam00n)",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/isp1r0/DVNA",
-		"Name": "Damn Vulnerable Node Application - DVNA",
-		"Technology": "Node.js",
-		"References": null,
-		"Author": "Claudio Lacayo",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/appsecco/dvna",
-		"Name": "Damn Vulnerable NodeJS Application - DVNA",
-		"Technology": "Node.js",
-		"References": null,
-		"Author": "@appsecco",
-		"Notes": "Different project from the old DVNA"
-	}, {
-		"URL": "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
-		"Name": "Damn Vulnerable Stateful WebApp",
-		"Technology": "PHP",
-		"References": "https://www.sans.org/reading-room/whitepapers/testing/testing-stateful-web-application-workflows-36637",
-		"Author": "dnet",
-		"Notes": null
-	}, {
-		"URL": "http://www.dvwa.co.uk/",
-		"Name": "Damn Vulnerable Web Application - DVWA",
-		"Technology": "PHP",
-		"References": "http://code.google.com/p/dvwa/downloads/list",
-		"Author": "RandomStorm",
-		"Notes": null
-	}, {
-		"URL": "http://dvws.secureideas.net/",
-		"Name": "Damn Vulnerable Web Services - DVWS",
-		"Technology": "PHP",
-		"References": "http://dvws.secureideas.net/downloads/files/dvws.tgz",
-		"Author": "Secure Ideas",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/snoopysecurity/dvws",
-		"Name": "Damn Vulnerable Web Services",
-		"Technology": "Web Services",
-		"References": null,
-		"Author": "snoopysecurity",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/interference-security/DVWS",
-		"Name": "Damn Vulnerable Web Sockets",
-		"Technology": "Web Sockets",
-		"References": null,
-		"Author": "@appsecco",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/vegabird/xvna",
-		"Name": "Extreme Vulnerable Node Application",
-		"Technology": "NodeJS",
-		"References": "https://www.vegabird.com/xvna-setup/",
-		"Author": "vegabird",
-		"Notes": null
-	}, {
-		"URL": "http://google-gruyere.appspot.com/",
-		"Name": "Gruyere",
-		"Technology": "Python",
-		"References": "http://google-gruyere.appspot.com/gruyere-code.zip",
-		"Author": "Google",
-		"Notes": null
-	}, {
-		"URL": "https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project",
-		"Name": "Hackademic Challenges Project",
-		"Technology": "PHP",
-		"References": "https://code.google.com/p/owasp-hackademic-challenges/",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx",
-		"Name": "Hacme Bank - Android",
-		"Technology": null,
-		"References": null,
-		"Author": "McAfee / Foundstone",
-		"Notes": null
-	}, {
-		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
-		"Name": "Hacme Bank",
-		"Technology": ".NET",
-		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-bank.aspx",
-		"Author": "McAfee / Foundstone",
-		"Notes": null
-	}, {
-		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx",
-		"Name": "Hacme Books",
-		"Technology": "Java",
-		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmebooks.aspx",
-		"Author": "McAfee / Foundstone",
-		"Notes": null
-	}, {
-		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx",
-		"Name": "Hacme Casino",
-		"Technology": "Ruby on Rails",
-		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-casino.aspx",
-		"Author": "McAfee / Foundstone",
-		"Notes": null
-	}, {
-		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx",
-		"Name": "Hacme Shipping",
-		"Technology": "ColdFusion",
-		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmeshipping.aspx",
-		"Author": "McAfee / Foundstone",
-		"Notes": null
-	}, {
-		"URL": "http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx",
-		"Name": "Hacme Travel",
-		"Technology": "C++",
-		"References": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmetravel.aspx",
-		"Author": "McAfee / Foundstone",
-		"Notes": null
-	}, {
-		"URL": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
-		"Name": "hackxor",
-		"Technology": null,
-		"References": null,
-		"Author": null,
-		"Notes": "First 2 levels online, rest offline"
-	}, {
-		"URL": "https://www.owasp.org/index.php/OWASP_Juice_Shop_Project",
-		"Name": "Juice Shop",
-		"Technology": "Javascript",
-		"References": "https://github.com/bkimminich/juice-shop https://hub.docker.com/r/bkimminich/juice-shop/ https://www.gitbook.com/book/bkimminich/pwning-owasp-juice-shop",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "http://sourceforge.net/projects/lampsecurity/",
-		"Name": "LampSecurity",
-		"Technology": "PHP",
-		"References": null,
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/SpiderLabs/MCIR",
-		"Name": "Magical Code Injection Rainbow - MCIR",
-		"Technology": "PHP",
-		"References": null,
-		"Author": "SpiderLabs",
-		"Notes": null
-	}, {
-		"URL": "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",
-		"Name": "Mutillidae",
-		"Technology": "PHP",
-		"References": "http://www.irongeek.com/mutillidae/",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/jerryhoff/WebGoat.NET",
-		"Name": ".NET Goat",
-		"Technology": "C#",
-		"References": "https://github.com/jerryhoff/WebGoat.NET",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project",
-		"Name": "NodeGoat",
-		"Technology": "Node.js",
-		"References": null,
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/cr0hn/vulnerable-node",
-		"Name": "NodeVulnerable",
-		"Technology": "Node.js",
-		"References": null,
-		"Author": "cr0hn",
-		"Notes": null
-	}, {
-		"URL": "https://digi.ninja/projects/nosqli_lab.php",
-		"Name": "NoSQL Injection Lab",
-		"Technology": "PHP/Mongo",
-		"References": "https://github.com/digininja/nosqlilab",
-		"Author": "@digininja",
-		"Notes": null
-	}, {
-		"URL": "http://peruggia.sourceforge.net/",
-		"Name": "Peruggia",
-		"Technology": "PHP",
-		"References": "http://sourceforge.net/projects/peruggia/files/",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://code.google.com/p/puzzlemall/",
-		"Name": "Puzzlemall",
-		"Technology": "Java",
-		"References": "https://code.google.com/p/puzzlemall/downloads/list https://code.google.com/p/puzzlemall/downloads/list",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://www.owasp.org/index.php/OWASP_Rails_Goat_Project",
-		"Name": "Rails Goat",
-		"Technology": "Ruby on Rails",
-		"References": "https://github.com/OWASP/railsgoat/archive/master.zip http://railsgoat.cktricky.com/getting_started.html",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "http://suif.stanford.edu/%7Elivshits/securibench/",
-		"Name": "SecuriBench",
-		"Technology": "Java",
-		"References": null,
-		"Author": "Stanford",
-		"Notes": null
-	}, {
-		"URL": "http://suif.stanford.edu/%7Elivshits/work/securibench-micro/",
-		"Name": "SecuriBench Micro",
-		"Technology": "Java",
-		"References": "http://suif.stanford.edu/~livshits/securibench/download.html",
-		"Author": "Stanford",
-		"Notes": null
-	}, {
-		"URL": "https://www.owasp.org/index.php/OWASP_Security_Shepherd",
-		"Name": "Security Shepherd",
-		"Technology": "Java",
-		"References": "https://sourceforge.net/projects/owaspshepherd/",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/sqlmapproject/testenv",
-		"Name": "SQL injection test environment",
-		"Technology": "PHP",
-		"References": null,
-		"Author": null,
-		"Notes": "SQLmap Project"
-	}, {
-		"URL": "https://github.com/Audi-1/sqli-labs",
-		"Name": "SQLI-labs",
-		"Technology": "PHP",
-		"References": "https://github.com/Audi-1/sqli-labs/archive/master.zip http://dummy2dummies.blogspot.com/",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/SpiderLabs/SQLol",
-		"Name": "SQLol",
-		"Technology": "PHP",
-		"References": "https://github.com/SpiderLabs/SQLol/archive/master.zip",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/dhatanian/ticketmagpie",
-		"Name": "TicketMagpie",
-		"Technology": "Java",
-		"References": "https://github.com/dhatanian/ticketmagpie",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/sakti/twitterlike",
-		"Name": "twitterlike",
-		"Technology": "PHP",
-		"References": "https://github.com/sakti/twitterlike",
-		"Author": "Sakti Dwi Cahyono"
-	}, {
-		"URL": "https://github.com/mattvaldes/vulnerable-api",
-		"Name": "vulnerable-api",
-		"Technology": "Python",
-		"References": "https://github.com/mattvaldes/vulnerable-api",
-		"Author": "Matthew Valdes",
-		"Notes": null
-	}, {
-		"URL": "http://www.nth-dimension.org.uk/blog.php?id=88",
-		"Name": "VulnApp",
-		"Technology": ".NET",
-		"References": "http://projects.nth-dimension.org.uk/dir?d=VulnApp http://projects.nth-dimension.org.uk/rptview?rn=6",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/CSPF-Founder/JavaVulnerableLab/",
-		"Name": "Vulnerable Java Web Application",
-		"Technology": "Java",
-		"References": null,
-		"Author": "Cyber Security and Privacy Foundation",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/mddanish/Vulnerable-OTP-Application",
-		"Name": "Vulnerable OTP App",
-		"Technology": "PHP & Google OTP",
-		"References": null,
-		"Author": "mddanish",
-		"Notes": null
-	}, {
-		"URL": "http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/",
-		"Name": "Vulnerable Web App",
-		"Technology": null,
-		"References": null,
-		"Author": "Exploit.co.il",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/adamdoupe/WackoPicko",
-		"Name": "WackoPicko",
-		"Technology": "PHP",
-		"References": "https://github.com/adamdoupe/WackoPicko/zipball/master http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/sectooladdict/wavsep",
-		"Name": "WAVSEP - Web Application Vulnerability Scanner Evaluation Project",
-		"Technology": "Java",
-		"References": "https://sourceforge.net/projects/wavsep/ https://code.google.com/p/wavsep/downloads/list https://github.com/sectooladdict/wavsep/wiki",
-		"Author": "Shay Chen",
-		"Notes": null
-	}, {
-		"URL": "https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project",
-		"Name": "WebGoat",
-		"Technology": "Java",
-		"References": "http://code.google.com/p/webgoat/downloads/list https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "https://www.owasp.org/index.php/WebGoatPHP",
-		"Name": "WebGoatPHP",
-		"Technology": "PHP",
-		"References": "https://github.com/OWASP/OWASPWebGoatPHP download https://github.com/OWASP/OWASPWebGoatPHP/blob/master/README.md",
-		"Author": "OWASP",
-		"Notes": null
-	}, {
-		"URL": "https://code.google.com/p/wivet/",
-		"Name": "WIVET- Web Input Vector Extractor Teaser",
-		"Technology": null,
-		"References": "http://www.webguvenligi.org/projeler/wivet https://code.google.com/p/wivet/downloads/list?can=1&q=",
-		"Author": null,
-		"Notes": null
-	}, {
-		"URL": "https://github.com/s4n7h0/xvwa",
-		"Name": "Xtreme Vulnerable Web Application (XVWA)",
-		"Technology": "PHP/MySQL",
-		"References": "https://github.com/s4n7h0/xvwa",
-		"Author": "@s4n7h0, @samanL33T",
-		"Notes": null
-	}, {
-		"URL": "https://github.com/payatu/Tiredful-API",
-		"Name": "Tiredful API",
-		"Technology": "Python & Django",
-		"References": "https://github.com/payatu/Tiredful-API",
-		"Author": "@payatu",
-		"Notes": null
+[
+	{
+		"url": "http://www.badstore.net/",
+		"name": "BadStore",
+		"technology": [
+			"Perl(CGI)"
+		],
+		"references": [],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/psiinon/bodgeit",
+		"name": "BodgeIt Store",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/psiinon/bodgeit/releases/latest"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/psiinon/bodgeit"
+			}
+		],
+		"author": "Simon Bennetts (psiinon)",
+		"notes": null
+	},
+	{
+		"url": "http://sechow.com/bricks/index.html",
+		"name": "Bricks",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://sechow.com/bricks/download.html http://sechow.com/bricks/docs/"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "http://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
+		"name": "Butterfly Security Project",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://sourceforge.net/projects/thebutterflytmp/files/"
+			}
+		],
+		"author": null,
+		"notes": "Last updated in 2008"
+	},
+	{
+		"url": "http://www.itsecgames.com/",
+		"name": "bWAPP",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://sourceforge.net/projects/bwapp/files/ http://itsecgames.blogspot.be/2013/01/bwapp-installation.html"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/SpiderLabs/CryptOMG",
+		"name": "CryptOMG",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://isc.sans.edu/forums/diary/Modern+Web+Application+Penetration+Testing+Hash+Length+Extension+Attacks/22792/"
+			}
+		],
+		"author": "SpiderLabs"
+	},
+	{
+		"url": "https://github.com/fridaygoldsmith/bwa_cyclone_transfers",
+		"name": "Cyclone Transfers",
+		"technology": [
+			"Ruby on Rails"
+		],
+		"references": [],
+		"author": null
+	},
+	{
+		"url": "https://github.com/LunaM00n/File-Upload-Lab",
+		"name": "Damn Vulnerable File Upload - DVFU",
+		"technology": [
+			"PHP"
+		],
+		"references": [],
+		"author": "Thin Ba Shane (@art0flunam00n)",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/isp1r0/DVNA",
+		"name": "Damn Vulnerable Node Application - DVNA",
+		"technology": [
+			"Node.js"
+		],
+		"references": [],
+		"author": "Claudio Lacayo",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/appsecco/dvna",
+		"name": "Damn Vulnerable NodeJS Application - DVNA",
+		"technology": [
+			"Node.js"
+		],
+		"references": [],
+		"author": "@appsecco",
+		"notes": "Different project from the old DVNA"
+	},
+	{
+		"url": "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
+		"name": "Damn Vulnerable Stateful WebApp",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.sans.org/reading-room/whitepapers/testing/testing-stateful-web-application-workflows-36637"
+			}
+		],
+		"author": "dnet",
+		"notes": null
+	},
+	{
+		"url": "http://www.dvwa.co.uk/",
+		"name": "Damn Vulnerable Web Application - DVWA",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://code.google.com/p/dvwa/downloads/list"
+			}
+		],
+		"author": "RandomStorm",
+		"notes": null
+	},
+	{
+		"url": "http://dvws.secureideas.net/",
+		"name": "Damn Vulnerable Web Services - DVWS",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://dvws.secureideas.net/downloads/files/dvws.tgz"
+			}
+		],
+		"author": "Secure Ideas",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/snoopysecurity/dvws",
+		"name": "Damn Vulnerable Web Services",
+		"technology": [
+			"Web Services"
+		],
+		"references": [],
+		"author": "snoopysecurity",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/interference-security/DVWS",
+		"name": "Damn Vulnerable Web Sockets",
+		"technology": [
+			"Web Sockets"
+		],
+		"references": [],
+		"author": "@appsecco",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/vegabird/xvna",
+		"name": "Extreme Vulnerable Node Application",
+		"technology": [
+			"NodeJS"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.vegabird.com/xvna-setup/"
+			}
+		],
+		"author": "vegabird",
+		"notes": null
+	},
+	{
+		"url": "http://google-gruyere.appspot.com/",
+		"name": "Gruyere",
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://google-gruyere.appspot.com/gruyere-code.zip"
+			}
+		],
+		"author": "Google",
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project",
+		"name": "Hackademic Challenges Project",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://code.google.com/p/owasp-hackademic-challenges/"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx",
+		"name": "Hacme Bank - Android",
+		"technology": [
+		],
+		"references": [],
+		"author": "McAfee / Foundstone",
+		"notes": null
+	},
+	{
+		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
+		"name": "Hacme Bank",
+		"technology": [
+			".NET"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-bank.aspx"
+			}
+		],
+		"author": "McAfee / Foundstone",
+		"notes": null
+	},
+	{
+		"url": "http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx",
+		"name": "Hacme Books",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmebooks.aspx"
+			}
+		],
+		"author": "McAfee / Foundstone",
+		"notes": null
+	},
+	{
+		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx",
+		"name": "Hacme Casino",
+		"technology": [
+			"Ruby on Rails"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-casino.aspx"
+			}
+		],
+		"author": "McAfee / Foundstone",
+		"notes": null
+	},
+	{
+		"url": "http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx",
+		"name": "Hacme Shipping",
+		"technology": [
+			"ColdFusion"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmeshipping.aspx"
+			}
+		],
+		"author": "McAfee / Foundstone",
+		"notes": null
+	},
+	{
+		"url": "http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx",
+		"name": "Hacme Travel",
+		"technology": [
+			"C++"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacmetravel.aspx"
+			}
+		],
+		"author": "McAfee / Foundstone",
+		"notes": null
+	},
+	{
+		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
+		"name": "hackxor",
+		"technology": [
+		],
+		"references": [],
+		"author": null,
+		"notes": "First 2 levels online, rest offline"
+	},
+	{
+		"url": "https://www.owasp.org/index.php/OWASP_Juice_Shop_Project",
+		"name": "Juice Shop",
+		"technology": [
+			"Javascript"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/bkimminich/juice-shop"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/bkimminich/juice-shop/"
+			},
+			{
+				"name": "guide",
+				"url": "https://www.gitbook.com/book/bkimminich/pwning-owasp-juice-shop"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "http://sourceforge.net/projects/lampsecurity/",
+		"name": "LampSecurity",
+		"technology": [
+			"PHP"
+		],
+		"references": [],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/SpiderLabs/MCIR",
+		"name": "Magical Code Injection Rainbow - MCIR",
+		"technology": "PHP",
+		"references": [],
+		"author": "SpiderLabs",
+		"notes": null
+	},
+	{
+		"url": "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",
+		"name": "Mutillidae",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.irongeek.com/mutillidae/"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/jerryhoff/WebGoat.NET",
+		"name": ".NET Goat",
+		"technology": [
+			"C#"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/jerryhoff/WebGoat.NET"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project",
+		"name": "NodeGoat",
+		"technology": [
+			"Node.js"
+		],
+		"references": [],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/cr0hn/vulnerable-node",
+		"name": "NodeVulnerable",
+		"technology": [
+			"Node.js"
+		],
+		"references": [],
+		"author": "cr0hn",
+		"notes": null
+	},
+	{
+		"url": "https://digi.ninja/projects/nosqli_lab.php",
+		"name": "NoSQL Injection Lab",
+		"technology": [
+			"PHP",
+			"MongoDB"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/digininja/nosqlilab"
+			}
+		],
+		"author": "@digininja",
+		"notes": null
+	},
+	{
+		"url": "http://peruggia.sourceforge.net/",
+		"name": "Peruggia",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://sourceforge.net/projects/peruggia/files/"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://code.google.com/p/puzzlemall/",
+		"name": "Puzzlemall",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://code.google.com/p/puzzlemall/downloads/list"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/OWASP_Rails_Goat_Project",
+		"name": "Rails Goat",
+		"technology": [
+			"Ruby on Rails"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/OWASP/railsgoat/archive/master.zip"
+			},
+			{
+				"name": "downloads",
+				"url": "http://railsgoat.cktricky.com/getting_started.html"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "http://suif.stanford.edu/%7Elivshits/securibench/",
+		"name": "SecuriBench",
+		"technology": [
+			"Java"
+		],
+		"references": [],
+		"author": "Stanford",
+		"notes": null
+	},
+	{
+		"url": "http://suif.stanford.edu/%7Elivshits/work/securibench-micro/",
+		"name": "SecuriBench Micro",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://suif.stanford.edu/~livshits/securibench/download.html"
+			}
+		],
+		"author": "Stanford",
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/OWASP_Security_Shepherd",
+		"name": "Security Shepherd",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://sourceforge.net/projects/owaspshepherd/"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/sqlmapproject/testenv",
+		"name": "SQL injection test environment",
+		"technology": [
+			"PHP"
+		],
+		"references": [],
+		"author": null,
+		"notes": "SQLmap Project"
+	},
+	{
+		"url": "https://github.com/Audi-1/sqli-labs",
+		"name": "SQLI-labs",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/Audi-1/sqli-labs/archive/master.zip"
+			},
+			{
+				"name": "guide",
+				"url": "http://dummy2dummies.blogspot.com/2012/06/sqli-lab-series-part-1.html"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/SpiderLabs/SQLol",
+		"name": "SQLol",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/SpiderLabs/SQLol/archive/master.zip"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/dhatanian/ticketmagpie",
+		"name": "TicketMagpie",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/dhatanian/ticketmagpie"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/sakti/twitterlike",
+		"name": "twitterlike",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/sakti/twitterlike"
+			}
+		],
+		"author": "Sakti Dwi Cahyono"
+	},
+	{
+		"url": "https://github.com/mattvaldes/vulnerable-api",
+		"name": "vulnerable-api",
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/mattvaldes/vulnerable-api"
+			}
+		],
+		"author": "Matthew Valdes",
+		"notes": null
+	},
+	{
+		"url": "http://www.nth-dimension.org.uk/blog.php?id=88",
+		"name": "VulnApp",
+		"technology": [
+			".NET"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://projects.nth-dimension.org.uk/dir?d=VulnApp"
+			},
+			{
+				"name": "downloads",
+				"url": "http://projects.nth-dimension.org.uk/rptview?rn=6"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/CSPF-Founder/JavaVulnerableLab/",
+		"name": "Vulnerable Java Web Application",
+		"technology": [
+			"Java"
+		],
+		"references": [],
+		"author": "Cyber Security and Privacy Foundation",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/mddanish/Vulnerable-OTP-Application",
+		"name": "Vulnerable OTP App",
+		"technology": [
+			"PHP",
+			"Google OTP"
+		],
+		"references": [],
+		"author": "mddanish",
+		"notes": null
+	},
+	{
+		"url": "http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/",
+		"name": "Vulnerable Web App",
+		"technology": [
+		],
+		"references": [],
+		"author": "Exploit.co.il",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/adamdoupe/WackoPicko",
+		"name": "WackoPicko",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/adamdoupe/WackoPicko/zipball/master"
+			},
+			{
+				"name": "guide",
+				"url": "http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf"
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/sectooladdict/wavsep",
+		"name": "WAVSEP - Web Application Vulnerability Scanner Evaluation Project",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://sourceforge.net/projects/wavsep/"
+			},
+			{
+				"name": "downloads",
+				"url": "https://code.google.com/p/wavsep/downloads/list"
+			},
+			{
+				"name": "downloads",
+				"url": "https://github.com/sectooladdict/wavsep/wiki"
+			}
+		],
+		"author": "Shay Chen",
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project",
+		"name": "WebGoat",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://code.google.com/p/webgoat/downloads/list"
+			},
+			{
+				"name": "guide",
+				"url": "https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/WebGoatPHP",
+		"name": "WebGoatPHP",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/OWASP/OWASPWebGoatPHP"
+			},
+			{
+				"name": "downloads",
+				"url": "https://github.com/OWASP/OWASPWebGoatPHP/blob/master/README.md"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "https://code.google.com/p/wivet/",
+		"name": "WIVET- Web Input Vector Extractor Teaser",
+		"technology": [
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.webguvenligi.org/projeler/wivet"
+			},
+			{
+				"name": "downloads",
+				"url": "https://code.google.com/p/wivet/downloads/list?can=1&q="
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/s4n7h0/xvwa",
+		"name": "Xtreme Vulnerable Web Application (XVWA)",
+		"technology": [
+			"PHP",
+			"MySQL"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/s4n7h0/xvwa"
+			}
+		],
+		"author": "@s4n7h0, @samanL33T",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/payatu/Tiredful-API",
+		"name": "Tiredful API",
+		"technology": [
+			"Python",
+			"Django"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/payatu/Tiredful-API"
+			}
+		],
+		"author": "@payatu",
+		"notes": null
 	}
 ]
