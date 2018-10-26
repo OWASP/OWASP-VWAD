@@ -267,8 +267,19 @@
 	},
 	{
 		"url": "http://www.webscantest.com",
-		"name": "Web Scanner Test Site",
-		"technology": [],
+		"name": "Webscantest - a modern test site for web app scanners",
+		"technology": [
+			"AJAX",
+			"JSON",
+			"XML",
+			"PHP",
+			"Javacript",
+			"- React",
+			"- Angular",
+			"REST",
+			"SOAP"
+			"Swagger"
+		],
 		"references": [],
 		"author": "Rapid7 appspider (was NTOSpider)",
 		"notes": "(testuser/testpass)"
