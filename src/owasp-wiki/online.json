@@ -267,15 +267,15 @@
 	},
 	{
 		"url": "http://www.webscantest.com",
-		"name": "Webscantest - a modern test site for web app scanners",
+		"name": "Webscantest",
 		"technology": [
 			"AJAX",
 			"JSON",
 			"XML",
 			"PHP",
 			"Javacript",
-			"- React",
-			"- Angular",
+			"React",
+			"Angular",
 			"REST",
 			"SOAP"
 			"Swagger"
