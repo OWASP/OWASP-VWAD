@@ -277,7 +277,7 @@
 			"React",
 			"Angular",
 			"REST",
-			"SOAP"
+			"SOAP",
 			"Swagger"
 		],
 		"references": [],
@@ -299,5 +299,65 @@
 		"references": [],
 		"author": "HP/SpiDynamics",
 		"notes": "(admin/admin)"
+	},
+	{
+		"url": "https://github.com/OWASP/DVSA",
+		"name": "Damn Vulnerable Serverless App (DVSA)",
+		"technology": [
+			"Node",
+			"AWS",
+			"Azure"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/DVSA/tree/master/AWS/LESSONS"
+			},
+						{
+				"name": "live",
+				"url": "http://serverless.fail/"
+			}
+		],
+		"author": "Protego Labs",
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/OWASP_Serverless_Goat",
+		"name": "OWASP Serverless Goat",
+		"technology": [
+			"Node",
+			"AWS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/Serverless-Goat#cheat-sheet"
+			},
+			{
+				"name": "live",
+				"url": "https://www.serverless-hack.me/"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/digininja/authlab",
+		"name": "AuthLab",
+		"technology": [
+			"GO"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://digi.ninja/projects/authlab.php"
+			},
+			{
+				"name": "live",
+				"url": "https://authlab.digi.ninja/"
+			}
+		],
+		"author": "digininja (Robin Wood)",
+		"notes": null
 	}
 ]
