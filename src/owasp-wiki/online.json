@@ -38,6 +38,25 @@
 		"notes": "(jsmith/Demo1234)"
 	},
 	{
+		"url": "https://github.com/digininja/authlab",
+		"name": "AuthLab",
+		"technology": [
+			"GO"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://digi.ninja/projects/authlab.php"
+			},
+			{
+				"name": "live",
+				"url": "https://authlab.digi.ninja/"
+			}
+		],
+		"author": "digininja (Robin Wood)",
+		"notes": null
+	},
+	{
 		"url": "http://www.bgabank.com/",
 		"name": "BGA Vulnerable BANK App",
 		"technology": [
@@ -56,21 +75,32 @@
 		"notes": null
 	},
 	{
+		"url": "https://github.com/OWASP/DVSA",
+		"name": "Damn Vulnerable Serverless App (DVSA)",
+		"technology": [
+			"Node",
+			"AWS",
+			"Azure"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/DVSA/tree/master/AWS/LESSONS"
+			},
+			{
+				"name": "live",
+				"url": "http://serverless.fail/"
+			}
+		],
+		"author": "Protego Labs",
+		"notes": null
+	},
+	{
 		"url": "http://enigmagroup.org/",
 		"name": "Enigma Group",
 		"technology": [],
 		"references": [],
 		"author": "Enigma Group",
-		"notes": null
-	},
-	{
-		"url": "http://google-gruyere.appspot.com/",
-		"name": "Gruyere",
-		"technology": [
-			"Python"
-		],
-		"references": [],
-		"author": "Google",
 		"notes": null
 	},
 	{
@@ -87,6 +117,60 @@
 		"notes": null
 	},
 	{
+		"url": "http://google-gruyere.appspot.com/",
+		"name": "Gruyere",
+		"technology": [
+			"Python"
+		],
+		"references": [],
+		"author": "Google",
+		"notes": null
+	},
+	{
+		"url": "https://hack.me",
+		"name": "Hack.me",
+		"technology": [],
+		"references": [],
+		"author": "eLearnSecurity",
+		"notes": "Beta"
+	},
+	{
+		"url": " https://www.hackthis.co.uk/",
+		"name": "HackThis",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"Name": "download",
+				"URL": "https://github.com/HackThis/hackthis.co.uk"
+			}
+		],
+		"author": "Luke Ward (0x6C77)",
+		"notes": null
+	},
+	{
+		"url": "http://www.hackthissite.org",
+		"name": "HackThisSite HackThisSite",
+		"technology": [],
+		"references": [],
+		"author": null,
+		"notes": "Basic & Realistic (web) Missions"
+	},
+	{
+		"url": "http://hackyourselffirst.troyhunt.com/",
+		"name": "HackYourselfFirst",
+		"technology": [],
+		"references": [
+			{
+				"Name": "guide",
+				"URL": "https://www.troyhunt.com/hack-yourself-first-how-to-go-on/"
+			}
+		],
+		"author": "Troy Hunt",
+		"notes": null
+	},
+	{
 		"url": "http://hackademic1.teilar.gr",
 		"name": "Hackademic Challenges Project",
 		"technology": [
@@ -95,14 +179,6 @@
 		],
 		"references": [],
 		"author": "OWASP",
-		"notes": null
-	},
-	{
-		"url": "http://pctechtips.org/hacker-challenge-pwn3d-the-login-form/",
-		"name": "Hacker Challenge",
-		"technology": [],
-		"references": [],
-		"author": "PCTechtips",
 		"notes": null
 	},
 	{
@@ -125,63 +201,19 @@
 		"notes": null
 	},
 	{
+		"url": "http://pctechtips.org/hacker-challenge-pwn3d-the-login-form/",
+		"name": "Hacker Challenge",
+		"technology": [],
+		"references": [],
+		"author": "PCTechtips",
+		"notes": null
+	},
+	{
 		"url": "https://www.hacking-lab.com/events/registerform.html?eventid=245",
 		"name": "Hacking Lab",
 		"technology": [],
 		"references": [],
 		"author": "Hacking Lab",
-		"notes": null
-	},
-	{
-		"url": "https://hack.me",
-		"name": "Hack.me",
-		"technology": [],
-		"references": [],
-		"author": "eLearnSecurity",
-		"notes": "Beta"
-	},
-	{
-		"url": "http://www.hackthissite.org",
-		"name": "HackThisSite HackThisSite",
-		"technology": [],
-		"references": [],
-		"author": null,
-		"notes": "Basic & Realistic (web) Missions"
-	},
-	{
-		"url": " https://www.hackthis.co.uk/",
-		"name": "HackThis",
-		"technology": [
-			"PHP"
-		],
-		"references": [
-			{
-				"Name": "download",
-				"URL": "https://github.com/HackThis/hackthis.co.uk"
-			}
-		],
-		"author": "Luke Ward (0x6C77)",
-		"notes": null
-	},
-	{
-		"url": "https://hackxor.net",
-		"name": "hackxor",
-		"technology": [],
-		"references": [],
-		"author": "albinowax",
-		"notes": "Web application hacking game via missions, based on real vulnerabilities."
-	},
-	{
-		"url": "http://hackyourselffirst.troyhunt.com/",
-		"name": "HackYourselfFirst",
-		"technology": [],
-		"references": [
-			{
-				"Name": "guide",
-				"URL": "https://www.troyhunt.com/hack-yourself-first-how-to-go-on/"
-			}
-		],
-		"author": "Troy Hunt",
 		"notes": null
 	},
 	{
@@ -215,20 +247,32 @@
 		"notes": null
 	},
 	{
+		"url": "https://www.owasp.org/index.php/OWASP_Serverless_Goat",
+		"name": "OWASP Serverless Goat",
+		"technology": [
+			"Node",
+			"AWS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/Serverless-Goat#cheat-sheet"
+			},
+			{
+				"name": "live",
+				"url": "https://www.serverless-hack.me/"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
 		"url": "http://pentesteracademylab.appspot.com",
 		"name": "Pentester Academy",
 		"technology": [],
 		"references": [],
 		"author": null,
 		"notes": null
-	},
-	{
-		"url": "http://testhtml5.vulnweb.com/",
-		"name": "Security Tweets",
-		"technology": [],
-		"references": [],
-		"author": "Acunetix",
-		"notes": "HTML5"
 	},
 	{
 		"url": "http://racetheweb.io/bank",
@@ -242,6 +286,14 @@
 		],
 		"author": "insp3ctre",
 		"notes": null
+	},
+	{
+		"url": "http://testhtml5.vulnweb.com/",
+		"name": "Security Tweets",
+		"technology": [],
+		"references": [],
+		"author": "Acunetix",
+		"notes": "HTML5"
 	},
 	{
 		"url": "http://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest",
@@ -301,63 +353,11 @@
 		"notes": "(admin/admin)"
 	},
 	{
-		"url": "https://github.com/OWASP/DVSA",
-		"name": "Damn Vulnerable Serverless App (DVSA)",
-		"technology": [
-			"Node",
-			"AWS",
-			"Azure"
-		],
-		"references": [
-			{
-				"name": "guide",
-				"url": "https://github.com/OWASP/DVSA/tree/master/AWS/LESSONS"
-			},
-						{
-				"name": "live",
-				"url": "http://serverless.fail/"
-			}
-		],
-		"author": "Protego Labs",
-		"notes": null
-	},
-	{
-		"url": "https://www.owasp.org/index.php/OWASP_Serverless_Goat",
-		"name": "OWASP Serverless Goat",
-		"technology": [
-			"Node",
-			"AWS"
-		],
-		"references": [
-			{
-				"name": "guide",
-				"url": "https://github.com/OWASP/Serverless-Goat#cheat-sheet"
-			},
-			{
-				"name": "live",
-				"url": "https://www.serverless-hack.me/"
-			}
-		],
-		"author": "OWASP",
-		"notes": null
-	},
-	{
-		"url": "https://github.com/digininja/authlab",
-		"name": "AuthLab",
-		"technology": [
-			"GO"
-		],
-		"references": [
-			{
-				"name": "guide",
-				"url": "https://digi.ninja/projects/authlab.php"
-			},
-			{
-				"name": "live",
-				"url": "https://authlab.digi.ninja/"
-			}
-		],
-		"author": "digininja (Robin Wood)",
-		"notes": null
+		"url": "https://hackxor.net",
+		"name": "hackxor",
+		"technology": [],
+		"references": [],
+		"author": "albinowax",
+		"notes": "Web application hacking game via missions, based on real vulnerabilities."
 	}
 ]

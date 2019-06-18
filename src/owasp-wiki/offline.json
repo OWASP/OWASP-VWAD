@@ -1,5 +1,35 @@
 [
 	{
+		"url": "https://github.com/jerryhoff/WebGoat.NET",
+		"name": ".NET Goat",
+		"technology": [
+			"C#"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/jerryhoff/WebGoat.NET"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/digininja/authlab",
+		"name": "AuthLab",
+		"technology": [
+			"GO"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://digi.ninja/projects/authlab.php"
+			}
+		],
+		"author": "digininja (Robin Wood)",
+		"notes": null
+	},
+	{
 		"url": "http://www.badstore.net/",
 		"name": "BadStore",
 		"technology": [
@@ -59,18 +89,18 @@
 		"notes": "Last updated in 2008"
 	},
 	{
-		"url": "http://www.itsecgames.com/",
-		"name": "bWAPP",
+		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+		"name": "CloudGoat",
 		"technology": [
-			"PHP"
+			"Python"
 		],
 		"references": [
 			{
-				"name": "download",
-				"url": "http://sourceforge.net/projects/bwapp/files/ http://itsecgames.blogspot.be/2013/01/bwapp-installation.html"
+				"name": "guide",
+				"url": "https://medium.com/@rzepsky/playing-with-cloudgoat-part-1-hacking-aws-ec2-service-for-privilege-escalation-4c42cc83f9da"
 			}
 		],
-		"author": null,
+		"author": "Rhino Security Labs",
 		"notes": null
 	},
 	{
@@ -97,6 +127,16 @@
 		"author": null
 	},
 	{
+		"url": "https://github.com/stamparm/DSVW",
+		"name": "Damn Small Vulnerable Web (DSVW)",
+		"technology": [
+			"Python"
+		],
+		"references": [],
+		"author": "Miroslav Stampar",
+		"notes": null
+	},
+	{
 		"url": "https://github.com/LunaM00n/File-Upload-Lab",
 		"name": "Damn Vulnerable File Upload - DVFU",
 		"technology": [
@@ -104,6 +144,22 @@
 		],
 		"references": [],
 		"author": "Thin Ba Shane (@art0flunam00n)",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service",
+		"name": "Damn Vulnerable Functions as a Service (DVFaaS)",
+		"technology": [
+			"Python",
+			"AWS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://www.slideshare.net/abhaybhargav/an-attackers-view-of-serverless-and-graphql-apps-abhay-bhargav-appsec-california-2019"
+			}
+		],
+		"author": "we45 (Abhay Bhargav)",
 		"notes": null
 	},
 	{
@@ -125,6 +181,23 @@
 		"references": [],
 		"author": "@appsecco",
 		"notes": "Different project from the old DVNA"
+	},
+	{
+		"url": "https://github.com/OWASP/DVSA",
+		"name": "Damn Vulnerable Serverless App (DVSA)",
+		"technology": [
+			"Node",
+			"AWS",
+			"Azure"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/DVSA/tree/master/AWS/LESSONS"
+			}
+		],
+		"author": "Protego Labs",
+		"notes": null
 	},
 	{
 		"url": "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
@@ -157,6 +230,16 @@
 		"notes": null
 	},
 	{
+		"url": "https://github.com/snoopysecurity/dvws",
+		"name": "Damn Vulnerable Web Services",
+		"technology": [
+			"Web Services"
+		],
+		"references": [],
+		"author": "snoopysecurity",
+		"notes": null
+	},
+	{
 		"url": "http://dvws.secureideas.net/",
 		"name": "Damn Vulnerable Web Services - DVWS",
 		"technology": [
@@ -172,16 +255,6 @@
 		"notes": null
 	},
 	{
-		"url": "https://github.com/snoopysecurity/dvws",
-		"name": "Damn Vulnerable Web Services",
-		"technology": [
-			"Web Services"
-		],
-		"references": [],
-		"author": "snoopysecurity",
-		"notes": null
-	},
-	{
 		"url": "https://github.com/interference-security/DVWS",
 		"name": "Damn Vulnerable Web Sockets",
 		"technology": [
@@ -189,6 +262,17 @@
 		],
 		"references": [],
 		"author": "@appsecco",
+		"notes": null
+	},
+	{
+		"url": "https://github.com/red-and-black/DjangoGoat",
+		"name": "DjangoGoat",
+		"technology": [
+			"Python",
+			"Django"
+		],
+		"references": [],
+		"author": "Red and Black",
 		"notes": null
 	},
 	{
@@ -237,14 +321,6 @@
 		"notes": null
 	},
 	{
-		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx",
-		"name": "Hacme Bank - Android",
-		"technology": [],
-		"references": [],
-		"author": "McAfee / Foundstone",
-		"notes": null
-	},
-	{
 		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
 		"name": "Hacme Bank",
 		"technology": [
@@ -256,6 +332,14 @@
 				"url": "http://www.mcafee.com/apps/free-tools/termsofuse.aspx?url=/us/downloads/free-tools/hacme-bank.aspx"
 			}
 		],
+		"author": "McAfee / Foundstone",
+		"notes": null
+	},
+	{
+		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx",
+		"name": "Hacme Bank - Android",
+		"technology": [],
+		"references": [],
 		"author": "McAfee / Foundstone",
 		"notes": null
 	},
@@ -320,14 +404,6 @@
 		"notes": null
 	},
 	{
-		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
-		"name": "hackxor",
-		"technology": [],
-		"references": [],
-		"author": null,
-		"notes": "First 2 levels online, rest offline"
-	},
-	{
 		"url": "https://www.owasp.org/index.php/OWASP_Juice_Shop_Project",
 		"name": "Juice Shop",
 		"technology": [
@@ -384,18 +460,19 @@
 		"notes": null
 	},
 	{
-		"url": "https://github.com/jerryhoff/WebGoat.NET",
-		"name": ".NET Goat",
+		"url": "https://digi.ninja/projects/nosqli_lab.php",
+		"name": "NoSQL Injection Lab",
 		"technology": [
-			"C#"
+			"PHP",
+			"MongoDB"
 		],
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/jerryhoff/WebGoat.NET"
+				"url": "http://github.com/digininja/nosqlilab"
 			}
 		],
-		"author": "OWASP",
+		"author": "@digininja",
 		"notes": null
 	},
 	{
@@ -416,22 +493,6 @@
 		],
 		"references": [],
 		"author": "cr0hn",
-		"notes": null
-	},
-	{
-		"url": "https://digi.ninja/projects/nosqli_lab.php",
-		"name": "NoSQL Injection Lab",
-		"technology": [
-			"PHP",
-			"MongoDB"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://github.com/digininja/nosqlilab"
-			}
-		],
-		"author": "@digininja",
 		"notes": null
 	},
 	{
@@ -484,46 +545,6 @@
 		"notes": null
 	},
 	{
-		"url": "http://suif.stanford.edu/%7Elivshits/securibench/",
-		"name": "SecuriBench",
-		"technology": [
-			"Java"
-		],
-		"references": [],
-		"author": "Stanford",
-		"notes": null
-	},
-	{
-		"url": "http://suif.stanford.edu/%7Elivshits/work/securibench-micro/",
-		"name": "SecuriBench Micro",
-		"technology": [
-			"Java"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://suif.stanford.edu/~livshits/securibench/download.html"
-			}
-		],
-		"author": "Stanford",
-		"notes": null
-	},
-	{
-		"url": "https://www.owasp.org/index.php/OWASP_Security_Shepherd",
-		"name": "Security Shepherd",
-		"technology": [
-			"Java"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://sourceforge.net/projects/owaspshepherd/"
-			}
-		],
-		"author": "OWASP",
-		"notes": null
-	},
-	{
 		"url": "https://github.com/sqlmapproject/testenv",
 		"name": "SQL injection test environment",
 		"technology": [
@@ -568,6 +589,46 @@
 		"notes": null
 	},
 	{
+		"url": "http://suif.stanford.edu/%7Elivshits/securibench/",
+		"name": "SecuriBench",
+		"technology": [
+			"Java"
+		],
+		"references": [],
+		"author": "Stanford",
+		"notes": null
+	},
+	{
+		"url": "http://suif.stanford.edu/%7Elivshits/work/securibench-micro/",
+		"name": "SecuriBench Micro",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://suif.stanford.edu/~livshits/securibench/download.html"
+			}
+		],
+		"author": "Stanford",
+		"notes": null
+	},
+	{
+		"url": "https://www.owasp.org/index.php/OWASP_Security_Shepherd",
+		"name": "Security Shepherd",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://sourceforge.net/projects/owaspshepherd/"
+			}
+		],
+		"author": "OWASP",
+		"notes": null
+	},
+	{
 		"url": "https://github.com/dhatanian/ticketmagpie",
 		"name": "TicketMagpie",
 		"technology": [
@@ -583,32 +644,19 @@
 		"notes": null
 	},
 	{
-		"url": "https://github.com/sakti/twitterlike",
-		"name": "twitterlike",
+		"url": "https://github.com/payatu/Tiredful-API",
+		"name": "Tiredful API",
 		"technology": [
-			"PHP"
+			"Python",
+			"Django"
 		],
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/sakti/twitterlike"
+				"url": "http://github.com/payatu/Tiredful-API"
 			}
 		],
-		"author": "Sakti Dwi Cahyono"
-	},
-	{
-		"url": "https://github.com/mattvaldes/vulnerable-api",
-		"name": "vulnerable-api",
-		"technology": [
-			"Python"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://github.com/mattvaldes/vulnerable-api"
-			}
-		],
-		"author": "Matthew Valdes",
+		"author": "@payatu",
 		"notes": null
 	},
 	{
@@ -652,30 +700,21 @@
 		"notes": null
 	},
 	{
+		"url": "https://github.com/yogisec/VulnerableSAMLApp",
+		"name": "Vulnerable SAML App",
+		"technology": [
+			"Python"
+		],
+		"references": [],
+		"author": "yogisec",
+		"notes": null
+	},
+	{
 		"url": "http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/",
 		"name": "Vulnerable Web App",
 		"technology": [],
 		"references": [],
 		"author": "Exploit.co.il",
-		"notes": null
-	},
-	{
-		"url": "https://github.com/adamdoupe/WackoPicko",
-		"name": "WackoPicko",
-		"technology": [
-			"PHP"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://github.com/adamdoupe/WackoPicko/zipball/master"
-			},
-			{
-				"name": "guide",
-				"url": "http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf"
-			}
-		],
-		"author": null,
 		"notes": null
 	},
 	{
@@ -699,6 +738,42 @@
 			}
 		],
 		"author": "Shay Chen",
+		"notes": null
+	},
+	{
+		"url": "https://code.google.com/p/wivet/",
+		"name": "WIVET- Web Input Vector Extractor Teaser",
+		"technology": [],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://www.webguvenligi.org/projeler/wivet"
+			},
+			{
+				"name": "downloads",
+				"url": "https://code.google.com/p/wivet/downloads/list?can=1&q="
+			}
+		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://github.com/adamdoupe/WackoPicko",
+		"name": "WackoPicko",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/adamdoupe/WackoPicko/zipball/master"
+			},
+			{
+				"name": "guide",
+				"url": "http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf"
+			}
+		],
+		"author": null,
 		"notes": null
 	},
 	{
@@ -740,23 +815,6 @@
 		"notes": null
 	},
 	{
-		"url": "https://code.google.com/p/wivet/",
-		"name": "WIVET- Web Input Vector Extractor Teaser",
-		"technology": [],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://www.webguvenligi.org/projeler/wivet"
-			},
-			{
-				"name": "downloads",
-				"url": "https://code.google.com/p/wivet/downloads/list?can=1&q="
-			}
-		],
-		"author": null,
-		"notes": null
-	},
-	{
 		"url": "https://github.com/s4n7h0/xvwa",
 		"name": "Xtreme Vulnerable Web Application (XVWA)",
 		"technology": [
@@ -773,20 +831,27 @@
 		"notes": null
 	},
 	{
-		"url": "https://github.com/payatu/Tiredful-API",
-		"name": "Tiredful API",
+		"url": "http://www.itsecgames.com/",
+		"name": "bWAPP",
 		"technology": [
-			"Python",
-			"Django"
+			"PHP"
 		],
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/payatu/Tiredful-API"
+				"url": "http://sourceforge.net/projects/bwapp/files/ http://itsecgames.blogspot.be/2013/01/bwapp-installation.html"
 			}
 		],
-		"author": "@payatu",
+		"author": null,
 		"notes": null
+	},
+	{
+		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
+		"name": "hackxor",
+		"technology": [],
+		"references": [],
+		"author": null,
+		"notes": "First 2 levels online, rest offline"
 	},
 	{
 		"url": "https://github.com/playframework/play-webgoat",
@@ -801,97 +866,32 @@
 		"notes": null
 	},
 	{
-		"url": "https://github.com/OWASP/DVSA",
-		"name": "Damn Vulnerable Serverless App (DVSA)",
+		"url": "https://github.com/sakti/twitterlike",
+		"name": "twitterlike",
 		"technology": [
-			"Node",
-			"AWS",
-			"Azure"
+			"PHP"
 		],
 		"references": [
 			{
-				"name": "guide",
-				"url": "https://github.com/OWASP/DVSA/tree/master/AWS/LESSONS"
+				"name": "download",
+				"url": "http://github.com/sakti/twitterlike"
 			}
 		],
-		"author": "Protego Labs",
-		"notes": null
+		"author": "Sakti Dwi Cahyono"
 	},
 	{
-		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
-		"name": "CloudGoat",
+		"url": "https://github.com/mattvaldes/vulnerable-api",
+		"name": "vulnerable-api",
 		"technology": [
 			"Python"
 		],
 		"references": [
 			{
-				"name": "guide",
-				"url": "https://medium.com/@rzepsky/playing-with-cloudgoat-part-1-hacking-aws-ec2-service-for-privilege-escalation-4c42cc83f9da"
+				"name": "download",
+				"url": "http://github.com/mattvaldes/vulnerable-api"
 			}
 		],
-		"author": "Rhino Security Labs",
-		"notes": null
-	},
-	{
-		"url": "https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service",
-		"name": "Damn Vulnerable Functions as a Service (DVFaaS)",
-		"technology": [
-			"Python",
-			"AWS"
-		],
-		"references": [
-			{
-				"name": "guide",
-				"url": "https://www.slideshare.net/abhaybhargav/an-attackers-view-of-serverless-and-graphql-apps-abhay-bhargav-appsec-california-2019"
-			}
-		],
-		"author": "we45 (Abhay Bhargav)",
-		"notes": null
-	},
-	{
-		"url": "https://github.com/stamparm/DSVW",
-		"name": "Damn Small Vulnerable Web (DSVW)",
-		"technology": [
-			"Python"
-		],
-		"references": [],
-		"author": "Miroslav Stampar",
-		"notes": null
-	},
-	{
-		"url": "https://github.com/red-and-black/DjangoGoat",
-		"name": "DjangoGoat",
-		"technology": [
-			"Python",
-			"Django"
-		],
-		"references": [],
-		"author": "Red and Black",
-		"notes": null
-	},
-	{
-		"url": "https://github.com/digininja/authlab",
-		"name": "AuthLab",
-		"technology": [
-			"GO"
-		],
-		"references": [
-			{
-				"name": "guide",
-				"url": "https://digi.ninja/projects/authlab.php"
-			}
-		],
-		"author": "digininja (Robin Wood)",
-		"notes": null
-	},
-	{
-		"url": "https://github.com/yogisec/VulnerableSAMLApp",
-		"name": "Vulnerable SAML App",
-		"technology": [
-			"Python"
-		],
-		"references": [],
-		"author": "yogisec",
+		"author": "Matthew Valdes",
 		"notes": null
 	}
 ]
