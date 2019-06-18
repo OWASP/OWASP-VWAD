@@ -1,5 +1,24 @@
 [
 	{
+		"url": "https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project",
+		"name": "(OWASP) Broken Web Applications Project (BWA)",
+		"technology": [
+			"VMware"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/chuckfw/owaspbwa/"
+			},
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/owaspbwa/files/"
+			}
+		],
+		"author": "OWASP - Chuck Willis",
+		"notes": null
+	},
+	{
 		"url": "http://www.badstore.net/",
 		"name": "BadStore",
 		"technology": [
@@ -22,25 +41,6 @@
 		],
 		"references": [],
 		"author": null,
-		"notes": null
-	},
-	{
-		"url": "https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project",
-		"name": "(OWASP) Broken Web Applications Project (BWA)",
-		"technology": [
-			"VMware"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "https://github.com/chuckfw/owaspbwa/"
-			},
-			{
-				"name": "download",
-				"url": "https://sourceforge.net/projects/owaspbwa/files/"
-			}
-		],
-		"author": "OWASP - Chuck Willis",
 		"notes": null
 	},
 	{
@@ -199,17 +199,6 @@
 		"notes": null
 	},
 	{
-		"url": "https://www.pentesterlab.com/exercises/",
-		"name": "PentesterLab - The Exercises",
-		"technology": [
-			"ISO",
-			"PDF"
-		],
-		"references": [],
-		"author": null,
-		"notes": null
-	},
-	{
 		"url": "http://phdays.blogspot.com.es/2012/05/once-again-about-remote-banking.html",
 		"name": "PHDays I-Bank",
 		"technology": [
@@ -221,6 +210,17 @@
 				"url": "http://downloads.phdays.com/phdays_ibank_vm.zip"
 			}
 		],
+		"author": null,
+		"notes": null
+	},
+	{
+		"url": "https://www.pentesterlab.com/exercises/",
+		"name": "PentesterLab - The Exercises",
+		"technology": [
+			"ISO",
+			"PDF"
+		],
+		"references": [],
 		"author": null,
 		"notes": null
 	},
