@@ -218,9 +218,11 @@
 	},
 	{
 		"url": "https://juice-shop.herokuapp.com",
-		"name": "Juice Shop",
+		"name": "OWASP Juice Shop",
 		"technology": [
-			"Javascript"
+			"Javascript",
+			"Angular",
+			"Node.js"
 		],
 		"references": [],
 		"author": "OWASP",
