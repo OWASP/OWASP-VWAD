@@ -1,3 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 *.iml
+
+#Eclipse files
+.settings
+.project
