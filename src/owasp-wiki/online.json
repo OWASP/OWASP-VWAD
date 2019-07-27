@@ -321,7 +321,7 @@
 	},
 	{
 		"url": "http://www.webscantest.com",
-		"name": "Webscantest",
+		"name": "Web Scanner Test Site",
 		"technology": [
 			"AJAX",
 			"JSON",
