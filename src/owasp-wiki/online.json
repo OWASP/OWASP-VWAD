@@ -267,7 +267,7 @@
 	},
 	{
 		"url": "http://www.webscantest.com",
-		"name": "Webscantest",
+		"name": "Web Scanner Test Site",
 		"technology": [
 			"AJAX",
 			"JSON",
@@ -277,7 +277,7 @@
 			"React",
 			"Angular",
 			"REST",
-			"SOAP"
+			"SOAP",
 			"Swagger"
 		],
 		"references": [],
