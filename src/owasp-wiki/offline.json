@@ -404,7 +404,7 @@
 		"notes": null
 	},
 	{
-		"url": "http://owasp-juice.shop",
+		"url": "https://owasp-juice.shop",
 		"name": "OWASP Juice Shop",
 		"technology": [
 			"Javascript",
@@ -414,7 +414,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/bkimminich/juice-shop"
+				"url": "https://github.com/bkimminich/juice-shop"
 			},
 			{
 				"name": "docker",
@@ -422,7 +422,7 @@
 			},
 			{
 				"name": "guide",
-				"url": "https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/"
+				"url": "https://pwning.owasp-juice.shop/"
 			}
 		],
 		"author": "OWASP",
