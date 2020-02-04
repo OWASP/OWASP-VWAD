@@ -109,8 +109,8 @@
 		"technology": [],
 		"references": [
 			{
-				"Name": "download",
-				"URL": "https://github.com/google/firing-range"
+				"name": "download",
+				"url": "https://github.com/google/firing-range"
 			}
 		],
 		"author": "Google",
@@ -142,8 +142,8 @@
 		],
 		"references": [
 			{
-				"Name": "download",
-				"URL": "https://github.com/HackThis/hackthis.co.uk"
+				"name": "download",
+				"url": "https://github.com/HackThis/hackthis.co.uk"
 			}
 		],
 		"author": "Luke Ward (0x6C77)",
@@ -163,8 +163,8 @@
 		"technology": [],
 		"references": [
 			{
-				"Name": "guide",
-				"URL": "https://www.troyhunt.com/hack-yourself-first-how-to-go-on/"
+				"name": "guide",
+				"url": "https://www.troyhunt.com/hack-yourself-first-how-to-go-on/"
 			}
 		],
 		"author": "Troy Hunt",
@@ -193,8 +193,8 @@
 		],
 		"references": [
 			{
-				"Name": "download",
-				"URL": "https://github.com/rapid7/hackazon"
+				"name": "download",
+				"url": "https://github.com/rapid7/hackazon"
 			}
 		],
 		"author": "Rapid7 (NTObjectives)",
@@ -282,8 +282,8 @@
 		"technology": [],
 		"references": [
 			{
-				"Name": "download",
-				"URL": "https://github.com/insp3ctre/race-the-web"
+				"name": "download",
+				"url": "https://github.com/insp3ctre/race-the-web"
 			}
 		],
 		"author": "insp3ctre",
