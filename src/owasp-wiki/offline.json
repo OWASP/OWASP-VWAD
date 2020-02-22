@@ -6,13 +6,9 @@
 			"C#"
 		],
 		"references": [
-			{
-				"name": "download",
-				"url": "http://github.com/jerryhoff/WebGoat.NET"
-			}
 		],
 		"author": "OWASP",
-		"notes": null
+		"notes": "Original main repo: http://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET."
 	},
 	{
 		"url": "https://github.com/digininja/authlab",
@@ -265,6 +261,22 @@
 		"notes": null
 	},
 	{
+		"url": "https://github.com/snsttr/diwa",
+		"name": "DIWA",
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/snsttr/diwa/tree/master/docs"
+			}
+		],
+		"author": "Tim Steufmehl",
+		"notes": "A Deliberately Insecure Web Application"
+	},
+	{
 		"url": "https://github.com/red-and-black/DjangoGoat",
 		"name": "DjangoGoat",
 		"technology": [
@@ -404,6 +416,19 @@
 		"notes": null
 	},
 	{
+		"url": "https://github.com/omerlh/insecure-deserialisation-net-poc",
+		"name": "insecure-deserialisation-net-poc",
+		"technology": [
+			".NET",
+			"JSON",
+			"yoserial.NET"
+		],
+		"references": [
+		],
+		"author": "Omer Levi Hevroni",
+		"notes": "A small webserver vulnerable to insecure deserialization"
+	},
+	{
 		"url": "http://sourceforge.net/projects/lampsecurity/",
 		"name": "LampSecurity",
 		"technology": [
@@ -416,10 +441,24 @@
 	{
 		"url": "https://github.com/SpiderLabs/MCIR",
 		"name": "Magical Code Injection Rainbow - MCIR",
-		"technology": "PHP",
+		"technology": [
+			"PHP"
+		],
 		"references": [],
 		"author": "SpiderLabs",
 		"notes": null
+	},
+	{
+		"url": "https://github.com/cschneider4711/Marathon",
+		"name": "Marathon",
+		"technology": [
+			"JAVA",
+			"Docker"
+		],
+		"references": [
+		],
+		"author": "Christian Schneider",
+		"notes": "Vulnerable demo application"
 	},
 	{
 		"url": "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",

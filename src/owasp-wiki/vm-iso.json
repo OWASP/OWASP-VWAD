@@ -294,6 +294,18 @@
 		"notes": null
 	},
 	{
+		"url": "https://github.com/ScaleSec/vulnado",
+		"name": "Vulnado",
+		"technology": [
+			"Java",
+			"Docker"
+		],
+		"references": [
+		],
+		"author": "ScaleSec",
+		"notes": "Purposely vulnerable Java application to help lead secure coding workshops"
+	},
+	{
 		"url": "http://www.mavensecurity.com/web_security_dojo/",
 		"name": "Web Security Dojo",
 		"technology": [
