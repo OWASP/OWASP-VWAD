@@ -66,6 +66,26 @@
 		"author": "BGA Security",
 		"notes": null
 	},
+		{
+		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
+		"name": "CloudGoat",
+		"technology": [
+			"Python",
+			"AWS"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://rhinosecuritylabs.com/aws/cloudgoat-vulnerable-design-aws-environment/"
+			},
+			{
+				"name": "guide",
+				"url": "https://medium.com/@rzepsky/playing-with-cloudgoat-part-1-hacking-aws-ec2-service-for-privilege-escalation-4c42cc83f9da"
+			}
+		],
+		"author": "Rhino Security Labs",
+		"notes": null
+	},
 	{
 		"url": "http://crackme.trustwave.com/",
 		"name": "Crack Me Bank",
@@ -195,6 +215,18 @@
 			{
 				"name": "download",
 				"url": "https://github.com/rapid7/hackazon"
+			},
+			{
+				"name": "guide",
+				"url": "https://medium.com/faun/automating-authenticated-api-vulnerability-scanning-with-owasp-zap-eaddba0c2e94"
+			},
+			{
+				"name": "guide",
+				"url": "https://github.com/tahmed11/OWASP_ZAP_API_scripts"
+			},
+			{
+				"name": "guide",
+				"url": "https://github.com/rapid7/hackazon/blob/master/REST.md"
 			}
 		],
 		"author": "Rapid7 (NTObjectives)",
