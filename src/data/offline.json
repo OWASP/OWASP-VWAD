@@ -235,12 +235,12 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://code.google.com/p/dvwa/downloads/list"
+				"url": "https://github.com/ethicalhack3r/DVWA"
 			}
 		],
 		"author": "RandomStorm",
 		"notes": null,
-		"badge": null
+		"badge": "ethicalhack3r/DVWA"
 	},
 	{
 		"url": "https://github.com/snoopysecurity/dvws",
@@ -350,12 +350,12 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://code.google.com/p/owasp-hackademic-challenges/"
+				"url": "https://github.com/Hackademic/hackademic"
 			}
 		],
 		"author": "OWASP",
 		"notes": null,
-		"badge": null
+		"badge": "Hackademic/hackademic"
 	},
 	{
 		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
@@ -504,12 +504,12 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://www.irongeek.com/mutillidae/"
+				"url": "https://github.com/webpwnized/mutillidae"
 			}
 		],
 		"author": null,
 		"notes": null,
-		"badge": null
+		"badge": "webpwnized/mutillidae"
 	},
 	{
 		"url": "https://digi.ninja/projects/nosqli_lab.php",
@@ -526,7 +526,7 @@
 		],
 		"author": "@digininja",
 		"notes": null,
-		"badge": null
+		"badge": "digininja/nosqlilab"
 	},
 	{
 		"url": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project",
@@ -534,10 +534,15 @@
 		"technology": [
 			"Node.js"
 		],
-		"references": [],
+		"references": [
+			{
+				"name": "download",
+			  	"url": "https://github.com/OWASP/NodeGoat"
+			}
+		],
 		"author": "OWASP",
 		"notes": null,
-		"badge": null
+		"badge": "OWASP/NodeGoat"
 	},
 	{
 		"url": "https://github.com/cr0hn/vulnerable-node",
@@ -728,12 +733,12 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/owaspshepherd/"
+				"url": "https://github.com/OWASP/SecurityShepherd"
 			}
 		],
 		"author": "OWASP",
 		"notes": null,
-		"badge": null
+		"badge": "OWASP/SecurityShepherd"
 	},
 	{
 		"url": "https://github.com/dhatanian/ticketmagpie",
@@ -894,7 +899,7 @@
 		"badge": "adamdoupe/WackoPicko"
 	},
 	{
-		"url": "https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project",
+		"url": "https://webgoat.github.io/WebGoat/",
 		"name": "WebGoat",
 		"technology": [
 			"Java"
@@ -902,12 +907,15 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://code.google.com/p/webgoat/downloads/list"
+				"url": "https://github.com/WebGoat/WebGoat"
 			},
 			{
 				"name": "guide",
 				"url": "https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents"
-			}
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/webgoat/webgoat-8.0/"
 		],
 		"author": "OWASP",
 		"notes": null,
