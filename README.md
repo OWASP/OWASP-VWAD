@@ -2,10 +2,7 @@
 
 The OWASP Vulnerable Web Applications Directory Project (VWAD, https://owasp.org/www-project-vulnerable-web-applications-directory/) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.
 
-The three individual lists are avilable via:
-- https://owasp.org/www-project-vulnerable-web-applications-directory/online 
-- https://owasp.org/www-project-vulnerable-web-applications-directory/offline
-- https://owasp.org/www-project-vulnerable-web-applications-directory/vm-iso
+The three individual lists are available via separate tabs on: 9https://owasp.org/www-project-vulnerable-web-applications-directory/)[https://owasp.org/www-project-vulnerable-web-applications-directory/] 
 
 ## Editing Process
 
