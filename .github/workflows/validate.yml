@@ -1,0 +1,29 @@
+name: Validate JSONs
+
+on: 
+  push:
+    paths:
+    - '**.json'
+  pull_request:
+    paths:
+    - '**.json'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    env:
+      CI: true
+    steps:
+    - name: Setup Action
+      uses: actions/checkout@v1
+    - name: Setup Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: 13.x
+    - name: Install dependencies
+      run: npm install jsonlint -g
+    - name: Run linter
+      run: |
+        jsonlint src/data/offline.json
+        jsonlint src/data/online.json
+        jsonlint src/data/vm-iso.json
