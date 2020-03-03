@@ -16,7 +16,8 @@
 			}
 		],
 		"author": "OWASP - Chuck Willis",
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://www.badstore.net/",
@@ -31,7 +32,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://sourceforge.net/projects/bwapp/files/bee-box/",
@@ -41,7 +43,8 @@
 		],
 		"references": [],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "https://bechtsoudis.com/work-stuff/challenges/drunk-admin-web-hacking-challenge/",
@@ -56,7 +59,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://exploit.co.il/projects/vuln-web-app/",
@@ -71,7 +75,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://sourceforge.net/projects/null-gameover/",
@@ -86,7 +91,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
@@ -105,7 +111,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://ninja-sec.com/index.php/hacme-bank-prebuilt-vmware-image-ninja-sec-com/",
@@ -120,7 +127,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://www.kioptrix.com/blog/?p=604",
@@ -136,7 +144,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://sourceforge.net/projects/lampsecurity/",
@@ -151,7 +160,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "https://community.rapid7.com/docs/DOC-1875",
@@ -166,7 +176,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities",
@@ -181,7 +192,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": "rapid7/metasploitable3"
 	},
 	{
 		"url": "http://www.bonsai-sec.com/en/research/moth.php",
@@ -196,7 +208,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://phdays.blogspot.com.es/2012/05/once-again-about-remote-banking.html",
@@ -211,7 +224,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "https://www.pentesterlab.com/exercises/",
@@ -222,7 +236,8 @@
 		],
 		"references": [],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "https://hub.docker.com/r/deadrobots/pixi/",
@@ -246,7 +261,8 @@
 			}
 		],
 		"author": "thedeadrobots",
-		"notes": null
+		"notes": null,
+		"badge": "thedeadrobots/pixi"
 	},
 	{
 		"url": "http://www.samurai-wtf.org/",
@@ -261,7 +277,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://sg6-labs.blogspot.com/2007/12/secgame-1-sauron.html",
@@ -276,7 +293,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://sourceforge.net/projects/virtualhacking/",
@@ -291,7 +309,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "https://github.com/ScaleSec/vulnado",
@@ -303,7 +322,8 @@
 		"references": [
 		],
 		"author": "ScaleSec",
-		"notes": "Purposely vulnerable Java application to help lead secure coding workshops"
+		"notes": "Purposely vulnerable Java application to help lead secure coding workshops",
+		"badge": "ScaleSec/vulnado"
 	},
 	{
 		"url": "http://www.mavensecurity.com/web_security_dojo/",
@@ -319,7 +339,8 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://www.ethicalhack3r.co.uk/wordpress-cd/",
@@ -334,7 +355,8 @@
 			}
 		],
 		"author": "ethicalhack3r",
-		"notes": null
+		"notes": null,
+		"badge": null
 	},
 	{
 		"url": "http://xxe.sourceforge.net/",
@@ -349,6 +371,7 @@
 			}
 		],
 		"author": null,
-		"notes": null
+		"notes": null,
+		"badge": null
 	}
 ]

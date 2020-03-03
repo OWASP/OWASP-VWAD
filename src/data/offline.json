@@ -916,6 +916,7 @@
 			{
 				"name": "docker",
 				"url": "https://hub.docker.com/r/webgoat/webgoat-8.0/"
+			}
 		],
 		"author": "OWASP",
 		"notes": null,
