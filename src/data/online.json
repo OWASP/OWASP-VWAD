@@ -269,16 +269,30 @@
 		"badge": null
 	},
 	{
-		"url": "https://juice-shop.herokuapp.com",
+		"url": "https://owasp-juice.shop",
 		"name": "OWASP Juice Shop",
 		"technology": [
 			"Javascript",
 			"Angular",
 			"Node.js"
 		],
-		"references": [],
+		"references": [
+			{
+				"name": "demo",
+				"url": "https://juice-shop.herokuapp.com"
+			},
+			{
+				"name": "preview",
+				"url": "https://juice-shop-staging.herokuapp.com"
+			},
+			{
+				"name": "guide",
+				"url": "https://pwning.owasp-juice.shop/"
+			}
+		],
 		"author": "OWASP",
-		"notes": "Demo instance. Do not use for massive attacks/scans!"
+		"notes": "Do not use these instances for massive attacks/scans! Demo hosts latest released version. Preview hosts snapshot of upcoming release.",
+		"badge": "bkimminich/juice-shop"
 	},
 	{
 		"url": "http://aspnet.testsparker.com/",
