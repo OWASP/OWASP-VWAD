@@ -582,6 +582,22 @@
 		"badge": "bkimminich/juice-shop"
 	},
 	{
+		"url": "https://github.com/SasanLabs/VulnerableApp",
+		"name": "OWASP VulnerableApp",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/SasanLabs/VulnerableApp"
+			}
+		],
+		"author": "Karan Preet Singh Sasan",
+		"notes": null,
+		"badge": "SasanLabs/VulnerableApp"
+	},
+	{
 		"url": "http://peruggia.sourceforge.net/",
 		"name": "Peruggia",
 		"technology": [
