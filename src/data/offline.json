@@ -1027,5 +1027,21 @@
 		"author": "Matthew Valdes",
 		"notes": null,
 		"badge": "mattvaldes/vulnerable-api"
+	},
+	{
+		"url": "https://github.com/SasanLabs/VulnerableApp",
+		"name": "Owasp VulnerableApp",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/SasanLabs/VulnerableApp"
+			}
+		],
+		"author": "Karan Preet Singh Sasan",
+		"notes": null,
+		"badge": "SasanLabs/VulnerableApp"
 	}
 ]
