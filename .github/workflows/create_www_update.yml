@@ -15,8 +15,9 @@ jobs:
     - name: Build Feature Branch and Raise PR
       run: |
         # Setup git details
+        export GITHUB_USER=vwadbot
         git config --global user.email "62956126+vwadbot@users.noreply.github.com"
-        git config --global user.name "vwadbot"
+        git config --global user.name $GITHUB_USER
         # Clone repos
         git clone upstream https://github.com/OWASP/www-project-vulnerable-web-applications-directory.git
         git clone https://github.com/OWASP/OWASP-VWAD.git
@@ -28,7 +29,6 @@ jobs:
         SRC_BASE="OWASP/OWASP-VWAD@"$(git log -1 --format=format:%h)
         BRANCH_STAMP="$(date +"%Y%m%d%H%M%S")"
         SHORT_DATE="$(date +"%Y-%m-%d")"
-        export GITHUB_USER=vwadbot
         export GITHUB_TOKEN=${{ secrets.vwad_deploy_token }}
         # Build the feature branch
         cd $WWW_BASE
