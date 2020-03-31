@@ -1,0 +1,51 @@
+name: Create WWW Update PR
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '**.json'
+
+jobs:
+  create_pr:
+    name: Create Pull Request
+    runs-on: ubuntu-latest
+    steps:
+    - name: Build Feature Branch and Raise PR
+      run: |
+        # Setup git details
+        git config --global user.email "62956126+vwadbot@users.noreply.github.com"
+        git config --global user.name "vwadbot"
+        # Clone repos
+        git clone https://github.com/vwadbot/www-project-vulnerable-web-applications-directory.git
+        git clone https://github.com/OWASP/OWASP-VWAD.git
+        cd www-project-vulnerable-web-applications-directory
+        WWW_BASE="$(pwd)"
+        git add remote upstream https://github.com/OWASP/www-project-vulnerable-web-applications-directory.git
+        git fetch upstream
+        git reset --hard upstream/master
+        git push
+        cd ../OWASP-VWAD
+        VWAD_BASE="$(pwd)"
+        # Setup env vars for later
+        SRC_BASE="OWASP/OWASP-VWAD@"$(git log -1 --format=format:%h)
+        BRANCH_STAMP="$(date +"%Y%m%d%H%M%S")"
+        SHORT_DATE="$(date +"%Y-%m-%d")"
+        export GITHUB_USER=$GITHUB_ACTOR
+        export GITHUB_TOKEN=${{ secrets.vwad_deploy_token }}
+        # Build the feature branch
+        cd $WWW_BASE
+        git checkout -b $BRANCH_STAMP
+        rm _data/offline.json
+        rm _data/online.json
+        rm _data/vm-iso.json
+        cp $VWAD_BASE/src/data/offline.json $WWW_BASE/_data/.
+        cp $VWAD_BASE/src/data/online.json $WWW_BASE/_data/.
+        cp $VWAD_BASE/src/data/vm-iso.json $WWW_BASE/_data/.
+        git remote set-url origin https://$GITHUB_USER:${{ secrets.vwad_deploy_token }}@github.com/vwadbot/www-project-vulnerable-web-applications-directory.git
+        git add .
+        git commit -m "VWAD Update $SHORT_DATE" -m "Updates based on $SRC_BASE"
+        git push --set-upstream origin $BRANCH_STAMP
+        # Open the PR
+        hub pull-request --no-edit
