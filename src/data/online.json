@@ -134,6 +134,15 @@
 		"badge": null
 	},
 	{
+		"url": "http://www.gameofhacks.com/",
+		"name": "Game of Hacks",
+		"technology": [],
+		"references": [],
+		"author": "Checkmarx",
+		"notes": null,
+		"badge": null
+	},
+	{
 		"url": "https://public-firing-range.appspot.com/",
 		"name": "Firing Range",
 		"technology": [],
