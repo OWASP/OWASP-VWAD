@@ -45,4 +45,4 @@ jobs:
         git commit -m "VWAD Update $SHORT_DATE" -m "Updates based on $SRC_BASE"
         git push --set-upstream origin $BRANCH_STAMP
         # Open the PR
-        hub pull-request -b upstream:master --no-edit
+        hub pull-request --no-edit
