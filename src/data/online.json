@@ -138,7 +138,7 @@
 		"name": "Game of Hacks",
 		"technology": [
 			"Node",
-			"ExpressJS"
+			"Express.js"
 		],
 		"references": [],
 		"author": "Checkmarx",
