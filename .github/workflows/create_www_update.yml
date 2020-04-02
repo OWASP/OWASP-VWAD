@@ -3,9 +3,9 @@ name: Create WWW Update PR
 on:
   push:
     branches:
-      - master
+    - master
     paths:
-      - '**.json'
+    - '**.json'
 
 jobs:
   create_pr:
