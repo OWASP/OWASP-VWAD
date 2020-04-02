@@ -19,7 +19,7 @@ jobs:
         git config --global user.email "62956126+vwadbot@users.noreply.github.com"
         git config --global user.name $GITHUB_USER
         # Clone repos
-        git clone upstream https://github.com/OWASP/www-project-vulnerable-web-applications-directory.git
+        git clone -o upstream https://github.com/OWASP/www-project-vulnerable-web-applications-directory.git
         git clone https://github.com/OWASP/OWASP-VWAD.git
         cd www-project-vulnerable-web-applications-directory
         WWW_BASE="$(pwd)"
