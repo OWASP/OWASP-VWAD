@@ -23,9 +23,9 @@ jobs:
         git clone https://github.com/OWASP/OWASP-VWAD.git
         cd www-project-vulnerable-web-applications-directory
         WWW_BASE="$(pwd)"
+        git remote add origin https://github.com/$GITHUB_USER/www-project-vulnerable-web-applications-directory.git
         cd ../OWASP-VWAD
         VWAD_BASE="$(pwd)"
-        git remote add origin https://github.com/$GITHUB_USER/www-project-vulnerable-web-applications-directory.git
         # Setup env vars for later
         SRC_BASE="OWASP/OWASP-VWAD@"$(git log -1 --format=format:%h)
         BRANCH_STAMP="$(date +"%Y%m%d%H%M%S")"
