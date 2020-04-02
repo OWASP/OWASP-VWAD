@@ -136,7 +136,10 @@
 	{
 		"url": "http://www.gameofhacks.com/",
 		"name": "Game of Hacks",
-		"technology": [],
+		"technology": [
+			"Node",
+			"ExpressJS"
+		],
 		"references": [],
 		"author": "Checkmarx",
 		"notes": null,
