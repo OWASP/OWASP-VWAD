@@ -1043,5 +1043,16 @@
 		"author": "Matthew Valdes",
 		"notes": null,
 		"badge": "mattvaldes/vulnerable-api"
+	},
+	{
+		"url": "https://github.com/hclproducts/AltoroJ",
+		"name": "AltoroJ",
+		"technology": [
+			"J2EE"
+		],
+		"references": [],
+		"author": "HCL Technologies",
+		"notes": "Source code of Altoro Mutual",
+		"badge": "hclproducts/AltoroJ"
 	}
 ]

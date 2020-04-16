@@ -35,11 +35,13 @@
 	{
 		"url": "http://demo.testfire.net/",
 		"name": "Altoro Mutual",
-		"technology": [],
+		"technology": [
+			"J2EE"
+		],
 		"references": [],
 		"author": "IBM/Watchfire",
-		"notes": "(jsmith/Demo1234)",
-		"badge": null
+		"notes": "Log in with jsmith/demo1234 or admin/admin",
+		"badge": "hclproducts/AltoroJ"
 	},
 	{
 		"url": "https://github.com/digininja/authlab",
