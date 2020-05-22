@@ -460,6 +460,22 @@
 		"notes": "A small webserver vulnerable to insecure deserialization",
 		"badge": "omerlh/insecure-deserialisation-net-poc"
 	},
+		{
+		"url": "https://github.com/Sjord/jwtdemo/",
+		"name": "jwtdemo",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "Guide",
+				"url": "https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/"
+			}
+		],
+		"author": "Sjoerd Langkemper (Sjord)",
+		"notes": "Practice hacking JWT tokens.",
+		"badge": "Sjord/jwtdemo"
+	},
 	{
 		"url": "http://sourceforge.net/projects/lampsecurity/",
 		"name": "LampSecurity",
@@ -1043,6 +1059,22 @@
 		"author": "Matthew Valdes",
 		"notes": null,
 		"badge": "mattvaldes/vulnerable-api"
+	},
+	{
+		"url": "https://github.com/marmicode/websheep",
+		"name": "websheep",
+		"technology": [
+			"Node"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/wishtack/wishtack-websheep"
+			}
+		],
+		"author": "Younes Jaaidi (yjaaidi)",
+		"notes": " Websheep is an app based on a willingly vulnerable ReSTful APIs.",
+		"badge": "wishtack/wishtack-websheep"
 	},
 	{
 		"url": "https://github.com/hclproducts/AltoroJ",
