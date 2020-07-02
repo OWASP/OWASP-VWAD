@@ -8,4 +8,4 @@ The three individual lists are available via separate tabs on: [https://owasp.or
 
 Just open a PR modifying the [appropriate JSON file](https://github.com/OWASP/OWASP-VWAD/tree/master/src/data).
 
-Currently (20200301) they are manually copied/deployed to the `www-project-vulnerable-web-applications-directory` repo, from which they are rendered on the owasp.org website. 
+Currently (20200331) they are automatically copied/deployed to the `www-project-vulnerable-web-applications-directory` repo, from which they are rendered on the owasp.org website. 
