@@ -12,6 +12,18 @@
 		"badge": "jerryhoff/WebGoat.NET"
 	},
 	{
+		"url": "https://github.com/hclproducts/AltoroJ",
+		"name": "AltoroJ",
+		"technology": [
+			"J2EE"
+		],
+		"references": [
+		],
+		"author": "HCL Technologies",
+		"notes": "Source code of Altoro Mutual",
+		"badge": "hclproducts/AltoroJ"
+	},
+	{
 		"url": "https://github.com/digininja/authlab",
 		"name": "AuthLab",
 		"technology": [
@@ -33,7 +45,8 @@
 		"technology": [
 			"Perl(CGI)"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": null,
 		"notes": null,
 		"badge": null
@@ -127,9 +140,27 @@
 		"technology": [
 			"Ruby on Rails"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": null,
 		"badge": "fridaygoldsmith/bwa_cyclone_transfers"
+	},
+	{
+		"url": "https://github.com/snsttr/diwa",
+		"name": "DIWA",
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/snsttr/diwa/tree/master/docs"
+			}
+		],
+		"author": "Tim Steufmehl",
+		"notes": "A Deliberately Insecure Web Application",
+		"badge": "snsttr/diwa"
 	},
 	{
 		"url": "https://github.com/stamparm/DSVW",
@@ -137,7 +168,8 @@
 		"technology": [
 			"Python"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "Miroslav Stampar",
 		"notes": null,
 		"badge": "stamparm/DSVW"
@@ -148,7 +180,8 @@
 		"technology": [
 			"PHP"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "Thin Ba Shane (@art0flunam00n)",
 		"notes": null,
 		"badge": "LunaM00n/File-Upload-Lab"
@@ -176,7 +209,8 @@
 		"technology": [
 			"Node.js"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "Claudio Lacayo",
 		"notes": null,
 		"badge": "isp1r0/DVNA"
@@ -187,10 +221,24 @@
 		"technology": [
 			"Node.js"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "@appsecco",
 		"notes": "Different project from the old DVNA",
 		"badge": "appsecco/dvna"
+	},
+	{
+		"url": "https://github.com/anxolerd/dvpwa",
+		"name": "Damn Vulnerable Python Web Application - DVPWA",
+		"technology": [
+			"Python",
+			"Docker"
+		],
+		"references": [
+		],
+		"author": "Oleksandr Kovalchuk",
+		"notes": null,
+		"badge": "anxolerd/dvpwa"
 	},
 	{
 		"url": "https://github.com/OWASP/DVSA",
@@ -248,7 +296,8 @@
 		"technology": [
 			"Web Services"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "snoopysecurity",
 		"notes": null,
 		"badge": "snoopysecurity/dvws"
@@ -275,27 +324,11 @@
 		"technology": [
 			"Web Sockets"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "@appsecco",
 		"notes": null,
 		"badge": "interference-security/DVWS"
-	},
-	{
-		"url": "https://github.com/snsttr/diwa",
-		"name": "DIWA",
-		"technology": [
-			"PHP",
-			"Docker"
-		],
-		"references": [
-			{
-				"name": "guide",
-				"url": "https://github.com/snsttr/diwa/tree/master/docs"
-			}
-		],
-		"author": "Tim Steufmehl",
-		"notes": "A Deliberately Insecure Web Application",
-		"badge": "snsttr/diwa"
 	},
 	{
 		"url": "https://github.com/red-and-black/DjangoGoat",
@@ -304,7 +337,8 @@
 			"Python",
 			"Django"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "Red and Black",
 		"notes": null,
 		"badge": "red-and-black/DjangoGoat"
@@ -376,8 +410,10 @@
 	{
 		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx",
 		"name": "Hacme Bank - Android",
-		"technology": [],
-		"references": [],
+		"technology": [
+		],
+		"references": [
+		],
 		"author": "McAfee / Foundstone",
 		"notes": null,
 		"badge": null
@@ -447,42 +483,13 @@
 		"badge": null
 	},
 	{
-		"url": "https://github.com/omerlh/insecure-deserialisation-net-poc",
-		"name": "insecure-deserialisation-net-poc",
-		"technology": [
-			".NET",
-			"JSON",
-			"yoserial.NET"
-		],
-		"references": [
-		],
-		"author": "Omer Levi Hevroni",
-		"notes": "A small webserver vulnerable to insecure deserialization",
-		"badge": "omerlh/insecure-deserialisation-net-poc"
-	},
-		{
-		"url": "https://github.com/Sjord/jwtdemo/",
-		"name": "jwtdemo",
-		"technology": [
-			"PHP"
-		],
-		"references": [
-			{
-				"name": "Guide",
-				"url": "https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/"
-			}
-		],
-		"author": "Sjoerd Langkemper (Sjord)",
-		"notes": "Practice hacking JWT tokens.",
-		"badge": "Sjord/jwtdemo"
-	},
-	{
 		"url": "http://sourceforge.net/projects/lampsecurity/",
 		"name": "LampSecurity",
 		"technology": [
 			"PHP"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": null,
 		"notes": null,
 		"badge": null
@@ -493,7 +500,8 @@
 		"technology": [
 			"PHP"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "SpiderLabs",
 		"notes": null,
 		"badge": "SpiderLabs/MCIR"
@@ -553,7 +561,7 @@
 		"references": [
 			{
 				"name": "download",
-			  	"url": "https://github.com/OWASP/NodeGoat"
+				"url": "https://github.com/OWASP/NodeGoat"
 			}
 		],
 		"author": "OWASP",
@@ -566,7 +574,8 @@
 		"technology": [
 			"Node.js"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "cr0hn",
 		"notes": null,
 		"badge": "cr0hn/vulnerable-node"
@@ -688,7 +697,8 @@
 		"technology": [
 			"PHP"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": null,
 		"notes": "SQLmap Project",
 		"badge": "sqlmapproject/testenv"
@@ -735,7 +745,8 @@
 		"technology": [
 			"Java"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "Stanford",
 		"notes": null,
 		"badge": null
@@ -806,6 +817,18 @@
 		"badge": "payatu/Tiredful-API"
 	},
 	{
+		"url": "https://github.com/lucideus-repo/UnSAFE_Bank",
+		"name": "UnSAFE Bank",
+		"technology": [
+			"Docker"
+		],
+		"references": [
+		],
+		"author": "lucideus",
+		"notes": "Web, Android and iOS application",
+		"badge": "lucideus-repo/UnSAFE_Bank"
+	},
+	{
 		"url": "http://www.nth-dimension.org.uk/blog.php?id=88",
 		"name": "VulnApp",
 		"technology": [
@@ -831,7 +854,8 @@
 		"technology": [
 			"Java"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "Cyber Security and Privacy Foundation",
 		"notes": null,
 		"badge": "CSPF-Founder/JavaVulnerableLab"
@@ -843,7 +867,8 @@
 			"PHP",
 			"Google OTP"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "mddanish",
 		"notes": null,
 		"badge": "mddanish/Vulnerable-OTP-Application"
@@ -854,7 +879,8 @@
 		"technology": [
 			"Python"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": "yogisec",
 		"notes": null,
 		"badge": "yogisec/VulnerableSAMLApp"
@@ -862,11 +888,25 @@
 	{
 		"url": "http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/",
 		"name": "Vulnerable Web App",
-		"technology": [],
-		"references": [],
+		"technology": [
+		],
+		"references": [
+		],
 		"author": "Exploit.co.il",
 		"notes": null,
 		"badge": null
+	},
+	{
+		"url": "https://github.com/ctxis/VulnerableXsltConsoleApplication",
+		"name": "VulnerableXsltConsoleApplication",
+		"technology": [
+			".Net"
+		],
+		"references": [
+		],
+		"author": " Context Information Security",
+		"notes": "This is a console app, however it relates to an issues that is relevant to web apps: use of XSLT transforms for XML files.",
+		"badge": "ctxis/VulnerableXsltConsoleApplication"
 	},
 	{
 		"url": "https://github.com/sectooladdict/wavsep",
@@ -895,7 +935,8 @@
 	{
 		"url": "https://code.google.com/p/wivet/",
 		"name": "WIVET- Web Input Vector Extractor Teaser",
-		"technology": [],
+		"technology": [
+		],
 		"references": [
 			{
 				"name": "download",
@@ -1010,11 +1051,43 @@
 	{
 		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
 		"name": "hackxor",
-		"technology": [],
-		"references": [],
+		"technology": [
+		],
+		"references": [
+		],
 		"author": null,
 		"notes": "First 2 levels online, rest offline",
 		"badge": null
+	},
+	{
+		"url": "https://github.com/omerlh/insecure-deserialisation-net-poc",
+		"name": "insecure-deserialisation-net-poc",
+		"technology": [
+			".NET",
+			"JSON",
+			"yoserial.NET"
+		],
+		"references": [
+		],
+		"author": "Omer Levi Hevroni",
+		"notes": "A small webserver vulnerable to insecure deserialization",
+		"badge": "omerlh/insecure-deserialisation-net-poc"
+	},
+	{
+		"url": "https://github.com/Sjord/jwtdemo/",
+		"name": "jwtdemo",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "Guide",
+				"url": "https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/"
+			}
+		],
+		"author": "Sjoerd Langkemper (Sjord)",
+		"notes": "Practice hacking JWT tokens.",
+		"badge": "Sjord/jwtdemo"
 	},
 	{
 		"url": "https://github.com/playframework/play-webgoat",
@@ -1024,7 +1097,8 @@
 			"Scala",
 			"Play Framework"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": null,
 		"notes": null,
 		"badge": "playframework/play-webgoat"
@@ -1075,16 +1149,5 @@
 		"author": "Younes Jaaidi (yjaaidi)",
 		"notes": " Websheep is an app based on a willingly vulnerable ReSTful APIs.",
 		"badge": "wishtack/wishtack-websheep"
-	},
-	{
-		"url": "https://github.com/hclproducts/AltoroJ",
-		"name": "AltoroJ",
-		"technology": [
-			"J2EE"
-		],
-		"references": [],
-		"author": "HCL Technologies",
-		"notes": "Source code of Altoro Mutual",
-		"badge": "hclproducts/AltoroJ"
 	}
 ]
