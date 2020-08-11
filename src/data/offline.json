@@ -136,6 +136,7 @@
 			}
 		],
 		"author": "SpiderLabs",
+		"notes": null,
 		"badge": "SpiderLabs/CryptOMG"
 	},
 	{
@@ -147,6 +148,7 @@
 		"references": [
 		],
 		"author": null,
+		"notes": null,
 		"badge": "fridaygoldsmith/bwa_cyclone_transfers"
 	},
 	{
@@ -1124,6 +1126,7 @@
 			}
 		],
 		"author": "Sakti Dwi Cahyono",
+		"notes": null,
 		"badge": "sakti/twitterlike"
 	},
 	{
