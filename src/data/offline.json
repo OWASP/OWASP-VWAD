@@ -80,7 +80,11 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sechow.com/bricks/download.html http://sechow.com/bricks/docs/"
+				"url": "http://sechow.com/bricks/download.html"
+			},
+			{
+				"name": "guide",
+				"url": "http://sechow.com/bricks/docs/"
 			}
 		],
 		"author": "OWASP",
@@ -1041,7 +1045,11 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/bwapp/files/ http://itsecgames.blogspot.be/2013/01/bwapp-installation.html"
+				"url": "http://sourceforge.net/projects/bwapp/files/"
+			},
+			{
+				"name": "guide",
+				"url": "http://itsecgames.blogspot.be/2013/01/bwapp-installation.html"
 			}
 		],
 		"author": null,
@@ -1081,7 +1089,7 @@
 		],
 		"references": [
 			{
-				"name": "Guide",
+				"name": "guide",
 				"url": "https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/"
 			}
 		],

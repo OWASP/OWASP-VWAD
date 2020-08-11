@@ -1,0 +1,105 @@
+{
+	"type": "array",
+	"items": {
+		"$ref": "#/definitions/VWADEntry"
+	},
+	"title": "OWASP VWAD Schema",
+	"definitions": {
+		"VWADEntry": {
+			"type": "object",
+			"additionalProperties": false,
+			"properties": {
+				"url": {
+					"type": "string",
+					"format": "uri"
+				},
+				"name": {
+					"type": "string"
+				},
+				"technology": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					}
+				},
+				"references": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/Reference"
+					}
+				},
+				"author": {
+					"anyOf": [
+						{
+							"type": "null"
+						},
+						{
+							"type": "string"
+						}
+					]
+				},
+				"notes": {
+					"anyOf": [
+						{
+							"type": "null"
+						},
+						{
+							"type": "string"
+						}
+					]
+				},
+				"badge": {
+					"anyOf": [
+						{
+							"type": "null"
+						},
+						{
+							"type": "string"
+						}
+					]
+				}
+			},
+			"required": [
+				"author",
+				"badge",
+				"name",
+				"references",
+				"technology",
+				"url"
+			],
+			"title": "WelcomeElement"
+		},
+		"Reference": {
+			"type": "object",
+			"additionalProperties": false,
+			"properties": {
+				"name": {
+					"$ref": "#/definitions/Name"
+				},
+				"url": {
+					"type": "string",
+					"format": "uri"
+				}
+			},
+			"required": [
+				"name",
+				"url"
+			],
+			"title": "Reference"
+		},
+		"Name": {
+			"type": "string",
+			"enum": [
+				"guide",
+				"download",
+				"docker",
+				"downloads",
+				"announcement",
+				"live",
+				"demo",
+				"preview"
+			],
+			"title": "Name"
+		}
+	}
+}

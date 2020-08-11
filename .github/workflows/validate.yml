@@ -6,21 +6,20 @@ on:
     - '**.json'
 
 jobs:
-  lint:
+  schema-check:
     runs-on: ubuntu-latest
-    env:
-      CI: true
     steps:
-    - name: Setup Action
-      uses: actions/checkout@v1
+    - name: Checkout
+      uses: actions/checkout@v2
     - name: Setup Node
       uses: actions/setup-node@v1
       with:
         node-version: 13.x
     - name: Install dependencies
-      run: npm install jsonlint -g
-    - name: Run linter
+      run: npm install -g ajv-cli
+    - name: Run schema check
       run: |
-        jsonlint src/data/offline.json
-        jsonlint src/data/online.json
-        jsonlint src/data/vm-iso.json
+        ajv validate -s schema.json -d src/data/offline.json --all-errors --error-data-path=property --verbose=true
+        ajv validate -s schema.json -d src/data/online.json --all-errors --error-data-path=property --verbose=true
+        ajv validate -s schema.json -d src/data/vm-iso.json --all-errors --error-data-path=property --verbose=true
+
