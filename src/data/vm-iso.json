@@ -41,7 +41,8 @@
 		"technology": [
 			"VMware"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": null,
 		"notes": null,
 		"badge": null
@@ -156,7 +157,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/lampsecurity/files/ "
+				"url": "http://sourceforge.net/projects/lampsecurity/files/"
 			}
 		],
 		"author": null,
@@ -234,7 +235,8 @@
 			"ISO",
 			"PDF"
 		],
-		"references": [],
+		"references": [
+		],
 		"author": null,
 		"notes": null,
 		"badge": null
@@ -256,7 +258,7 @@
 				"url": "https://www.slideshare.net/TanyaJanca/api-and-web-service-hacking-with-pixi-part-of-owasp-devslop"
 			},
 			{
-				"name": "youtube",
+				"name": "guide",
 				"url": "https://www.youtube.com/watch?v=td-2rN4PgRw"
 			}
 		],
