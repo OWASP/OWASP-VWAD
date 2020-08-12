@@ -29,7 +29,7 @@
 					}
 				},
 				"author": {
-					"anyOf": [
+					"oneOf": [
 						{
 							"type": "null"
 						},
@@ -39,7 +39,7 @@
 					]
 				},
 				"notes": {
-					"anyOf": [
+					"oneOf": [
 						{
 							"type": "null"
 						},
@@ -49,7 +49,7 @@
 					]
 				},
 				"badge": {
-					"anyOf": [
+					"oneOf": [
 						{
 							"type": "null"
 						},
@@ -68,7 +68,7 @@
 				"technology",
 				"url"
 			],
-			"title": "WelcomeElement"
+			"title": "VWADEntry"
 		},
 		"Reference": {
 			"type": "object",
