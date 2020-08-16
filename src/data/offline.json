@@ -616,9 +616,15 @@
 		"url": "https://github.com/SasanLabs/VulnerableApp",
 		"name": "OWASP VulnerableApp",
 		"technology": [
-			"Java"
+			"Java",
+			"Javascript",
+			"Spring-Boot"
 		],
 		"references": [
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/sasanlabs/owasp-vulnerableapp"
+			},
 			{
 				"name": "download",
 				"url": "https://github.com/SasanLabs/VulnerableApp"
