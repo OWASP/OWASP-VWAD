@@ -491,5 +491,21 @@
 		"author": "albinowax",
 		"notes": "Web application hacking game via missions, based on real vulnerabilities.",
 		"badge": null
-	}
+	},
+	{
+		"url": "https://cyberscavengerhunt.com",
+		"name": "Cyber Scavenger Hunt",
+		"technology": [
+			"Javacript",
+			"React"
+		],
+		"references": [
+			{
+				"name": "GitHub",
+				"url": "https://github.com/arthurakay/cyberscavengerhunt"
+			}
+		],
+		"author": "Arthur Kay",
+		"notes": "A simple scavenger hunt to learn about pentesting a website or web application.",
+		"badge": null
 ]
