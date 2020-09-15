@@ -1155,16 +1155,18 @@
 		"url": "https://github.com/marmicode/websheep",
 		"name": "websheep",
 		"technology": [
+			"Angular",
+			"JavaScript",
 			"Node"
 		],
 		"references": [
 			{
 				"name": "guide",
-				"url": "https://github.com/wishtack/wishtack-websheep"
+				"url": "https://github.com/marmicode/websheep"
 			}
 		],
 		"author": "Younes Jaaidi (yjaaidi)",
 		"notes": " Websheep is an app based on a willingly vulnerable ReSTful APIs.",
-		"badge": "wishtack/wishtack-websheep"
+		"badge": "marmicode/websheep"
 	}
 ]
