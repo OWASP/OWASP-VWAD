@@ -345,7 +345,7 @@
 		],
 		"references": [
 			{
-				"name": "Wiki",
+				"name": "guide",
 				"url": "https://github.com/snoopysecurity/dvws-node/wiki"
 			}
 		],
