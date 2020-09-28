@@ -337,6 +337,23 @@
 		"badge": "interference-security/DVWS"
 	},
 	{
+		"url": "https://github.com/snoopysecurity/dvws-node",
+		"name": "dvws-node",
+		"technology": [
+			"Web Services",
+			"NodeJS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/snoopysecurity/dvws-node/wiki"
+			}
+		],
+		"author": "@snoopysecurity",
+		"notes": null,
+		"badge": "snoopysecurity/dvws-node"
+	},
+	{
 		"url": "https://github.com/red-and-black/DjangoGoat",
 		"name": "DjangoGoat",
 		"technology": [
