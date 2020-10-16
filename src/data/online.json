@@ -134,6 +134,17 @@
 		"badge": "OWASP/DVSA"
 	},
 	{
+		"url": "https://defendtheweb.net/",
+		"name": "Defend the Web",
+		"technology": [
+		],
+		"references": [
+		],
+		"author": "Luke [flabbyrabbit]",
+		"notes": "Formerly HackThis",
+		"badge": null
+	},
+	{
 		"url": "http://enigmagroup.org/",
 		"name": "Enigma Group",
 		"technology": [
