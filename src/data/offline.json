@@ -506,6 +506,26 @@
 		"badge": null
 	},
 	{
+		"url": "https://github.com/iknowjason/hammer",
+		"name": "Hammer",
+		"technology": [
+			"Ruby on Rails"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/iknowjason/hammer"
+			},
+			{
+				"name": "live",
+				"url": "https://preprod.rtcfingroup.com/"
+			}
+		],
+		"author": "iknowjason",
+		"notes": "Includes manual build and docker options.",
+		"badge": "iknowjason/hammer"
+	},
+	{
 		"url": "http://sourceforge.net/projects/lampsecurity/",
 		"name": "LampSecurity",
 		"technology": [
