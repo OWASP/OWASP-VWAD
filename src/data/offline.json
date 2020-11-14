@@ -371,7 +371,7 @@
 		"badge": null
 	},
 	{
-		"url": "https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project",
+		"url": "https://github.com/Hackademic/hackademic",
 		"name": "Hackademic Challenges Project",
 		"technology": [
 			"PHP"
