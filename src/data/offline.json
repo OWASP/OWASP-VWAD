@@ -40,18 +40,6 @@
 		"badge": "digininja/authlab"
 	},
 	{
-		"url": "http://www.badstore.net/",
-		"name": "BadStore",
-		"technology": [
-			"Perl(CGI)"
-		],
-		"references": [
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "https://github.com/psiinon/bodgeit",
 		"name": "BodgeIt Store",
 		"technology": [
@@ -309,22 +297,6 @@
 		"badge": "snoopysecurity/dvws"
 	},
 	{
-		"url": "http://dvws.secureideas.net/",
-		"name": "Damn Vulnerable Web Services - DVWS",
-		"technology": [
-			"PHP"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://dvws.secureideas.net/downloads/files/dvws.tgz"
-			}
-		],
-		"author": "Secure Ideas",
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "https://github.com/interference-security/DVWS",
 		"name": "Damn Vulnerable Web Sockets",
 		"technology": [
@@ -375,7 +347,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://www.vegabird.com/xvna-setup/"
+				"url": "https://github.com/vegabird/xvna"
 			}
 		],
 		"author": "vegabird",
@@ -688,11 +660,12 @@
 		"badge": null
 	},
 	{
-		"url": "https://devslop.co/Home/Pixi",
+		"url": "https://github.com/DevSlop/Pixi",
 		"name": "Pixi",
 		"technology": [
 			"Node.js",
-			"Swagger"
+			"Swagger",
+			"docker"
 		],
 		"references": [
 			{
@@ -789,34 +762,6 @@
 		"badge": "SpiderLabs/SQLol"
 	},
 	{
-		"url": "http://suif.stanford.edu/%7Elivshits/securibench/",
-		"name": "SecuriBench",
-		"technology": [
-			"Java"
-		],
-		"references": [
-		],
-		"author": "Stanford",
-		"notes": null,
-		"badge": null
-	},
-	{
-		"url": "http://suif.stanford.edu/%7Elivshits/work/securibench-micro/",
-		"name": "SecuriBench Micro",
-		"technology": [
-			"Java"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://suif.stanford.edu/~livshits/securibench/download.html"
-			}
-		],
-		"author": "Stanford",
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "https://www.owasp.org/index.php/OWASP_Security_Shepherd",
 		"name": "Security Shepherd",
 		"technology": [
@@ -878,26 +823,6 @@
 		"badge": "lucideus-repo/UnSAFE_Bank"
 	},
 	{
-		"url": "http://www.nth-dimension.org.uk/blog.php?id=88",
-		"name": "VulnApp",
-		"technology": [
-			".NET"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://projects.nth-dimension.org.uk/dir?d=VulnApp"
-			},
-			{
-				"name": "downloads",
-				"url": "http://projects.nth-dimension.org.uk/rptview?rn=6"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "https://github.com/CSPF-Founder/JavaVulnerableLab/",
 		"name": "Vulnerable Java Web Application",
 		"technology": [
@@ -933,17 +858,6 @@
 		"author": "yogisec",
 		"notes": null,
 		"badge": "yogisec/VulnerableSAMLApp"
-	},
-	{
-		"url": "http://exploit.co.il/hacking/exploit-kb-vulnerable-web-app/",
-		"name": "Vulnerable Web App",
-		"technology": [
-		],
-		"references": [
-		],
-		"author": "Exploit.co.il",
-		"notes": null,
-		"badge": null
 	},
 	{
 		"url": "https://github.com/ctxis/VulnerableXsltConsoleApplication",
@@ -1010,10 +924,6 @@
 			{
 				"name": "download",
 				"url": "http://github.com/adamdoupe/WackoPicko/zipball/master"
-			},
-			{
-				"name": "guide",
-				"url": "http://cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf"
 			}
 		],
 		"author": null,

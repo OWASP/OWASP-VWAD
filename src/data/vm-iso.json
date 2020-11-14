@@ -20,22 +20,6 @@
 		"badge": null
 	},
 	{
-		"url": "http://www.badstore.net/",
-		"name": "BadStore",
-		"technology": [
-			"ISO"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://www.badstore.net/register.htm"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "http://sourceforge.net/projects/bwapp/files/bee-box/",
 		"name": "Bee-Box",
 		"technology": [
@@ -48,23 +32,7 @@
 		"badge": null
 	},
 	{
-		"url": "https://bechtsoudis.com/work-stuff/challenges/drunk-admin-web-hacking-challenge/",
-		"name": "Drunk Admin Web Hacking Challenge",
-		"technology": [
-			"VMware"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://bechtsoudis.com/data/challenges/drunk_admin_hacking_challenge.zip"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
-		"url": "http://exploit.co.il/projects/vuln-web-app/",
+		"url": "http://sourceforge.net/projects/exploitcoilvuln/files/",
 		"name": "Exploit.co.il Vuln Web App",
 		"technology": [
 			"VMware"
@@ -109,39 +77,6 @@
 			{
 				"name": "guide",
 				"url": "http://hackxor.sourceforge.net/cgi-bin/hints.pl"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
-		"url": "http://ninja-sec.com/index.php/hacme-bank-prebuilt-vmware-image-ninja-sec-com/",
-		"name": "Hacme Bank Prebuilt VM",
-		"technology": [
-			"VMware"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://dc121.4shared.com/download/wwPhUxMQ/hackme_bank_vm_Ninja-Sec.zip"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
-		"url": "http://www.kioptrix.com/blog/?p=604",
-		"name": "Kioptrix4",
-		"technology": [
-			"VMware",
-			"Hyper-V"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://www.kioptrix.com/dlvm/Kioptrix4_vmware.rar"
 			}
 		],
 		"author": null,
@@ -197,7 +132,7 @@
 		"badge": "rapid7/metasploitable3"
 	},
 	{
-		"url": "http://www.bonsai-sec.com/en/research/moth.php",
+		"url": "http://sourceforge.net/projects/w3af/files/moth/moth/",
 		"name": "Moth",
 		"technology": [
 			"VMware"
@@ -206,22 +141,6 @@
 			{
 				"name": "download",
 				"url": "http://sourceforge.net/projects/w3af/files/moth/moth/"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
-		"url": "http://phdays.blogspot.com.es/2012/05/once-again-about-remote-banking.html",
-		"name": "PHDays I-Bank",
-		"technology": [
-			"VMware"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://downloads.phdays.com/phdays_ibank_vm.zip"
 			}
 		],
 		"author": null,
@@ -341,22 +260,6 @@
 			}
 		],
 		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
-		"url": "http://www.ethicalhack3r.co.uk/wordpress-cd/",
-		"name": "WordPress CD]",
-		"technology": [
-			"VirtualBox"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://www.ethicalhack3r.co.uk/wpcd/WPCD.ova"
-			}
-		],
-		"author": "ethicalhack3r",
 		"notes": null,
 		"badge": null
 	},

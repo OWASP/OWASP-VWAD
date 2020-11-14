@@ -12,30 +12,6 @@
 		"badge": null
 	},
 	{
-		"url": "http://testaspnet.vulnweb.com/",
-		"name": "Acublog",
-		"technology": [
-			".NET"
-		],
-		"references": [
-		],
-		"author": "Acunetix",
-		"notes": "Blog",
-		"badge": null
-	},
-	{
-		"url": "http://testasp.vulnweb.com/",
-		"name": "Acuforum",
-		"technology": [
-			"ASP"
-		],
-		"references": [
-		],
-		"author": "Acunetix",
-		"notes": "Forum",
-		"badge": null
-	},
-	{
 		"url": "http://demo.testfire.net/",
 		"name": "Altoro Mutual",
 		"technology": [
@@ -101,17 +77,6 @@
 		"badge": "RhinoSecurityLabs/cloudgoat"
 	},
 	{
-		"url": "http://crackme.trustwave.com/",
-		"name": "Crack Me Bank",
-		"technology": [
-		],
-		"references": [
-		],
-		"author": "Trustwave",
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "https://github.com/OWASP/DVSA",
 		"name": "Damn Vulnerable Serverless App (DVSA)",
 		"technology": [
@@ -123,10 +88,6 @@
 			{
 				"name": "guide",
 				"url": "https://github.com/OWASP/DVSA/tree/master/AWS/LESSONS"
-			},
-			{
-				"name": "live",
-				"url": "http://serverless.fail/"
 			}
 		],
 		"author": "Protego Labs",
@@ -294,17 +255,6 @@
 		"badge": "rapid7/hackazon"
 	},
 	{
-		"url": "http://pctechtips.org/hacker-challenge-pwn3d-the-login-form/",
-		"name": "Hacker Challenge",
-		"technology": [
-		],
-		"references": [
-		],
-		"author": "PCTechtips",
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "https://www.hacking-lab.com/events/registerform.html?eventid=245",
 		"name": "Hacking Lab",
 		"technology": [
@@ -398,7 +348,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://racetheweb.io/bank",
+		"url": "https://github.com/insp3ctre/race-the-web",
 		"name": "Race The Web",
 		"technology": [
 		],
@@ -434,19 +384,6 @@
 		],
 		"author": "Solyd",
 		"notes": "In Portuguese (Português) - Free online trainning with free online lab",
-		"badge": null
-	},
-	{
-		"url": "http://vicnum.ciphertechs.com",
-		"name": "Vicnum Project",
-		"technology": [
-			"Perl",
-			"PHP"
-		],
-		"references": [
-		],
-		"author": null,
-		"notes": null,
 		"badge": null
 	},
 	{
