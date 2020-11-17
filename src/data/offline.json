@@ -339,6 +339,26 @@
 		"badge": "red-and-black/DjangoGoat"
 	},
 	{
+		"url": "https://github.com/k-tamura/easybuggy",
+		"name": "EasyBuggy",
+		"technology": [
+			"Java"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/k-tamura/easybuggy/releases"
+			},
+			{
+				"name": "guide",
+				"url": "https://github.com/k-tamura/easybuggy/wiki"
+			}
+		],
+		"author": "Kohei Tamura",
+		"notes": null,
+		"badge": "k-tamura/easybuggy"
+	},
+	{
 		"url": "https://github.com/vegabird/xvna",
 		"name": "Extreme Vulnerable Node Application",
 		"technology": [
