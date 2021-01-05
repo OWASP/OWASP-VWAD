@@ -1152,7 +1152,7 @@
 				"url": "https://github.com/commjoen/wrongsecrets"
 			}
 		],
-		"author": "Jeroen Willemsen (commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars) ",
+		"author": "Jeroen Willemsen (commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
 		"notes": "wrongsecrets is an exercise used to show how you can or should not consume/create secrets.",
 		"badge": "commjoen/wrongsecrets" 
 	}
