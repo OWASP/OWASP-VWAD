@@ -469,12 +469,16 @@
 		],
 		"references": [
 			{
+				"name": "Labs",
+				"url": "https://demo.securityknowledgeframework.org"
+			},
+			{
 				"name": "guide",
 				"url": "https://owasp-skf.gitbook.io/asvs-write-ups/"
 			}
 		],
 		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
-		"notes": "Check the guide URL here you find how to pull the Docker images and run then locally.",
+		"notes": "You can go to the demo website and login(admin / test-skf) or skip login, go to Labs menu and start a Lab you want to do. Please limit the usage of scanning tools on the Labs.",
 		"badge": "blabla1337/skf-labs"
 	}
 ]
