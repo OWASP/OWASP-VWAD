@@ -1155,5 +1155,25 @@
 		"author": "Jeroen Willemsen (commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
 		"notes": "wrongsecrets is an exercise used to show how you can or should not consume/create secrets.",
 		"badge": "commjoen/wrongsecrets" 
+	},
+	{
+		"url": "http://demo.securityknowledgeframework.org",
+		"name": "OWASP-SKF Labs",
+		"technology": [
+			"Python",
+			"HTML",
+			"Javascript",
+			"GraphQL",
+			"Ruby"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://owasp-skf.gitbook.io/asvs-write-ups/"
+			}
+		],
+		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
+		"notes": "Check the guide URL here you find how to pull the Docker images and run them locally.",
+		"badge": "blabla1337/skf-labs"
 	}
 ]
