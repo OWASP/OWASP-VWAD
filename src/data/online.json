@@ -456,5 +456,25 @@
 		"author": "Arthur Kay",
 		"notes": "A simple scavenger hunt to learn about pentesting a website or web application.",
 		"badge": "arthurakay/cyberscavengerhunt"
+	},
+	{
+		"url": "http://demo.securityknowledgeframework.org",
+		"name": "OWASP-SKF Labs",
+		"technology": [
+			"Python",
+			"HTML",
+			"Javascript",
+			"GraphQL",
+			"Ruby"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://owasp-skf.gitbook.io/asvs-write-ups/"
+			}
+		],
+		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
+		"notes": "Check the guide URL here you find how to pull the Docker images and run then locally.",
+		"badge": "blabla1337/skf-labs"
 	}
 ]
