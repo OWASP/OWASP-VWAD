@@ -459,7 +459,7 @@
 	},
 	{
 		"url": "https://demo.securityknowledgeframework.org",
-		"name": "skf-labs",
+		"name": "OWASP SKF Labs",
 		"technology": [
 			"Python",
 			"HTML",
