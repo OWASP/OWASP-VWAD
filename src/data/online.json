@@ -456,5 +456,29 @@
 		"author": "Arthur Kay",
 		"notes": "A simple scavenger hunt to learn about pentesting a website or web application.",
 		"badge": "arthurakay/cyberscavengerhunt"
+	},
+	{
+		"url": "https://demo.securityknowledgeframework.org",
+		"name": "OWASP SKF Labs",
+		"technology": [
+			"Python",
+			"HTML",
+			"Javascript",
+			"GraphQL",
+			"Ruby"
+		],
+		"references": [
+			{
+				"name": "demo",
+				"url": "https://demo.securityknowledgeframework.org"
+			},
+			{
+				"name": "guide",
+				"url": "https://owasp-skf.gitbook.io/asvs-write-ups/"
+			}
+		],
+		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
+		"notes": "You can go to the demo website and login(admin / test-skf) or skip login, go to Labs menu and start a Lab you want to do. Please limit the usage of scanning tools on the Labs.",
+		"badge": "blabla1337/skf-labs"
 	}
 ]
