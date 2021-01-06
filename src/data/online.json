@@ -469,7 +469,7 @@
 		],
 		"references": [
 			{
-				"name": "labs",
+				"name": "demo",
 				"url": "https://demo.securityknowledgeframework.org"
 			},
 			{
