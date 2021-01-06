@@ -1157,8 +1157,8 @@
 		"badge": "commjoen/wrongsecrets" 
 	},
 	{
-		"url": "http://demo.securityknowledgeframework.org",
-		"name": "OWASP-SKF Labs",
+		"url": "https://demo.securityknowledgeframework.org",
+		"name": "skf-labs",
 		"technology": [
 			"Python",
 			"HTML",
