@@ -734,6 +734,28 @@
 		"badge": "OWASP/railsgoat"
 	},
 	{
+		"url": "https://github.com/globocom/secDevLabs",
+		"name": "SecDevLabs",
+		"technology": [
+			"Go",
+			"NodeJS",
+			"Python",
+			"PHP",
+			"React",
+			"Angular/Spring",
+			"Dart/Flutter"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/globocom/secDevLabs"
+			}
+		],
+		"author": "Globo",
+		"notes": "Repository with many intentionally vulnerable web applications. Includes attack narratives and docker options for each app.",
+		"badge": "globocom/secDevLabs"
+	},
+	{
 		"url": "https://github.com/sqlmapproject/testenv",
 		"name": "SQL injection test environment",
 		"technology": [
