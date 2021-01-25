@@ -752,7 +752,7 @@
 			}
 		],
 		"author": "Globo",
-		"notes": "Repository with many intentionally vulnerable web applications. Includes attack naratives and docker options for each app.",
+		"notes": "Repository with many intentionally vulnerable web applications. Includes attack narratives and docker options for each app.",
 		"badge": "globocom/secDevLabs"
 	},
 	{
