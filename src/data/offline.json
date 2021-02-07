@@ -1206,7 +1206,7 @@
 		],
 		"references": [
 		],
-		"author": "Dolev Farhi <dolev@lethalbit.com>",
+		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"notes": null,
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application"
 	}
