@@ -1205,10 +1205,6 @@
 			"SQLAlchemy"
 		],
 		"references": [
-			{
-				"name": "guide",
-				"url": "https://owasp-skf.gitbook.io/asvs-write-ups/"
-			}
 		],
 		"author": "Dolev Farhi <dolev@lethalbit.com>",
 		"notes": null,
