@@ -1189,6 +1189,10 @@
 			"Ruby"
 		],
 		"references": [
+			{
+				"name": "guide",
+				"url": "https://owasp-skf.gitbook.io/asvs-write-ups/"
+			}
 		],
 		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
 		"notes": "Check the guide URL here you find how to pull the Docker images and run them locally.",
