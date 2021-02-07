@@ -1197,5 +1197,21 @@
 		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
 		"notes": "Check the guide URL here you find how to pull the Docker images and run them locally.",
 		"badge": "blabla1337/skf-labs"
+	},
+	{
+		"url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+		"name": "Damn Vulnerable GraphQL Application (DVGA)",
+		"technology": [
+			"Python",
+			"HTML",
+			"Javascript",
+			"GraphQL",
+			"SQLAlchemy"
+		],
+		"references": [
+		],
+		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
+		"notes": null,
+		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application"
 	}
 ]
