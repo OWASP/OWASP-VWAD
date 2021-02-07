@@ -1189,13 +1189,29 @@
 			"Ruby"
 		],
 		"references": [
+		],
+		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
+		"notes": "Check the guide URL here you find how to pull the Docker images and run them locally.",
+		"badge": "blabla1337/skf-labs"
+	},
+	{
+		"url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+		"name": "Damn Vulnerable GraphQL Application (DVGA)",
+		"technology": [
+			"Python",
+			"HTML",
+			"Javascript",
+			"GraphQL",
+			"SQLAlchemy"
+		],
+		"references": [
 			{
 				"name": "guide",
 				"url": "https://owasp-skf.gitbook.io/asvs-write-ups/"
 			}
 		],
-		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
-		"notes": "Check the guide URL here you find how to pull the Docker images and run them locally.",
-		"badge": "blabla1337/skf-labs"
+		"author": "Dolev Farhi <dolev@lethalbit.com>",
+		"notes": null,
+		"badge": null
 	}
 ]
