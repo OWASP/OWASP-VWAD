@@ -1,0 +1,18 @@
+[
+	{
+		"url": "https://github.com/satishpatnayak/AndroGoat",
+		"name": "AndroGoat",
+		"technology": [
+			"SomeTech"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/satishpatnayak/MyTest/blob/master/AndroGoat.apk"
+			}
+		],
+		"author": "satishpatnayak",
+		"notes": null,
+		"badge": "satishpatnayak/AndroGoat"
+	}
+]
