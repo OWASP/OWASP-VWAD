@@ -4,6 +4,7 @@ on:
   pull_request_target:
     paths:
     - '**.json'
+  workflow_dispatch:
 
 jobs:
   schema-check:
