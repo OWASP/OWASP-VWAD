@@ -3,7 +3,8 @@
 		"url": "https://github.com/satishpatnayak/AndroGoat",
 		"name": "AndroGoat",
 		"technology": [
-			"SomeTech"
+			"Kotlin",
+			"Android"
 		],
 		"references": [
 			{
