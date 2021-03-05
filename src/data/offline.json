@@ -79,6 +79,24 @@
 		"notes": null,
 		"badge": null
 	},
+		{
+		"url": "https://github.com/NeuraLegion/brokencrystals#vulnerabilities-overview",
+		"name": "Broken Crystals",
+		"technology": [
+			"react",
+			"Node",
+			"Swagger"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://brokencrystals.com/"
+			}
+		],
+		"author": "NeuraLegion",
+		"notes": null,
+		"badge": "NeuraLegion/brokencrystals"
+	},
 	{
 		"url": "http://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
 		"name": "Butterfly Security Project",

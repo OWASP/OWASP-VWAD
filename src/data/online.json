@@ -56,6 +56,24 @@
 		"badge": null
 	},
 	{
+		"url": "https://github.com/NeuraLegion/brokencrystals#vulnerabilities-overview",
+		"name": "Broken Crystals",
+		"technology": [
+			"react",
+			"Node",
+			"Swagger"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://brokencrystals.com/"
+			}
+		],
+		"author": "NeuraLegion",
+		"notes": null,
+		"badge": "NeuraLegion/brokencrystals"
+	},
+	{
 		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
 		"name": "CloudGoat",
 		"technology": [
