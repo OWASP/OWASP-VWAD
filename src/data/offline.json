@@ -433,7 +433,8 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://web.archive.org/web/20130204025614if_/http://downloadcenter.mcafee.com/products/tools/foundstone/hacmebank2_install.zip"
+				"url": "http://downloadcenter.mcafee.com/products/tools/foundstone/hacmebank2_install.zip"
+
 			}
 		],
 		"author": "McAfee / Foundstone",
@@ -460,7 +461,8 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://web.archive.org/web/20130924075344if_/http://b2b-download.mcafee.com/products/tools/foundstone/hacmebooks2_installer.zip"
+				"url": "http://b2b-download.mcafee.com/products/tools/foundstone/hacmebooks2_installer.zip"
+
 			}
 		],
 		"author": "McAfee / Foundstone",
@@ -476,7 +478,8 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://web.archive.org/web/20130204042019if_/http://downloadcenter.mcafee.com/products/tools/foundstone/hacmecasino_installer.zip"
+				"url": "http://downloadcenter.mcafee.com/products/tools/foundstone/hacmecasino_installer.zip"
+
 			}
 		],
 		"author": "McAfee / Foundstone",
@@ -492,7 +495,8 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://web.archive.org/web/20130204042010if_/http://downloadcenter.mcafee.com/products/tools/foundstone/hacmeshipping.zip"
+				"url": "http://downloadcenter.mcafee.com/products/tools/foundstone/hacmeshipping.zip"
+
 			}
 		],
 		"author": "McAfee / Foundstone",
@@ -508,7 +512,8 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://web.archive.org/web/20130204042023if_/http://downloadcenter.mcafee.com/products/tools/foundstone/hacmetravel_install.zip"
+				"url": "http://downloadcenter.mcafee.com/products/tools/foundstone/hacmetravel_install.zip"
+
 			}
 		],
 		"author": "McAfee / Foundstone",
