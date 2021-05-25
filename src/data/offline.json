@@ -1236,5 +1236,20 @@
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
 		"notes": null,
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application"
+	},
+	{
+		"url": "https://owasp.org/www-project-damn-vulnerable-web-sockets/",
+		"name": "OWASP Damn Vulnerable Web Sockets (DVWS)",
+		"technology": [
+			"PHP",
+			"HTML",
+			"Javascript",
+			"WebSockets"
+		],
+		"references": [
+		],
+		"author": "Abhineet Jayaraj (@xploresec)",
+		"notes": null,
+		"badge": "interference-security/DVWS"
 	}
 ]
