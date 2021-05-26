@@ -278,5 +278,25 @@
 		"author": null,
 		"notes": null,
 		"badge": null
+	},
+	{
+		"url": "https://github.com/adeyosemanputra/pygoat",
+		"name": "PyGoat",
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/adeyosemanputra/pygoat/blob/master/pygoat/Solutions/solution.md"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/pygoat/pygoat"
+			}
+		],
+		"author": "Ade Yoseman",
+		"notes": null,
+		"badge": "adeyosemanputra/pygoat"
 	}
 ]
