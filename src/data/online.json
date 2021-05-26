@@ -498,5 +498,29 @@
 		"author": "glenn.ten.cate@owasp.org and riccardo.ten.cate@owasp.org",
 		"notes": "You can go to the demo website and login(admin / test-skf) or skip login, go to Labs menu and start a Lab you want to do. Please limit the usage of scanning tools on the Labs.",
 		"badge": "blabla1337/skf-labs"
+	},
+	{
+		"url": "http://pygoat.herokuapp.com/",
+		"name": "PyGoat",
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/adeyosemanputra/pygoat/blob/master/pygoat/Solutions/solution.md"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/pygoat/pygoat"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/adeyosemanputra/pygoat"
+			}
+		],
+		"author": "Ade Yoseman",
+		"notes": null,
+		"badge": "adeyosemanputra/pygoat"
 	}
 ]
