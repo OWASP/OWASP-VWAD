@@ -95,6 +95,17 @@
 		"badge": "RhinoSecurityLabs/cloudgoat"
 	},
 	{
+		"url": "https://ctflearn.com/",
+		"name": "CTFLearn",
+		"technology": [
+		],
+		"references": [
+		],
+		"author": "@ctflearn",
+		"notes": null,
+		"badge": null
+	},
+	{
 		"url": "https://github.com/OWASP/DVSA",
 		"name": "Damn Vulnerable Serverless App (DVSA)",
 		"technology": [
