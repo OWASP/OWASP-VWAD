@@ -1272,4 +1272,25 @@
 		"notes": null,
 		"badge": "adeyosemanputra/pygoat"
 	}
+	,
+	{
+		"url": "https://github.com/roottusk/vapi",
+		"name": "vAPI",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/roottusk/vapi/blob/master/README.md"
+			},
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/roottusk/vapi"
+			}
+		],
+		"author": "Tushar Kulkarni",
+		"notes": "vAPI is a Vulnerable Interface that demonstrates the OWASP API Top 10 vulnerabilities in the means of exercises",
+		"badge": "roottusk/vapi"
+	}
 ]
