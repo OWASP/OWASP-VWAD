@@ -687,6 +687,28 @@
 		"badge": "SasanLabs/VulnerableApp"
 	},
 	{
+		"url": "https://github.com/SasanLabs/VulnerableApp-facade",
+		"name": "OWASP VulnerableApp-facade",
+		"technology": [
+			"Typescript",
+			"Javascript",
+			"Docker"
+		],
+		"references": [
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/r/sasanlabs/owasp-vulnerableapp-facade"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/SasanLabs/VulnerableApp-facade"
+			}
+		],
+		"author": "Karan Preet Singh Sasan",
+		"notes": null,
+		"badge": "SasanLabs/VulnerableApp-facade"
+	},
+	{
 		"url": "http://peruggia.sourceforge.net/",
 		"name": "Peruggia",
 		"technology": [
