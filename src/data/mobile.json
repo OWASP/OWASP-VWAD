@@ -15,5 +15,24 @@
 		"author": "satishpatnayak",
 		"notes": null,
 		"badge": "satishpatnayak/AndroGoat"
+	},
+	{
+		"url": "https://github.com/Checkmarx/Goatlin/",
+		"name": "Goatlin",
+		"technology": [
+			"Kotlin",
+			"Android",
+			"API",
+			"REST"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://checkmarx.github.io/Kotlin-SCP/"
+			}
+		],
+		"author": "Checkmarx",
+		"notes": null,
+		"badge": "Checkmarx/Goatlin"
 	}
 ]
