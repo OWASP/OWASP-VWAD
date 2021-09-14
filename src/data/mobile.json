@@ -34,5 +34,28 @@
 		"author": "Checkmarx",
 		"notes": null,
 		"badge": "Checkmarx/Goatlin"
+	},
+	{
+		"url": "https://github.com/OWASP/MSTG-Hacking-Playground",
+		"name": "MSTG Hacking Playground",
+		"technology": [],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/OWASP/MSTG-Hacking-Playground/wiki"
+			}
+		],
+		"author": "OWASP",
+		"notes": null,
+		"badge": "OWASP/MSTG-Hacking-Playground"
+	},
+		{
+		"url": "https://github.com/OWASP/owasp-mstg/tree/master/Crackmes",
+		"name": "MSTG CrackMes",
+		"technology": [],
+		"references": [],
+		"author": "OWASP",
+		"notes": null,
+		"badge": "OWASP/owasp-mstg"
 	}
 ]
