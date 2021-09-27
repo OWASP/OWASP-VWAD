@@ -1293,8 +1293,7 @@
 		"author": "Ade Yoseman",
 		"notes": null,
 		"badge": "adeyosemanputra/pygoat"
-	}
-	,
+	},
 	{
 		"url": "https://github.com/roottusk/vapi",
 		"name": "vAPI",
@@ -1314,5 +1313,35 @@
 		"author": "Tushar Kulkarni",
 		"notes": "vAPI is a Vulnerable Interface that demonstrates the OWASP API Top 10 vulnerabilities in the means of exercises",
 		"badge": "roottusk/vapi"
+	},
+	{
+		"url": "https://github.com/kaakaww/vuln_node_express",
+		"name": "Vulnerable Node Express",
+		"technology": [
+			"Node.js",
+			"Express"
+		],
+		"references": [
+		],
+		"author": "Zachary Conger",
+		"notes": "SQLi and XSS",
+		"badge": "kaakaww/vuln_node_express"
+	},
+		{
+		"url": "https://github.com/detectify/Varnish-H2-Request-Smuggling",
+		"name": "Varnish HTTP/2 Request Smuggling",
+		"technology": [
+			"Varnish",
+			"HTTP/2"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://twitter.com/berg0x00/status/1431027889064058885"
+			}
+		],
+		"author": "Detectify",
+		"notes": "A docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling, presented by Albinowax at Blackhat/Defcon 2021.",
+		"badge": "detectify/Varnish-H2-Request-Smuggling"
 	}
 ]
