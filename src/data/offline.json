@@ -642,14 +642,15 @@
 		"url": "https://owasp-juice.shop",
 		"name": "OWASP Juice Shop",
 		"technology": [
-			"Javascript",
+			"TypeScript",
+			"JavaScript",
 			"Angular",
 			"Node.js"
 		],
 		"references": [
 			{
 				"name": "download",
-				"url": "https://github.com/bkimminich/juice-shop"
+				"url": "https://github.com/juice-shop/juice-shop"
 			},
 			{
 				"name": "docker",
@@ -662,7 +663,7 @@
 		],
 		"author": "OWASP",
 		"notes": null,
-		"badge": "bkimminich/juice-shop"
+		"badge": "juice-shop/juice-shop"
 	},
 	{
 		"url": "https://github.com/SasanLabs/VulnerableApp",
