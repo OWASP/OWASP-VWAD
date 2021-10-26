@@ -224,6 +224,34 @@
 		"badge": null
 	},
 	{
+		"url": "http://hackxpert.com/",
+		"name": "HackXpert",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://www.youtube.com/c/TheXSSrat"
+			}
+		],
+		"author": "theXSSrat",
+		"notes": null,
+		"badge": null
+	},
+	{
+		"url": "http://hackxpert.com/API-testing.php",
+		"name": "HackXpert - OWASP API Top 10 2019",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+		],
+		"author": "theXSSrat",
+		"notes": "Labs specific to the 2019 OWASP API Top 10.",
+		"badge": null
+	},
+	{
 		"url": "http://hackyourselffirst.troyhunt.com/",
 		"name": "HackYourselfFirst",
 		"technology": [
