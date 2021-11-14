@@ -1027,20 +1027,20 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "https://github.com/WebGoat/WebGoat"
+				"url": "https://github.com/WebGoat/WebGoat/releases"
 			},
 			{
 				"name": "guide",
-				"url": "https://www.owasp.org/index.php/WebGoat_User_and_Install_Guide_Table_of_Contents"
+				"url": "https://owasp.org/www-project-webgoat/"
 			},
 			{
 				"name": "docker",
-				"url": "https://hub.docker.com/r/webgoat/webgoat-8.0/"
+				"url": "https://hub.docker.com/r/webgoat/goatandwolf"
 			}
 		],
 		"author": "OWASP",
 		"notes": null,
-		"badge": null
+		"badge": "WebGoat/WebGoat"
 	},
 	{
 		"url": "https://www.owasp.org/index.php/WebGoatPHP",
