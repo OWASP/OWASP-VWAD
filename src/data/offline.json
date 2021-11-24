@@ -1206,13 +1206,15 @@
 	},
 	{
 		"url": "https://github.com/commjoen/wrongsecrets",
-		"name": "wrongsecrets",
+		"name": "WrongSecrets",
 		"technology": [
 			"JavaScript",
 			"Java",
 			"Hashicorp Vault",
 			"Kubernetes",
-			"Docker"
+			"Docker",
+			"AWS",
+			"GCP"
 		],
 		"references": [
 			{
@@ -1220,8 +1222,8 @@
 				"url": "https://github.com/commjoen/wrongsecrets"
 			}
 		],
-		"author": "Jeroen Willemsen (commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
-		"notes": "wrongsecrets is an exercise used to show how you can or should not consume/create secrets.",
+		"author": "Jeroen Willemsen (@commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
+		"notes": "OWASP WrongSecrets is a vulnerable app used to show how to not use secrets.",
 		"badge": "commjoen/wrongsecrets" 
 	},
 	{
