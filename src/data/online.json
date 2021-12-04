@@ -213,15 +213,20 @@
 		"badge": "HackThis/hackthis.co.uk"
 	},
 	{
-		"url": "http://www.hackthissite.org",
-		"name": "HackThisSite HackThisSite",
-		"technology": [
-		],
-		"references": [
-		],
-		"author": null,
-		"notes": "Basic & Realistic (web) Missions",
-		"badge": null
+	"url": "https://www.hackthissite.org",
+	"name": "HackThisSite",
+	"technology": [
+	    "PHP",
+	    "Perl",
+	    "JavaScript",
+	    "API",
+	    "Binaries"
+	],
+	"references": [
+	],
+	"author": "HackThisSite Staff",
+	"notes": "Always-on CTF challenges including Basic, Realistic, Application, Steganography, and many others.",
+	"badge": null
 	},
 	{
 		"url": "http://hackxpert.com/",
