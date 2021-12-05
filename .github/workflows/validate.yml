@@ -6,6 +6,10 @@ on:
     - '**.json'
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   schema-check:
     runs-on: ubuntu-latest
@@ -30,15 +34,8 @@ jobs:
         ajv validate -s schema.json -d src/data/vm-iso.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
         ajv validate -s schema.json -d src/data/mobile.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
     - name: Show Validation Issues
-      id: validation
       if: failure()
-      run: |
-        cat log.txt
-        ISSUES=$(cat log.txt)
-        ISSUES="${ISSUES//'%'/'%25'}"
-        ISSUES="${ISSUES//$'\n'/'%0A'}"
-        ISSUES="${ISSUES//$'\r'/'%0D'}"
-        echo ::set-output name=ISSUES::$ISSUES
+      run: cat log.txt
     - name: Attach Log
       uses: actions/upload-artifact@v2
       if: failure()
@@ -51,9 +48,12 @@ jobs:
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
         script: |
+          const fs = require("fs");
+          const logPath = `${process.env.GITHUB_WORKSPACE}/log.txt`;
+          const logString = fs.readFileSync(logPath).toString().trimEnd();
           github.issues.createComment({
             issue_number: ${{ github.event.number }},
             owner: context.repo.owner,
             repo: context.repo.repo,
-            body: `**The following issues were identified:**\n\n<details><summary>Summary</summary>\n\n\`\`\`\n${{ steps.validation.outputs.ISSUES }}\n\`\`\`\n\n</details>`
+            body: `**The following issues were identified:**\n\n<details><summary>Summary</summary>\n\n\`\`\`\n${logString}\n\`\`\`\n\n</details>`
           })
