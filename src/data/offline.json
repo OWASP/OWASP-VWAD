@@ -850,7 +850,7 @@
 		"badge": "SpiderLabs/SQLol"
 	},
 	{
-		"url": "https://www.owasp.org/index.php/OWASP_Security_Shepherd",
+		"url": "https://owasp.org/www-project-security-shepherd/",
 		"name": "Security Shepherd",
 		"technology": [
 			"Java"
@@ -864,6 +864,22 @@
 		"author": "OWASP",
 		"notes": null,
 		"badge": "OWASP/SecurityShepherd"
+	},
+	{
+		"url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab",
+		"name": "SSRF Vuln Lab",
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "docker",
+				"url": "https://github.com/incredibleindishell/SSRF_Vulnerable_Lab#docker"
+			}
+		],
+		"author": "incredibleindishell, Mohammed Farhan",
+		"notes": null,
+		"badge": "incredibleindishell/SSRF_Vulnerable_Lab"
 	},
 	{
 		"url": "https://github.com/dhatanian/ticketmagpie",

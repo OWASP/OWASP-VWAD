@@ -100,6 +100,19 @@
 		"badge": null
 	},
 	{
+		"url": "https://github.com/christophetd/log4shell-vulnerable-app",
+		"name": "Log4Shell sample vulnerable application",
+		"technology": [
+			"Spring Boot",
+			"Log4j",
+			"Java"
+		],
+		"references": [],
+		"author": "Christophe Tafani-Dereeper, Gerard Arall, rayhan0x01 Rayhan Ahmed",
+		"notes": "CVE-2021-44228",
+		"badge": "christophetd/log4shell-vulnerable-app"
+	},
+	{
 		"url": "https://community.rapid7.com/docs/DOC-1875",
 		"name": "Metasploitable 2",
 		"technology": [
