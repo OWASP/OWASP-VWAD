@@ -49,7 +49,7 @@
 		"notes": null,
 		"badge": "OWASP/MSTG-Hacking-Playground"
 	},
-		{
+	{
 		"url": "https://github.com/OWASP/owasp-mstg/tree/master/Crackmes",
 		"name": "MSTG CrackMes",
 		"technology": [],
@@ -57,5 +57,19 @@
 		"author": "OWASP",
 		"notes": null,
 		"badge": "OWASP/owasp-mstg"
+	},
+	{
+		"url": "https://github.com/rewanthtammana/Damn-Vulnerable-Bank",
+		"name": "Damn Vulnerable Bank",
+		"technology": ["android"],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://rewanthtammana.com/damn-vulnerable-bank/"
+			}
+		],
+		"author": "Rewanth Tammana, Akshansh Jaiswal, Hrushikesh Kakade",
+		"notes": null,
+		"badge": "rewanthtammana/Damn-Vulnerable-Bank"
 	}
 ]
