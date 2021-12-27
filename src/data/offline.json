@@ -976,6 +976,19 @@
 		"badge": "ctxis/VulnerableXsltConsoleApplication"
 	},
 	{
+		"url": "https://github.com/Yavuzlar/VulnLab",
+		"name": "VulnLab",
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"references": [
+		],
+		"author": "Yavuzlar (siberyavuzlar.com)",
+		"notes": "A web vulnerability lab project developed by Yavuzlar.",
+		"badge": "Yavuzlar/VulnLab"
+	},
+	{
 		"url": "https://github.com/sectooladdict/wavsep",
 		"name": "WAVSEP - Web Application Vulnerability Scanner Evaluation Project",
 		"technology": [
