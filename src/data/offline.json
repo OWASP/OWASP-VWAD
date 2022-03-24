@@ -1375,5 +1375,19 @@
 		"author": "Detectify",
 		"notes": "A docker-compose file to setup a local environment that is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling, presented by Albinowax at Blackhat/Defcon 2021.",
 		"badge": "detectify/Varnish-H2-Request-Smuggling"
+	},
+		{
+		"url": "https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications",
+		"name": "Damn Vulnerable OAuth 2.0 Applications",
+		"technology": [
+			"MEAN",
+			"Docker",
+			"OAuth 2.0"
+		],
+		"references": [
+		],
+		"author": "Koen Buyens",
+		"notes": "A set of vulnerable applications which show Oauth2.0 vulnerabilities.",
+		"badge": "koenbuyens/Vulnerable-OAuth-2.0-Applications"
 	}
 ]
