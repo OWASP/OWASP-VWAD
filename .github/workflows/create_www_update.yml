@@ -34,14 +34,8 @@ jobs:
         # Build the feature branch
         cd $WWW_BASE
         git checkout -b $BRANCH
-        rm _data/offline.json
-        rm _data/online.json
-        rm _data/vm-iso.json
-        rm _data/mobile.json
-        cp $VWAD_BASE/src/data/offline.json $WWW_BASE/_data/.
-        cp $VWAD_BASE/src/data/online.json $WWW_BASE/_data/.
-        cp $VWAD_BASE/src/data/vm-iso.json $WWW_BASE/_data/.
-        cp $VWAD_BASE/src/data/mobile.json $WWW_BASE/_data/.
+        rm _data/collection.json
+        cp $VWAD_BASE/src/data/collection.json $WWW_BASE/_data/.
         git remote set-url origin https://$GITHUB_USER:${{ secrets.vwad_deploy_token }}@github.com/$GITHUB_USER/www-project-vulnerable-web-applications-directory.git
         git add .
         git commit -m "VWAD Update $SHORT_DATE" -m "Updates based on $SRC_BASE"

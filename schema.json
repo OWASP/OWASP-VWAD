@@ -16,6 +16,18 @@
 				"name": {
 					"type": "string"
 				},
+				"collection": {
+					"type": "array",
+					"items": {
+						"type": "string",
+						"enum": [
+							"container",
+							"mobile"
+							"online",
+							"offline"
+						]
+					}
+				},
 				"technology": {
 					"type": "array",
 					"items": {
@@ -62,6 +74,7 @@
 			"required": [
 				"author",
 				"badge",
+				"collection",
 				"name",
 				"notes",
 				"references",
