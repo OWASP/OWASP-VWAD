@@ -740,6 +740,29 @@
 		"badge": "Checkmarx/Goatlin"
 	},
 	{
+		"url": "https://github.com/snyk-labs/nodejs-goof",
+		"name": "Goof",
+		"collection": [
+			"offline", "online", "container"
+		],
+		"technology": [
+			"NodeJS"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://snyk.io/test/github/snyk/goof"
+			},
+			{
+				"name": "guide",
+				"url": "http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/"
+			}
+		],
+		"author": "Snyk",
+		"notes": "online - via Heroku deploy",
+		"badge": "snyk-labs/nodejs-goof"
+	},
+	{
 		"url": "http://google-gruyere.appspot.com/",
 		"name": "Gruyere",
 		"collection": [
