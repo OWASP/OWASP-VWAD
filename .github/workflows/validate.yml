@@ -29,10 +29,7 @@ jobs:
         npm install -g ajv-cli
     - name: Run schema check
       run: |
-        ajv validate -s schema.json -d src/data/offline.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
-        ajv validate -s schema.json -d src/data/online.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
-        ajv validate -s schema.json -d src/data/vm-iso.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
-        ajv validate -s schema.json -d src/data/mobile.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
+        ajv validate -s schema.json -d src/data/collection.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
     - name: Show Validation Issues
       if: failure()
       run: cat log.txt
