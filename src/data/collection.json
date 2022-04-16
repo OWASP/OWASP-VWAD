@@ -31,7 +31,8 @@
 		"url": "http://demo.testfire.net/",
 		"name": "Altoro Mutual (AltoroJ)",
 		"collection": [
-			"online", "offline"
+			"online",
+			"offline"
 		],
 		"technology": [
 			"J2EE"
@@ -70,7 +71,8 @@
 		"url": "https://github.com/digininja/authlab",
 		"name": "AuthLab",
 		"collection": [
-			"offline","online"
+			"offline",
+			"online"
 		],
 		"technology": [
 			"GO"
@@ -121,7 +123,8 @@
 		"url": "https://github.com/psiinon/bodgeit",
 		"name": "BodgeIt Store",
 		"collection": [
-			"offline", "container"
+			"offline",
+			"container"
 		],
 		"technology": [
 			"Java"
@@ -167,7 +170,8 @@
 		"url": "https://github.com/NeuraLegion/brokencrystals#vulnerabilities-overview",
 		"name": "Broken Crystals",
 		"collection": [
-			"offline", "online"
+			"offline",
+			"online"
 		],
 		"technology": [
 			"react",
@@ -242,7 +246,8 @@
 		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
 		"name": "CloudGoat",
 		"collection": [
-			"offline", "online"
+			"offline",
+			"online"
 		],
 		"technology": [
 			"Python",
@@ -319,7 +324,8 @@
 		"url": "https://github.com/snsttr/diwa",
 		"name": "DIWA - Deliberately Insecure Web Application",
 		"collection": [
-			"offline", "container"
+			"offline",
+			"container"
 		],
 		"technology": [
 			"PHP",
@@ -406,6 +412,7 @@
 		"url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
 		"name": "Damn Vulnerable GraphQL Application (DVGA)",
 		"collection": [
+			"container",
 			"offline"
 		],
 		"technology": [
@@ -413,7 +420,8 @@
 			"HTML",
 			"Javascript",
 			"GraphQL",
-			"SQLAlchemy"
+			"SQLAlchemy",
+			"docker"
 		],
 		"references": [],
 		"author": "Dolev Farhi <dolev@lethalbit.com>, Connor McKinnon",
@@ -483,7 +491,8 @@
 		"url": "https://github.com/OWASP/DVSA",
 		"name": "Damn Vulnerable Serverless App (DVSA)",
 		"collection": [
-			"offline", "online"
+			"offline",
+			"online"
 		],
 		"technology": [
 			"Node",
@@ -718,6 +727,26 @@
 		"badge": null
 	},
 	{
+		"url": "https://github.com/InsiderPhD/Generic-University",
+		"name": "Generic-University",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"PHP",
+			"docker",
+			"API",
+			"GraphQL",
+			"MySQL",
+			"Laravel"
+		],
+		"references": [],
+		"author": " Katie Paxton-Fear ",
+		"notes": null,
+		"badge": "InsiderPhD/Generic-University"
+	},
+	{
 		"url": "https://github.com/Checkmarx/Goatlin/",
 		"name": "Goatlin",
 		"collection": [
@@ -743,7 +772,9 @@
 		"url": "https://github.com/snyk-labs/nodejs-goof",
 		"name": "Goof",
 		"collection": [
-			"offline", "online", "container"
+			"offline",
+			"online",
+			"container"
 		],
 		"technology": [
 			"NodeJS"
@@ -766,7 +797,8 @@
 		"url": "http://google-gruyere.appspot.com/",
 		"name": "Gruyere",
 		"collection": [
-			"offline", "online"
+			"offline",
+			"online"
 		],
 		"technology": [
 			"Python"
@@ -889,7 +921,8 @@
 		"url": "https://github.com/Hackademic/hackademic",
 		"name": "Hackademic Challenges Project",
 		"collection": [
-			"offline", "online"
+			"offline",
+			"online"
 		],
 		"technology": [
 			"PHP",
@@ -1113,7 +1146,8 @@
 		"url": "http://sourceforge.net/projects/lampsecurity/",
 		"name": "LAMPSecurity",
 		"collection": [
-			"container", "offline"
+			"container",
+			"offline"
 		],
 		"technology": [
 			"VMware",
@@ -1381,7 +1415,9 @@
 		"url": "https://owasp-juice.shop",
 		"name": "OWASP Juice Shop",
 		"collection": [
-			"offline", "online", "container"
+			"offline",
+			"online",
+			"container"
 		],
 		"technology": [
 			"TypeScript",
@@ -1419,7 +1455,8 @@
 		"url": "https://demo.securityknowledgeframework.org",
 		"name": "OWASP SKF Labs",
 		"collection": [
-			"online", "offline"
+			"online",
+			"offline"
 		],
 		"technology": [
 			"Python",
@@ -1566,7 +1603,8 @@
 		"url": "https://github.com/DevSlop/Pixi",
 		"name": "Pixi",
 		"collection": [
-			"offline", "container"
+			"offline",
+			"container"
 		],
 		"technology": [
 			"Node.js",
@@ -1578,7 +1616,7 @@
 				"name": "download",
 				"url": "https://github.com/DevSlop/Pixi"
 			},
-						{
+			{
 				"name": "download",
 				"url": "https://github.com/thedeadrobots/pixi"
 			},
@@ -1618,7 +1656,8 @@
 		"url": "https://github.com/adeyosemanputra/pygoat",
 		"name": "PyGoat",
 		"collection": [
-			"offline", "online"
+			"offline",
+			"online"
 		],
 		"technology": [
 			"Python"
@@ -1948,6 +1987,31 @@
 		"author": "lucideus",
 		"notes": "Web, Android and iOS application",
 		"badge": "lucideus-repo/UnSAFE_Bank"
+	},
+	{
+		"url": "https://github.com/erev0s/VAmPI",
+		"name": "VAmPI",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"python",
+			"docker",
+			"OpenAPI"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://thetesttherapist.com/2022/02/13/api-security-testing-with-postman-and-owasp-zap/"
+			},
+			{
+				"name": "announcement",
+				"url": "https://erev0s.com/blog/vampi-vulnerable-api-security-testing/"
+			}
+		],
+		"author": "erev0s",
+		"notes": null,
+		"badge": "erev0s/VAmPI"
 	},
 	{
 		"url": "https://github.com/detectify/Varnish-H2-Request-Smuggling",
@@ -2307,6 +2371,22 @@
 		"badge": null
 	},
 	{
+		"url": "https://github.com/jbarone/xxelab",
+		"name": "XXE Lab",
+		"collection": [
+			"container",
+			"offline"
+		],
+		"technology": [
+			"docker",
+			"vagrant"
+		],
+		"references": [],
+		"author": "Joshua Barone",
+		"notes": null,
+		"badge": "jbarone/xxelab"
+	},
+	{
 		"url": "https://github.com/s4n7h0/xvwa",
 		"name": "Xtreme Vulnerable Web Application (XVWA)",
 		"collection": [
@@ -2385,7 +2465,8 @@
 		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
 		"name": "hackxor",
 		"collection": [
-			"offline", "online"
+			"offline",
+			"online"
 		],
 		"technology": [],
 		"references": [
