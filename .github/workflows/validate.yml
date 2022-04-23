@@ -24,9 +24,7 @@ jobs:
       with:
         node-version: 13.x
     - name: Install dependencies
-      run: |
-        npm isntall -g ajv-formats
-        npm install -g ajv-cli
+      run: npm install -g ajv-cli
     - name: Run schema check
       run: |
         ajv validate -s schema.json -d src/data/collection.json --all-errors --errors=text --verbose=true -c=ajv-formats 1>> log.txt 2>&1
