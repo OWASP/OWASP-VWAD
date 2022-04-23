@@ -25,7 +25,7 @@ jobs:
         node-version: 13.x
     - name: Install dependencies
       run: |
-         npm isntall -g ajv-formats
+         npm install -g ajv-formats
          npm install -g ajv-cli
     - name: Run schema check
       run: |
