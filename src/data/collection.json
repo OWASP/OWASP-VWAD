@@ -1657,7 +1657,8 @@
 		"name": "PyGoat",
 		"collection": [
 			"offline",
-			"online"
+			"online",
+			"container"
 		],
 		"technology": [
 			"Python"
@@ -1678,33 +1679,6 @@
 			{
 				"name": "live",
 				"url": "http://pygoat.herokuapp.com/"
-			}
-		],
-		"author": "Ade Yoseman",
-		"notes": null,
-		"badge": "adeyosemanputra/pygoat"
-	},
-	{
-		"url": "http://pygoat.herokuapp.com/",
-		"name": "PyGoat",
-		"collection": [
-			"online"
-		],
-		"technology": [
-			"Python"
-		],
-		"references": [
-			{
-				"name": "guide",
-				"url": "https://github.com/adeyosemanputra/pygoat/blob/master/pygoat/Solutions/solution.md"
-			},
-			{
-				"name": "docker",
-				"url": "https://hub.docker.com/r/pygoat/pygoat"
-			},
-			{
-				"name": "download",
-				"url": "https://github.com/adeyosemanputra/pygoat"
 			}
 		],
 		"author": "Ade Yoseman",
