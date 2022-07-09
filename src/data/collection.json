@@ -626,18 +626,6 @@
 		"badge": "k-tamura/easybuggy"
 	},
 	{
-		"url": "http://enigmagroup.org/",
-		"name": "Enigma Group",
-		"collection": [
-			"online"
-		],
-		"technology": [],
-		"references": [],
-		"author": "Enigma Group",
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "http://sourceforge.net/projects/exploitcoilvuln/files/",
 		"name": "Exploit.co.il Vuln Web App",
 		"collection": [
