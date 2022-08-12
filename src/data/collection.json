@@ -2573,5 +2573,24 @@
 		"author": "Younes Jaaidi (yjaaidi)",
 		"notes": " Websheep is an app based on a willingly vulnerable ReSTful APIs.",
 		"badge": "marmicode/websheep"
+	},
+	{
+		"url": "http://github.com/convisolabs/CVWA",
+		"name": "CVWA - Conviso Vulnerable Web Application",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/convisolabs/CVWA"
+			}
+		],
+		"author": "Conviso AppSec",
+		"notes": null,
+		"badge": "convisolabs/CVWA"
 	}
 ]
