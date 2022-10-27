@@ -529,7 +529,7 @@
 		"badge": "silentsignal/damn-vulnerable-stateful-web-app"
 	},
 	{
-		"url": "http://www.dvwa.co.uk/",
+		"url": "https://github.com/digininja/DVWA",
 		"name": "Damn Vulnerable Web Application - DVWA",
 		"collection": [
 			"offline"
@@ -540,7 +540,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "https://github.com/ethicalhack3r/DVWA"
+				"url": "https://github.com/digininja/DVWA"
 			}
 		],
 		"author": "RandomStorm",
