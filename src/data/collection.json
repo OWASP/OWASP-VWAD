@@ -735,6 +735,23 @@
 		"badge": "InsiderPhD/Generic-University"
 	},
 	{
+		"url": "https://ginandjuice.shop/",
+		"name": "Gin & Juice Shop",
+		"collection": [
+			"online"
+		],
+		"technology": [],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://portswigger.net/blog/gin-and-juice-shop-put-your-scanner-to-the-test"
+			}
+		],
+		"author": "PortSwigger",
+		"notes": "Gin and Juice Shop",
+		"badge": null
+	},
+	{
 		"url": "https://github.com/Checkmarx/Goatlin/",
 		"name": "Goatlin",
 		"collection": [
