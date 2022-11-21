@@ -1367,6 +1367,31 @@
 		"badge": "digininja/nosqlilab"
 	},
 	{
+		"url": "https://github.com/aabashkin/nosql-injection-vulnapp",
+		"name": "NoSQL Injection Vulnerable App (NIVA)",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Java",
+			"MongoDB"
+		],
+		"references": [
+			{
+				"name": "docker",
+				"url": "https://hub.docker.com/repository/docker/aabashkin/niva"
+			},
+			{
+				"name": "guide",
+				"url": "https://github.com/aabashkin/nosql-injection-vulnapp/blob/main/README.md"
+			}
+		],
+		"author": "Anton Abashkin",
+		"notes": null,
+		"badge": "aabashkin/nosql-injection-vulnapp"
+	},
+	{
 		"url": "https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project",
 		"name": "NodeGoat",
 		"collection": [
