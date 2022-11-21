@@ -1379,11 +1379,11 @@
 		],
 		"references": [
 			{
-				"name": "Docker",
+				"name": "docker",
 				"url": "https://hub.docker.com/repository/docker/aabashkin/niva"
-			}
+			},
 			{
-				"name": "Guide",
+				"name": "guide",
 				"url": "https://github.com/aabashkin/nosql-injection-vulnapp/blob/main/README.md"
 			}
 		],
