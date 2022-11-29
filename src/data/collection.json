@@ -740,7 +740,12 @@
 		"collection": [
 			"online"
 		],
-		"technology": [],
+		"technology": [
+			"JavaScript",
+			"AngularJS",
+			"React",
+			"CSRF"
+		],
 		"references": [
 			{
 				"name": "announcement",
