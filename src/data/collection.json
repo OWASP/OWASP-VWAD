@@ -740,7 +740,12 @@
 		"collection": [
 			"online"
 		],
-		"technology": [],
+		"technology": [
+			"JavaScript",
+			"AngularJS",
+			"React",
+			"CSRF"
+		],
 		"references": [
 			{
 				"name": "announcement",
@@ -748,7 +753,7 @@
 			}
 		],
 		"author": "PortSwigger",
-		"notes": "Gin and Juice Shop",
+		"notes": "A hosted always-online demo app with realistic technologies.",
 		"badge": null
 	},
 	{
