@@ -231,6 +231,27 @@
 		"badge": null
 	},
 	{
+		"url": "https://owasp.org/www-project-crapi/",
+		"name": "crAPI",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Go",
+			"nginx"
+		],
+		"references": [
+			{
+				"name": "downloads",
+				"url": "https://github.com/OWASP/crAPI"
+			}
+		],
+		"author": "Paulo Silva",
+		"notes": null,
+		"badge": "OWASP/crAPI"
+	},
+	{
 		"url": "https://ctflearn.com/",
 		"name": "CTFLearn",
 		"collection": [
