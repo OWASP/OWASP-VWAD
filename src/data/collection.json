@@ -1899,6 +1899,25 @@
 		"badge": "globocom/secDevLabs"
 	},
 	{
+		"url": "https://github.com/DataDog/security-labs-pocs",
+		"name": "Security Labs & POCs",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"docker",
+			"Kubernetes",
+			"PiPy",
+			"OpenSSL",
+			"JWT"
+		],
+		"references": [
+		],
+		"author": "DataDog",
+		"notes": null,
+		"badge": "DataDog/security-labs-pocs"
+	},
+	{
 		"url": "https://owasp.org/www-project-security-shepherd/",
 		"name": "Security Shepherd",
 		"collection": [
