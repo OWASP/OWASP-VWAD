@@ -2473,7 +2473,8 @@
 		"url": "https://github.com/snoopysecurity/dvws-node",
 		"name": "dvws-node",
 		"collection": [
-			"offline"
+			"offline",
+			"container"
 		],
 		"technology": [
 			"Web Services",
