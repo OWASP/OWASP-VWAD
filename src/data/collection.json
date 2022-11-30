@@ -243,6 +243,25 @@
 		"badge": null
 	},
 	{
+		"url": "http://github.com/convisolabs/CVWA",
+		"name": "CVWA - Conviso Vulnerable Web Application",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "http://github.com/convisolabs/CVWA"
+			}
+		],
+		"author": "Conviso AppSec",
+		"notes": null,
+		"badge": "convisolabs/CVWA"
+	},
+	{
 		"url": "https://github.com/RhinoSecurityLabs/cloudgoat",
 		"name": "CloudGoat",
 		"collection": [
@@ -1899,6 +1918,24 @@
 		"badge": "globocom/secDevLabs"
 	},
 	{
+		"url": "https://github.com/DataDog/security-labs-pocs",
+		"name": "Security Labs & POCs",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"docker",
+			"Kubernetes",
+			"PiPy",
+			"OpenSSL",
+			"JWT"
+		],
+		"references": [],
+		"author": "DataDog",
+		"notes": null,
+		"badge": "DataDog/security-labs-pocs"
+	},
+	{
 		"url": "https://owasp.org/www-project-security-shepherd/",
 		"name": "Security Shepherd",
 		"collection": [
@@ -2451,10 +2488,32 @@
 		"badge": null
 	},
 	{
+		"url": "https://owasp.org/www-project-crapi/",
+		"name": "crAPI",
+		"collection": [
+			"offline",
+			"container"
+		],
+		"technology": [
+			"Go",
+			"nginx"
+		],
+		"references": [
+			{
+				"name": "downloads",
+				"url": "https://github.com/OWASP/crAPI"
+			}
+		],
+		"author": "Paulo Silva",
+		"notes": null,
+		"badge": "OWASP/crAPI"
+	},
+	{
 		"url": "https://github.com/snoopysecurity/dvws-node",
 		"name": "dvws-node",
 		"collection": [
-			"offline"
+			"offline",
+			"container"
 		],
 		"technology": [
 			"Web Services",
@@ -2620,24 +2679,5 @@
 		"author": "Younes Jaaidi (yjaaidi)",
 		"notes": " Websheep is an app based on a willingly vulnerable ReSTful APIs.",
 		"badge": "marmicode/websheep"
-	},
-	{
-		"url": "http://github.com/convisolabs/CVWA",
-		"name": "CVWA - Conviso Vulnerable Web Application",
-		"collection": [
-			"offline"
-		],
-		"technology": [
-			"PHP"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://github.com/convisolabs/CVWA"
-			}
-		],
-		"author": "Conviso AppSec",
-		"notes": null,
-		"badge": "convisolabs/CVWA"
 	}
 ]
