@@ -394,6 +394,29 @@
 		"badge": "rewanthtammana/Damn-Vulnerable-Bank"
 	},
 	{
+		"url": "https://github.com/njmulsqb/DVEA/",
+		"name": "Damn Vulnerable Electron App (DVEA)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"ElectronJS"
+		],
+		"references": [
+			{
+				"name": "announcement",
+				"url": "https://njmulsqb.github.io/2023/01/03/releasing-DVEA.html"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/njmulsqb/DVEA/"
+			}
+		],
+		"author": "Najam Ul Saqib (cybersoldier)",
+		"notes": "A deliberately insecure ElectronJS application",
+		"badge": "njmulsqb/DVEA"
+	},
+	{
 		"url": "https://github.com/LunaM00n/File-Upload-Lab",
 		"name": "Damn Vulnerable File Upload - DVFU",
 		"collection": [
