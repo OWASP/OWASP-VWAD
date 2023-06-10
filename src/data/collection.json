@@ -2725,7 +2725,8 @@
 		"name": "FFUF.me",
 		"collection": [
 			"online",
-			"offline"
+			"offline",
+			"container"
 		],
 		"technology": [
 			"PHP",
@@ -2733,8 +2734,8 @@
 		],
 		"references": [
 			{
-				"name": "download",
-				"url": "https://github.com/adamtlangley/ffufmei"
+				"name": "source",
+				"url": "https://github.com/adamtlangley/ffufme"
 			}
 		],
 		"author": "adamtlangley",
