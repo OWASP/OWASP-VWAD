@@ -2734,7 +2734,7 @@
 		],
 		"references": [
 			{
-				"name": "source",
+				"name": "download",
 				"url": "https://github.com/adamtlangley/ffufme"
 			}
 		],
