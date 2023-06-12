@@ -2760,6 +2760,10 @@
 			{
 				"name": "download",
 				"url": "https://github.com/adamtlangley/ffufme"
+			},
+			{
+				"name": "live",
+				"url": "http://ffuf.me/"
 			}
 		],
 		"author": "adamtlangley",
