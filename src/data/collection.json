@@ -574,7 +574,8 @@
 		"url": "https://github.com/digininja/DVWA",
 		"name": "Damn Vulnerable Web Application - DVWA",
 		"collection": [
-			"offline"
+			"offline",
+			"container"
 		],
 		"technology": [
 			"PHP"
@@ -583,6 +584,10 @@
 			{
 				"name": "download",
 				"url": "https://github.com/digininja/DVWA"
+			},
+			{
+				"name": "docker",
+				"url": "https://github.com/digininja/DVWA#docker"
 			}
 		],
 		"author": "RandomStorm",
