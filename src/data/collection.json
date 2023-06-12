@@ -45,7 +45,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "https://github.com/hclproducts/AltoroJ"
+				"url": "https://github.com/HCL-TECH-SOFTWARE/AltoroJ"
 			},
 			{
 				"name": "live",
