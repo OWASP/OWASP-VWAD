@@ -999,7 +999,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://hackyourselffirst.troyhunt.com/",
+		"url": "https://hack-yourself-first.com/",
 		"name": "HackYourselfFirst",
 		"collection": [
 			"online"
@@ -1012,7 +1012,7 @@
 			},
 			{
 				"name": "live",
-				"url": "http://hackyourselffirst.troyhunt.com/"
+				"url": "https://hack-yourself-first.com/"
 			}
 		],
 		"author": "Troy Hunt",
