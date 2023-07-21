@@ -2415,10 +2415,10 @@
 		"badge": "OWASP/OWASPWebGoatPHP"
 	},
 	{
-		"url": "https://github.com/commjoen/wrongsecrets",
+		"url": "https://github.com/OWASP/wrongsecrets",
 		"name": "WrongSecrets",
 		"collection": [
-			"offline"
+			"offline", "containerized"
 		],
 		"technology": [
 			"JavaScript",
@@ -2426,18 +2426,29 @@
 			"Hashicorp Vault",
 			"Kubernetes",
 			"Docker",
+			"Binaries",
+			"git"
 			"AWS",
-			"GCP"
+			"GCP",
+			"Azure"
 		],
 		"references": [
 			{
 				"name": "download",
 				"url": "https://github.com/commjoen/wrongsecrets"
+			},
+			{
+				"name": "demo",
+				"url": "https://wrongsecrets.herokuapp.com/"
+			},
+			{
+				"name": "K8s demo",
+				"url": "https://wrongsecrets-commjoen.cloud.okteto.net/"
 			}
 		],
-		"author": "Jeroen Willemsen (@commjoen), Ben de Haan (@bendehaan), Nanne Baars (@nbaars)",
+		"author": "OWASP Wrongsecrets team",
 		"notes": "OWASP WrongSecrets is a vulnerable app used to show how to not use secrets.",
-		"badge": "commjoen/wrongsecrets"
+		"badge": "OWASP/wrongsecrets"
 	},
 	{
 		"url": "http://xxe.sourceforge.net/",
