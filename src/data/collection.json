@@ -2418,7 +2418,7 @@
 		"url": "https://github.com/OWASP/wrongsecrets",
 		"name": "WrongSecrets",
 		"collection": [
-			"offline", "containerized"
+			"offline"
 		],
 		"technology": [
 			"JavaScript",
