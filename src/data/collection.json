@@ -1531,6 +1531,20 @@
 		"notes": null,
 		"badge": "cr0hn/vulnerable-node"
 	},
+    {
+		"url": "https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application",
+		"name": "OSTE-Vulnerable-Web-Application",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [],
+		"author": "(OSTE)Oudjani seyyid taqi eddine",
+		"notes": "Vulnerable web application",
+		"badge": "OSTEsayed/OSTE-Vulnerable-Web-Application"
+	},
 	{
 		"url": "https://owasp.org/www-project-damn-vulnerable-web-sockets/",
 		"name": "OWASP Damn Vulnerable Web Sockets (DVWS)",
