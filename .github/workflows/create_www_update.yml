@@ -6,6 +6,7 @@ on:
     - master
     paths:
     - '**.json'
+  workflow_dispatch:
 
 jobs:
   create_pr:
