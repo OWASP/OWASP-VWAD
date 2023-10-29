@@ -763,6 +763,26 @@
 		"badge": "google/firing-range"
 	},
 	{
+		"url": "https://github.com/Orange-Cyberdefense/GOAD",
+		"name": "Game of Active Directory",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Windows",
+			"Active Directory"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://mayfly277.github.io/categories/ad/"
+			}
+		],
+		"author": "Orange-Cyberdefense",
+		"notes": "Requires a considerably powerful system",
+		"badge": "Orange-Cyberdefense/GOAD"
+	},
+	{
 		"url": "http://www.gameofhacks.com/",
 		"name": "Game of Hacks",
 		"collection": [
