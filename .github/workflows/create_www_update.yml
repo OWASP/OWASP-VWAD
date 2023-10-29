@@ -41,4 +41,4 @@ jobs:
         git commit -m "VWAD Update $SHORT_DATE" -m "Updates based on $SRC_BASE"
         git push --set-upstream origin $BRANCH --force
         # Open the PR
-        hub pull-request --no-edit
+        gh pr create -R OWASP/www-project-vulnerable-web-applications-directory --fill
