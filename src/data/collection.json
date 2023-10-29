@@ -763,6 +763,26 @@
 		"badge": "google/firing-range"
 	},
 	{
+		"url": "https://github.com/Orange-Cyberdefense/GOAD",
+		"name": "Game of Active Directory",
+		"collection": [
+			"container"
+		],
+		"technology": [
+			"Windows",
+			"Active Directory"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://mayfly277.github.io/categories/ad/"
+			}
+		],
+		"author": "Orange-Cyberdefense",
+		"notes": "Requires a considerably powerful system",
+		"badge": "Orange-Cyberdefense/GOAD"
+	},
+	{
 		"url": "http://www.gameofhacks.com/",
 		"name": "Game of Hacks",
 		"collection": [
@@ -848,50 +868,26 @@
 		"badge": null
 	},
 	{
-		"url": "https://ginandjuice.shop/",
-		"name": "Gin & Juice Shop",
+		"url": "https://github.com/Checkmarx/Goatlin/",
+		"name": "Goatlin",
 		"collection": [
-			"online"
+			"mobile"
 		],
 		"technology": [
-			"JavaScript",
-			"AngularJS",
-			"React",
-			"CSRF"
-		],
-		"references": [
-			{
-				"name": "announcement",
-				"url": "https://portswigger.net/blog/gin-and-juice-shop-put-your-scanner-to-the-test"
-			},
-			{
-				"name": "live",
-				"url": "https://ginandjuice.shop/"
-			}
-		],
-		"author": "PortSwigger",
-		"notes": "A hosted always-online demo app with realistic technologies.",
-		"badge": null
-	},
-	{
-		"url": "https://github.com/Orange-Cyberdefense/GOAD",
-		"name": "Game of Active Directory",
-		"collection": [
-			"container"
-		],
-		"technology": [
-			"Windows",
-			"Active Directory",
+			"Kotlin",
+			"Android",
+			"API",
+			"REST"
 		],
 		"references": [
 			{
 				"name": "guide",
-				"url": "https://mayfly277.github.io/categories/ad/"
+				"url": "https://checkmarx.github.io/Kotlin-SCP/"
 			}
 		],
-		"author": "Orange-Cyberdefense",
-		"notes": "Requires a considerably powerful system",
-		"badge": "Orange-Cyberdefense/GOAD"
+		"author": "Checkmarx",
+		"notes": null,
+		"badge": "Checkmarx/Goatlin"
 	},
 	{
 		"url": "https://github.com/snyk-labs/nodejs-goof",
