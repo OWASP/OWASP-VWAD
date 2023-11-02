@@ -421,7 +421,7 @@
         }
     ],
 		"author": "Andrea Valenza, Enrico Russo, Gabriele Costa",
-		"notes": "HTTP Response fuzzer to find Vulnerabilities in Security Scanners",
+		"notes": "An intentionally vulnerable web application scanner",
 		"badge": "AvalZ/DVAS"
 	},
 	{
