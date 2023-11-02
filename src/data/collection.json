@@ -402,6 +402,29 @@
 		"badge": "stamparm/DSVW"
 	},
 	{
+		"url": "https://github.com/AvalZ/DVAS",
+		"name": "Damn Vulnerable Application Scanner (DVAS)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [
+        {
+            "name": "guide",
+            "url": "https://ceur-ws.org/Vol-2940/paper36.pdf"
+        },
+        {
+            "name": "announcement",
+            "url": "https://avalz.it/research/metasploit-pro-xss-to-rce/"
+        }
+    ],
+		"author": "Andrea Valenza, Enrico Russo, Gabriele Costa",
+		"notes": "An intentionally vulnerable web application scanner",
+		"badge": "AvalZ/DVAS"
+	},
+	{
 		"url": "https://github.com/rewanthtammana/Damn-Vulnerable-Bank",
 		"name": "Damn Vulnerable Bank",
 		"collection": [
