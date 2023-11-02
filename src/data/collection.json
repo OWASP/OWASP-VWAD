@@ -410,9 +410,18 @@
 		"technology": [
 			"PHP"
 		],
-		"references": [],
+		"references": [
+        {
+            "name": "paper",
+            "url": "https://ceur-ws.org/Vol-2940/paper36.pdf"
+        },
+        {
+            "name": "announcement",
+            "url": "https://avalz.it/research/metasploit-pro-xss-to-rce/"
+        }
+    ],
 		"author": "Andrea Valenza, Enrico Russo, Gabriele Costa",
-		"notes": null,
+		"notes": "HTTP Response fuzzer to find Vulnerabilities in Security Scanners",
 		"badge": "AvalZ/DVAS"
 	},
 	{
