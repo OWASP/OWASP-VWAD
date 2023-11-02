@@ -402,6 +402,20 @@
 		"badge": "stamparm/DSVW"
 	},
 	{
+		"url": "https://github.com/AvalZ/DVAS",
+		"name": "Damn Vulnerable Application Scanner (DVAS)",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"PHP"
+		],
+		"references": [],
+		"author": "Andrea Valenza, Enrico Russo, Gabriele Costa",
+		"notes": null,
+		"badge": "AvalZ/DVAS"
+	},
+	{
 		"url": "https://github.com/rewanthtammana/Damn-Vulnerable-Bank",
 		"name": "Damn Vulnerable Bank",
 		"collection": [
