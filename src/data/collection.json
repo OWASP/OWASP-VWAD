@@ -411,15 +411,15 @@
 			"PHP"
 		],
 		"references": [
-        {
-            "name": "guide",
-            "url": "https://ceur-ws.org/Vol-2940/paper36.pdf"
-        },
-        {
-            "name": "announcement",
-            "url": "https://avalz.it/research/metasploit-pro-xss-to-rce/"
-        }
-    ],
+			{
+				"name": "guide",
+				"url": "https://ceur-ws.org/Vol-2940/paper36.pdf"
+			},
+			{
+				"name": "announcement",
+				"url": "https://avalz.it/research/metasploit-pro-xss-to-rce/"
+			}
+		],
 		"author": "Andrea Valenza, Enrico Russo, Gabriele Costa",
 		"notes": "An intentionally vulnerable web application scanner",
 		"badge": "AvalZ/DVAS"
@@ -1574,7 +1574,7 @@
 		"notes": null,
 		"badge": "cr0hn/vulnerable-node"
 	},
-    {
+	{
 		"url": "https://github.com/OSTEsayed/OSTE-Vulnerable-Web-Application",
 		"name": "OSTE-Vulnerable-Web-Application",
 		"collection": [
