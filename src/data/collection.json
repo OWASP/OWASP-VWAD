@@ -2847,7 +2847,11 @@
 				"name": "Pentest-Tools",
 				"url": "https://pentest-tools.com/"
 			}
-		]
+		],
+		"author": "Pentest-Tools.com",
+		"notes": "Suite of vulnerable web apps to practice",
+		"badge": "pentest-ground.com",
+
 
 	}
 ]
