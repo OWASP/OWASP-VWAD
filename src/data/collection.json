@@ -2826,5 +2826,21 @@
 		"author": "adamtlangley",
 		"notes": "Target practice for ffuf",
 		"badge": "adamtlangley/ffufme"
+	},
+	{
+		"url": "https://pentest-ground.com/",
+		"name": "Pentest-Ground",
+		"collection": [
+			"online",
+			"container"
+		],
+		"technology": [
+			"PHP",
+			"Docker"
+		],
+		"references": [],
+		"author": "Pentest-Tools.com",
+		"notes": "Suite of vulnerable web apps to practice",
+		"badge": null
 	}
 ]
