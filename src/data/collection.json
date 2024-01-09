@@ -2831,8 +2831,7 @@
 		"url": "https://pentest-ground.com/",
 		"name": "Pentest-Ground",
 		"collection": [
-			"online",
-			"container"
+			"online"
 		],
 		"technology": [
 			"PHP",
