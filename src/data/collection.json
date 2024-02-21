@@ -1600,7 +1600,12 @@
 			"Javascript",
 			"WebSockets"
 		],
-		"references": [],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/interference-security/DVWS"
+			}
+		],
 		"author": "Abhineet Jayaraj (@xploresec)",
 		"notes": null,
 		"badge": "interference-security/DVWS"
