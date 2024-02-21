@@ -1135,29 +1135,6 @@
 		"badge": null
 	},
 	{
-		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
-		"name": "Hackxor",
-		"collection": [
-			"container"
-		],
-		"technology": [
-			"VMware"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "https://sourceforge.net/projects/hackxor/files/"
-			},
-			{
-				"name": "guide",
-				"url": "http://hackxor.sourceforge.net/cgi-bin/hints.pl"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
 		"name": "Hacme Bank",
 		"collection": [
@@ -2640,13 +2617,24 @@
 	},
 	{
 		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
-		"name": "hackxor",
+		"name": "Hackxor",
 		"collection": [
 			"offline",
-			"online"
+			"online",
+			"container"
 		],
-		"technology": [],
+		"technology": [
+			"VMware"
+		],
 		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/hackxor/files/"
+			},
+			{
+				"name": "guide",
+				"url": "http://hackxor.sourceforge.net/cgi-bin/hints.pl"
+			},
 			{
 				"name": "live",
 				"url": "https://hackxor.net"
