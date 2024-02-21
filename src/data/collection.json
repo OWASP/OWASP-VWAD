@@ -10,7 +10,7 @@
 		],
 		"references": [],
 		"author": "OWASP",
-		"notes": "Original main repo: http://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
+		"notes": "Original main repo: https://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
 		"badge": "jerryhoff/WebGoat.NET"
 	},
 	{
@@ -146,7 +146,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/psiinon/bodgeit/releases/latest"
+				"url": "https://github.com/psiinon/bodgeit/releases/latest"
 			},
 			{
 				"name": "docker",
@@ -262,7 +262,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://github.com/convisolabs/CVWA",
+		"url": "https://github.com/convisolabs/CVWA",
 		"name": "CVWA - Conviso Vulnerable Web Application",
 		"collection": [
 			"offline"
@@ -273,7 +273,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/convisolabs/CVWA"
+				"url": "https://github.com/convisolabs/CVWA"
 			}
 		],
 		"author": "Conviso AppSec",
@@ -1509,7 +1509,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/digininja/nosqlilab"
+				"url": "https://github.com/digininja/nosqlilab"
 			}
 		],
 		"author": "@digininja",
@@ -1897,7 +1897,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/OWASP/railsgoat/archive/master.zip"
+				"url": "https://github.com/OWASP/railsgoat/archive/master.zip"
 			},
 			{
 				"name": "downloads",
@@ -1934,7 +1934,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/Audi-1/sqli-labs/archive/master.zip"
+				"url": "https://github.com/Audi-1/sqli-labs/archive/master.zip"
 			},
 			{
 				"name": "guide",
@@ -1957,7 +1957,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/SpiderLabs/SQLol/archive/master.zip"
+				"url": "https://github.com/SpiderLabs/SQLol/archive/master.zip"
 			}
 		],
 		"author": null,
@@ -2127,7 +2127,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/dhatanian/ticketmagpie"
+				"url": "https://github.com/dhatanian/ticketmagpie"
 			}
 		],
 		"author": null,
@@ -2147,7 +2147,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/payatu/Tiredful-API"
+				"url": "https://github.com/payatu/Tiredful-API"
 			}
 		],
 		"author": "@payatu",
@@ -2394,7 +2394,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/adamdoupe/WackoPicko/zipball/master"
+				"url": "https://github.com/adamdoupe/WackoPicko/zipball/master"
 			}
 		],
 		"author": null,
@@ -2460,7 +2460,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/OWASP/OWASPWebGoatPHP"
+				"url": "https://github.com/OWASP/OWASPWebGoatPHP"
 			},
 			{
 				"name": "downloads",
@@ -2544,7 +2544,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/s4n7h0/xvwa"
+				"url": "https://github.com/s4n7h0/xvwa"
 			}
 		],
 		"author": "@s4n7h0, @samanL33T",
@@ -2714,7 +2714,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/sakti/twitterlike"
+				"url": "https://github.com/sakti/twitterlike"
 			}
 		],
 		"author": "Sakti Dwi Cahyono",
@@ -2756,7 +2756,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/mattvaldes/vulnerable-api"
+				"url": "https://github.com/mattvaldes/vulnerable-api"
 			}
 		],
 		"author": "Matthew Valdes",
