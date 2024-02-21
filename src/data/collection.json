@@ -120,7 +120,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://sourceforge.net/projects/bwapp/files/bee-box/",
+		"url": "https://sourceforge.net/projects/bwapp/files/bee-box/",
 		"name": "Bee-Box",
 		"collection": [
 			"container"
@@ -226,7 +226,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
+		"url": "https://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
 		"name": "Butterfly Security Project",
 		"collection": [
 			"offline"
@@ -237,7 +237,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/thebutterflytmp/files/"
+				"url": "https://sourceforge.net/projects/thebutterflytmp/files/"
 			}
 		],
 		"author": null,
@@ -727,7 +727,7 @@
 		"badge": "k-tamura/easybuggy"
 	},
 	{
-		"url": "http://sourceforge.net/projects/exploitcoilvuln/files/",
+		"url": "https://sourceforge.net/projects/exploitcoilvuln/files/",
 		"name": "Exploit.co.il Vuln Web App",
 		"collection": [
 			"container"
@@ -738,7 +738,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/exploitcoilvuln/files/"
+				"url": "https://sourceforge.net/projects/exploitcoilvuln/files/"
 			}
 		],
 		"author": null,
@@ -826,7 +826,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://sourceforge.net/projects/null-gameover/",
+		"url": "https://sourceforge.net/projects/null-gameover/",
 		"name": "GameOver",
 		"collection": [
 			"container"
@@ -837,7 +837,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/null-gameover/files/"
+				"url": "https://sourceforge.net/projects/null-gameover/files/"
 			}
 		],
 		"author": null,
@@ -1146,7 +1146,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/hackxor/files/"
+				"url": "https://sourceforge.net/projects/hackxor/files/"
 			},
 			{
 				"name": "guide",
@@ -1288,7 +1288,7 @@
 		"badge": "iknowjason/hammer"
 	},
 	{
-		"url": "http://sourceforge.net/projects/lampsecurity/",
+		"url": "https://sourceforge.net/projects/lampsecurity/",
 		"name": "LAMPSecurity",
 		"collection": [
 			"container",
@@ -1301,7 +1301,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/lampsecurity/files/"
+				"url": "https://sourceforge.net/projects/lampsecurity/files/"
 			}
 		],
 		"author": null,
@@ -1421,7 +1421,7 @@
 		"badge": "rapid7/metasploitable3"
 	},
 	{
-		"url": "http://sourceforge.net/projects/w3af/files/moth/moth/",
+		"url": "https://sourceforge.net/projects/w3af/files/moth/moth/",
 		"name": "Moth",
 		"collection": [
 			"container"
@@ -1432,7 +1432,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/w3af/files/moth/moth/"
+				"url": "https://sourceforge.net/projects/w3af/files/moth/moth/"
 			}
 		],
 		"author": null,
@@ -1775,7 +1775,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/peruggia/files/"
+				"url": "https://sourceforge.net/projects/peruggia/files/"
 			}
 		],
 		"author": null,
@@ -1995,7 +1995,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/samurai/files/"
+				"url": "https://sourceforge.net/projects/samurai/files/"
 			}
 		],
 		"author": null,
@@ -2214,7 +2214,7 @@
 		"badge": "detectify/Varnish-H2-Request-Smuggling"
 	},
 	{
-		"url": "http://sourceforge.net/projects/virtualhacking/",
+		"url": "https://sourceforge.net/projects/virtualhacking/",
 		"name": "Virtual Hacking Lab",
 		"collection": [
 			"container"
@@ -2225,7 +2225,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/virtualhacking/files/"
+				"url": "https://sourceforge.net/projects/virtualhacking/files/"
 			}
 		],
 		"author": null,
@@ -2346,7 +2346,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/wavsep/"
+				"url": "https://sourceforge.net/projects/wavsep/"
 			},
 			{
 				"name": "downloads",
@@ -2414,7 +2414,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/websecuritydojo/files/"
+				"url": "https://sourceforge.net/projects/websecuritydojo/files/"
 			}
 		],
 		"author": null,
@@ -2508,7 +2508,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/xxe/files/"
+				"url": "https://sourceforge.net/projects/xxe/files/"
 			}
 		],
 		"author": null,
@@ -2580,7 +2580,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/bwapp/files/"
+				"url": "https://sourceforge.net/projects/bwapp/files/"
 			},
 			{
 				"name": "guide",
