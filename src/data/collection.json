@@ -10,7 +10,7 @@
 		],
 		"references": [],
 		"author": "OWASP",
-		"notes": "Original main repo: http://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
+		"notes": "Original main repo: https://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
 		"badge": "jerryhoff/WebGoat.NET"
 	},
 	{
@@ -120,7 +120,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://sourceforge.net/projects/bwapp/files/bee-box/",
+		"url": "https://sourceforge.net/projects/bwapp/files/bee-box/",
 		"name": "Bee-Box",
 		"collection": [
 			"container"
@@ -146,7 +146,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/psiinon/bodgeit/releases/latest"
+				"url": "https://github.com/psiinon/bodgeit/releases/latest"
 			},
 			{
 				"name": "docker",
@@ -226,7 +226,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
+		"url": "https://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
 		"name": "Butterfly Security Project",
 		"collection": [
 			"offline"
@@ -237,7 +237,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/thebutterflytmp/files/"
+				"url": "https://sourceforge.net/projects/thebutterflytmp/files/"
 			}
 		],
 		"author": null,
@@ -262,7 +262,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://github.com/convisolabs/CVWA",
+		"url": "https://github.com/convisolabs/CVWA",
 		"name": "CVWA - Conviso Vulnerable Web Application",
 		"collection": [
 			"offline"
@@ -273,7 +273,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/convisolabs/CVWA"
+				"url": "https://github.com/convisolabs/CVWA"
 			}
 		],
 		"author": "Conviso AppSec",
@@ -727,7 +727,7 @@
 		"badge": "k-tamura/easybuggy"
 	},
 	{
-		"url": "http://sourceforge.net/projects/exploitcoilvuln/files/",
+		"url": "https://sourceforge.net/projects/exploitcoilvuln/files/",
 		"name": "Exploit.co.il Vuln Web App",
 		"collection": [
 			"container"
@@ -738,7 +738,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/exploitcoilvuln/files/"
+				"url": "https://sourceforge.net/projects/exploitcoilvuln/files/"
 			}
 		],
 		"author": null,
@@ -826,7 +826,7 @@
 		"badge": null
 	},
 	{
-		"url": "http://sourceforge.net/projects/null-gameover/",
+		"url": "https://sourceforge.net/projects/null-gameover/",
 		"name": "GameOver",
 		"collection": [
 			"container"
@@ -837,7 +837,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/null-gameover/files/"
+				"url": "https://sourceforge.net/projects/null-gameover/files/"
 			}
 		],
 		"author": null,
@@ -1135,29 +1135,6 @@
 		"badge": null
 	},
 	{
-		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
-		"name": "Hackxor",
-		"collection": [
-			"container"
-		],
-		"technology": [
-			"VMware"
-		],
-		"references": [
-			{
-				"name": "download",
-				"url": "http://sourceforge.net/projects/hackxor/files/"
-			},
-			{
-				"name": "guide",
-				"url": "http://hackxor.sourceforge.net/cgi-bin/hints.pl"
-			}
-		],
-		"author": null,
-		"notes": null,
-		"badge": null
-	},
-	{
 		"url": "http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx",
 		"name": "Hacme Bank",
 		"collection": [
@@ -1288,7 +1265,7 @@
 		"badge": "iknowjason/hammer"
 	},
 	{
-		"url": "http://sourceforge.net/projects/lampsecurity/",
+		"url": "https://sourceforge.net/projects/lampsecurity/",
 		"name": "LAMPSecurity",
 		"collection": [
 			"container",
@@ -1301,7 +1278,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/lampsecurity/files/"
+				"url": "https://sourceforge.net/projects/lampsecurity/files/"
 			}
 		],
 		"author": null,
@@ -1421,7 +1398,7 @@
 		"badge": "rapid7/metasploitable3"
 	},
 	{
-		"url": "http://sourceforge.net/projects/w3af/files/moth/moth/",
+		"url": "https://sourceforge.net/projects/w3af/files/moth/moth/",
 		"name": "Moth",
 		"collection": [
 			"container"
@@ -1432,7 +1409,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/w3af/files/moth/moth/"
+				"url": "https://sourceforge.net/projects/w3af/files/moth/moth/"
 			}
 		],
 		"author": null,
@@ -1509,7 +1486,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/digininja/nosqlilab"
+				"url": "https://github.com/digininja/nosqlilab"
 			}
 		],
 		"author": "@digininja",
@@ -1600,7 +1577,12 @@
 			"Javascript",
 			"WebSockets"
 		],
-		"references": [],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/interference-security/DVWS"
+			}
+		],
 		"author": "Abhineet Jayaraj (@xploresec)",
 		"notes": null,
 		"badge": "interference-security/DVWS"
@@ -1775,7 +1757,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/peruggia/files/"
+				"url": "https://sourceforge.net/projects/peruggia/files/"
 			}
 		],
 		"author": null,
@@ -1897,7 +1879,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/OWASP/railsgoat/archive/master.zip"
+				"url": "https://github.com/OWASP/railsgoat/archive/master.zip"
 			},
 			{
 				"name": "downloads",
@@ -1934,7 +1916,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/Audi-1/sqli-labs/archive/master.zip"
+				"url": "https://github.com/Audi-1/sqli-labs/archive/master.zip"
 			},
 			{
 				"name": "guide",
@@ -1957,7 +1939,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/SpiderLabs/SQLol/archive/master.zip"
+				"url": "https://github.com/SpiderLabs/SQLol/archive/master.zip"
 			}
 		],
 		"author": null,
@@ -1995,7 +1977,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/samurai/files/"
+				"url": "https://sourceforge.net/projects/samurai/files/"
 			}
 		],
 		"author": null,
@@ -2127,7 +2109,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/dhatanian/ticketmagpie"
+				"url": "https://github.com/dhatanian/ticketmagpie"
 			}
 		],
 		"author": null,
@@ -2147,7 +2129,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/payatu/Tiredful-API"
+				"url": "https://github.com/payatu/Tiredful-API"
 			}
 		],
 		"author": "@payatu",
@@ -2214,7 +2196,7 @@
 		"badge": "detectify/Varnish-H2-Request-Smuggling"
 	},
 	{
-		"url": "http://sourceforge.net/projects/virtualhacking/",
+		"url": "https://sourceforge.net/projects/virtualhacking/",
 		"name": "Virtual Hacking Lab",
 		"collection": [
 			"container"
@@ -2225,7 +2207,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/virtualhacking/files/"
+				"url": "https://sourceforge.net/projects/virtualhacking/files/"
 			}
 		],
 		"author": null,
@@ -2346,7 +2328,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/wavsep/"
+				"url": "https://sourceforge.net/projects/wavsep/"
 			},
 			{
 				"name": "downloads",
@@ -2394,7 +2376,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/adamdoupe/WackoPicko/zipball/master"
+				"url": "https://github.com/adamdoupe/WackoPicko/zipball/master"
 			}
 		],
 		"author": null,
@@ -2414,7 +2396,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/websecuritydojo/files/"
+				"url": "https://sourceforge.net/projects/websecuritydojo/files/"
 			}
 		],
 		"author": null,
@@ -2460,7 +2442,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/OWASP/OWASPWebGoatPHP"
+				"url": "https://github.com/OWASP/OWASPWebGoatPHP"
 			},
 			{
 				"name": "downloads",
@@ -2508,7 +2490,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/xxe/files/"
+				"url": "https://sourceforge.net/projects/xxe/files/"
 			}
 		],
 		"author": null,
@@ -2544,7 +2526,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/s4n7h0/xvwa"
+				"url": "https://github.com/s4n7h0/xvwa"
 			}
 		],
 		"author": "@s4n7h0, @samanL33T",
@@ -2580,7 +2562,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://sourceforge.net/projects/bwapp/files/"
+				"url": "https://sourceforge.net/projects/bwapp/files/"
 			},
 			{
 				"name": "guide",
@@ -2635,13 +2617,24 @@
 	},
 	{
 		"url": "http://hackxor.sourceforge.net/cgi-bin/index.pl",
-		"name": "hackxor",
+		"name": "Hackxor",
 		"collection": [
 			"offline",
-			"online"
+			"online",
+			"container"
 		],
-		"technology": [],
+		"technology": [
+			"VMware"
+		],
 		"references": [
+			{
+				"name": "download",
+				"url": "https://sourceforge.net/projects/hackxor/files/"
+			},
+			{
+				"name": "guide",
+				"url": "http://hackxor.sourceforge.net/cgi-bin/hints.pl"
+			},
 			{
 				"name": "live",
 				"url": "https://hackxor.net"
@@ -2714,7 +2707,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/sakti/twitterlike"
+				"url": "https://github.com/sakti/twitterlike"
 			}
 		],
 		"author": "Sakti Dwi Cahyono",
@@ -2756,7 +2749,7 @@
 		"references": [
 			{
 				"name": "download",
-				"url": "http://github.com/mattvaldes/vulnerable-api"
+				"url": "https://github.com/mattvaldes/vulnerable-api"
 			}
 		],
 		"author": "Matthew Valdes",
