@@ -2835,4 +2835,27 @@
 		"notes": "Suite of vulnerable web apps to practice",
 		"badge": null
 	}
+	{
+		"url": "https://yrprey.com",
+		"name": "Yrprey",
+		"collection": ["offline"],
+		"technology": ["PHP", "TypeScript", "NextJs"],
+		"references": [
+		  {
+			"name": "Backend",
+			"url": "https://github.com/yrprey/yrprey-backend"
+		  },
+		  {
+			"name": "Frontend",
+			"url": "https://github.com/yrprey/yrprey-frontend"
+		  },
+		  {
+			"name": "Docker",
+			"url": "https://github.com/yrprey/yrprey-application"
+		  }
+		],
+		"author": "Fernando Mengali, Vagner Mengali",
+		"notes": "Framework created in NextJs (TypeScript) and PHP/MySQL with OWASP TOP 10 API vulnerabilities of 2019 and 2023. Yrprey can was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (Appsec).",
+		"badge": null
+	  }
 ]
