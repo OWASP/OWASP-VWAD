@@ -2834,5 +2834,34 @@
 		"author": "Pentest-Tools.com",
 		"notes": "Suite of vulnerable web apps to practice",
 		"badge": null
+	},
+	{
+		"author": "Fernando Mengali, Vagner Mengali",
+		"badge": null,
+		"collection": [
+			"offline"
+		],
+		"name": "Yrprey",
+		"notes": "Framework created in NextJs (TypeScript) and PHP/MySQL with OWASP TOP 10 API vulnerabilities of 2019 and 2023. Yrprey can was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (Appsec).",
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrprey-backend"
+			},
+			{
+				"name": "download",
+				"url": "https://github.com/yrprey/yrprey-frontend"
+			},
+			{
+				"name": "docker",
+				"url": "https://github.com/yrprey/yrprey-application"
+			}
+		],
+		"technology": [
+			"PHP",
+			"TypeScript",
+			"NextJs"
+		],
+		"url": "https://yrprey.com"
 	}
 ]
