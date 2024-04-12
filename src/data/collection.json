@@ -580,6 +580,26 @@
 		"badge": "anxolerd/dvpwa"
 	},
 	{
+		"url": "https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game",
+		"name": "Damn Vulnerable Restaurant",
+		"collection": [
+			"offline"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://devsec-blog.com/2024/04/security-code-challenge-for-developers-ethical-hackers-the-damn-vulnerable-restaurant/"
+			}
+		],
+		"technology": [
+			"Python",
+			"Docker"
+		],
+		"author": "theowni",
+		"notes": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
+		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game"
+	},
+	{
 		"url": "https://github.com/OWASP/DVSA",
 		"name": "Damn Vulnerable Serverless App (DVSA)",
 		"collection": [
