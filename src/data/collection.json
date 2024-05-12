@@ -2757,7 +2757,7 @@
 		"notes": "vAPI is a Vulnerable Interface that demonstrates the OWASP API Top 10 vulnerabilities in the means of exercises",
 		"badge": "roottusk/vapi"
 	},
-		{
+	{
 		"url": "https://github.com/Aif4thah/VulnerableLightApp",
 		"name": "VulnerableLightApp",
 		"collection": [
