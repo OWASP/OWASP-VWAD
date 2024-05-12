@@ -2758,6 +2758,27 @@
 		"badge": "roottusk/vapi"
 	},
 	{
+		"url": "https://github.com/Aif4thah/VulnerableLightApp",
+		"name": "VulnerableLightApp",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			".NET",
+			"C#",
+			"AspNetCore"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/Aif4thah/VulnerableLightApp"
+			}
+		],
+		"author": "Michael Vacarella",
+		"notes": "Vulnerable API for educational purposes",
+		"badge": "Aif4thah/VulnerableLightApp"
+	},
+	{
 		"url": "https://github.com/mattvaldes/vulnerable-api",
 		"name": "vulnerable-api",
 		"collection": [
