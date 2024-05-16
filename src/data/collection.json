@@ -580,6 +580,26 @@
 		"badge": "anxolerd/dvpwa"
 	},
 	{
+		"url": "https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game",
+		"name": "Damn Vulnerable Restaurant",
+		"collection": [
+			"offline"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://devsec-blog.com/2024/04/security-code-challenge-for-developers-ethical-hackers-the-damn-vulnerable-restaurant/"
+			}
+		],
+		"technology": [
+			"Python",
+			"Docker"
+		],
+		"author": "theowni",
+		"notes": "Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.",
+		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game"
+	},
+	{
 		"url": "https://github.com/OWASP/DVSA",
 		"name": "Damn Vulnerable Serverless App (DVSA)",
 		"collection": [
@@ -2590,7 +2610,7 @@
 				"url": "https://github.com/OWASP/crAPI"
 			}
 		],
-		"author": "Paulo Silva",
+		"author": "OWASP",
 		"notes": null,
 		"badge": "OWASP/crAPI"
 	},
@@ -2736,6 +2756,27 @@
 		"author": "Tushar Kulkarni",
 		"notes": "vAPI is a Vulnerable Interface that demonstrates the OWASP API Top 10 vulnerabilities in the means of exercises",
 		"badge": "roottusk/vapi"
+	},
+	{
+		"url": "https://github.com/Aif4thah/VulnerableLightApp",
+		"name": "VulnerableLightApp",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			".NET",
+			"C#",
+			"AspNetCore"
+		],
+		"references": [
+			{
+				"name": "guide",
+				"url": "https://github.com/Aif4thah/VulnerableLightApp"
+			}
+		],
+		"author": "Michael Vacarella",
+		"notes": "Vulnerable API for educational purposes",
+		"badge": "Aif4thah/VulnerableLightApp"
 	},
 	{
 		"url": "https://github.com/mattvaldes/vulnerable-api",
