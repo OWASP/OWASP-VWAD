@@ -2863,5 +2863,27 @@
 			"NextJs"
 		],
 		"url": "https://yrprey.com"
-	}
+	},
+	{
+	"author": "Fernando Mengali",
+	"badge": null,
+	"collection": [
+		"offline"
+	],
+	"name": "YrpreyPHP",
+	"notes": "Framework created in PHP/MySQL with OWASP TOP 10 Web Applications vulnerabilities.  YrpreyPHP can was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (Appsec).",
+	"references": [
+		{
+			"name": "download",
+			"url": "https://github.com/yrprey/yrpreyPHP/"
+		}
+	],
+	"technology": [
+		"PHP",
+		"CSS",
+		"Bootstrap",
+		"MySQL"
+	],
+	"url": "https://yrprey.com"
+}
 ]
