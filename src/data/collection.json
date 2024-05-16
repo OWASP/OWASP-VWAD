@@ -2912,7 +2912,7 @@
 		"offline"
 	],
 	"name": "YrpreyPHP",
-	"notes": "Framework created in PHP/MySQL with OWASP TOP 10 Web Applications vulnerabilities.  YrpreyPHP can was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (Appsec).",
+	"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities. YrpreyPHP was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (AppSec).",
 	"references": [
 		{
 			"name": "download",
