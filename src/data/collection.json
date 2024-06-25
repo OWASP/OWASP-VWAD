@@ -2948,5 +2948,24 @@
 		"MySQL"
 	],
 	"url": "https://yrprey.com"
+	},
+	{
+	"author": "Fernando Mengali",
+	"badge": null,
+	"collection": [
+		"offline"
+	],
+	"name": "YrpreyCPlus",
+	"notes": "It is a framework written in C++ with memory-level vulnerabilities, mainly Overflows.",
+	"references": [
+		{
+			"name": "download",
+			"url": "https://github.com/yrprey/yrpreyCPlus"
+		}
+	],
+	"technology": [
+		"C++"
+	],
+	"url": "https://yrprey.com"
 	}	
 ]
