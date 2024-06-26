@@ -2926,5 +2926,27 @@
 		"MySQL"
 	],
 	"url": "https://yrprey.com"
+	},
+	{
+	"author": "Fernando Mengali",
+	"badge": null,
+	"collection": [
+		"offline"
+	],
+	"name": "YrpreyBlog",
+	"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities.",
+	"references": [
+		{
+			"name": "download",
+			"url": "https://github.com/yrprey/yrpreyBlog"
+		}
+	],
+	"technology": [
+		"PHP",
+		"CSS",
+		"Bootstrap",
+		"MySQL"
+	],
+	"url": "https://yrprey.com"
 	}
 ]
