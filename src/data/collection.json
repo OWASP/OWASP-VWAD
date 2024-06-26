@@ -2926,5 +2926,49 @@
 		"MySQL"
 	],
 	"url": "https://yrprey.com"
+	},
+	{
+	"author": "Fernando Mengali",
+	"badge": null,
+	"collection": [
+		"offline"
+	],
+	"name": "YrpreyPHP",
+	"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities. YrpreyPHP was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (AppSec).",
+	"references": [
+		{
+			"name": "download",
+			"url": "https://github.com/yrprey/yrpreyPHP/"
+		}
+	],
+	"technology": [
+		"PHP",
+		"CSS",
+		"Bootstrap",
+		"MySQL"
+	],
+	"url": "https://yrprey.com"
+	},
+	{
+	"author": "Fernando Mengali",
+	"badge": null,
+	"collection": [
+		"offline"
+	],
+	"name": "YrpreyBlog",
+	"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities.",
+	"references": [
+		{
+			"name": "download",
+			"url": "https://github.com/yrprey/yrpreyBlog"
+		}
+	],
+	"technology": [
+		"PHP",
+		"CSS",
+		"Bootstrap",
+		"MySQL"
+	],
+	"url": "https://yrprey.com"
 	}
 ]
