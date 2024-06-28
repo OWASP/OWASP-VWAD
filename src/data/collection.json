@@ -2948,5 +2948,43 @@
 		"MySQL"
 	],
 	"url": "https://yrprey.com"
+	},
+	{
+	"author": "Fernando Mengali",
+	"badge": null,
+	"collection": [
+		"offline"
+	],
+	"name": "YrpreyC",
+	"notes": "YrpreyC is a framework written in the C language that contains vulnerabilities related to memory issues, categorized as overflows",
+	"references": [
+		{
+			"name": "download",
+			"url": "https://github.com/yrprey/yrpreyC"
+		}
+	],
+	"technology": [
+		"C"
+	],
+	"url": "https://yrprey.com"
+	},
+	{
+	"author": "Fernando Mengali",
+	"badge": null,
+	"collection": [
+		"offline"
+	],
+	"name": "YrpreyC++",
+	"notes": "YrpreyC++ is a framework written in the C++ language that contains vulnerabilities related to memory issues, categorized as overflows",
+	"references": [
+		{
+			"name": "download",
+			"url": "https://github.com/yrprey/yrpreyCPlus"
+		}
+	],
+	"technology": [
+		"C++"
+	],
+	"url": "https://yrprey.com"
 	}
 ]
