@@ -90,29 +90,9 @@
 				"name": {
 					"$ref": "#/definitions/Name"
 				},
-				"summary": {
-					"oneOf": [
-						{
-							"type": "null"
-						},
-						{
-							"type": "string"
-						}
-					]
-				},
 				"url": {
 					"type": "string",
 					"format": "uri"
-				},
-				"note": {
-					"oneOf": [
-						{
-							"type": "null"
-						},
-						{
-							"type": "string"
-						}
-					]
 				}
 			},
 			"required": [
