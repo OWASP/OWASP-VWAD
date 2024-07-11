@@ -2877,114 +2877,422 @@
 		"badge": null
 	},
 	{
-		"author": "Fernando Mengali, Vagner Mengali",
-		"badge": null,
-		"collection": [
-			"offline"
-		],
-		"name": "Yrprey",
-		"notes": "Framework created in NextJs (TypeScript) and PHP/MySQL with OWASP TOP 10 API vulnerabilities of 2019 and 2023. Yrprey can was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (Appsec).",
-		"references": [
-			{
-				"name": "download",
-				"url": "https://github.com/yrprey/yrprey-backend"
-			},
-			{
-				"name": "download",
-				"url": "https://github.com/yrprey/yrprey-frontend"
-			},
-			{
-				"name": "docker",
-				"url": "https://github.com/yrprey/yrprey-application"
-			}
-		],
-		"technology": [
-			"PHP",
-			"TypeScript",
-			"NextJs"
-		],
-		"url": "https://yrprey.com"
-	},
-	{
-	"author": "Fernando Mengali",
-	"badge": null,
-	"collection": [
-		"offline"
-	],
-	"name": "YrpreyPHP",
-	"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities. YrpreyPHP was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (AppSec).",
-	"references": [
-		{
-			"name": "download",
-			"url": "https://github.com/yrprey/yrpreyPHP/"
-		}
-	],
-	"technology": [
-		"PHP",
-		"CSS",
-		"Bootstrap",
-		"MySQL"
-	],
-	"url": "https://yrprey.com"
-	},
-	{
-	"author": "Fernando Mengali",
-	"badge": null,
-	"collection": [
-		"offline"
-	],
-	"name": "YrpreyBlog",
-	"notes": "A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities.",
-	"references": [
-		{
-			"name": "download",
-			"url": "https://github.com/yrprey/yrpreyBlog"
-		}
-	],
-	"technology": [
-		"PHP",
-		"CSS",
-		"Bootstrap",
-		"MySQL"
-	],
-	"url": "https://yrprey.com"
-	},
-	{
-	"author": "Fernando Mengali",
-	"badge": null,
-	"collection": [
-		"offline"
-	],
-	"name": "YrpreyC",
-	"notes": "YrpreyC is a framework written in the C language that contains vulnerabilities related to memory issues, categorized as overflows",
-	"references": [
-		{
-			"name": "download",
-			"url": "https://github.com/yrprey/yrpreyC"
-		}
-	],
-	"technology": [
-		"C"
-	],
-	"url": "https://yrprey.com"
-	},
-	{
-	"author": "Fernando Mengali",
-	"badge": null,
-	"collection": [
-		"offline"
-	],
-	"name": "YrpreyC++",
-	"notes": "YrpreyC++ is a framework written in the C++ language that contains vulnerabilities related to memory issues, categorized as overflows",
-	"references": [
-		{
-			"name": "download",
-			"url": "https://github.com/yrprey/yrpreyCPlus"
-		}
-	],
-	"technology": [
-		"C++"
-	],
-	"url": "https://yrprey.com"
-	}
+                "author":"Fernando Mengali, Vagner Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"Yrprey",
+                "notes":"Framework created in NextJs (TypeScript) and PHP/MySQL with OWASP TOP 10 API vulnerabilities of 2019 and 2023. Yrprey can was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (Appsec).",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrprey-backend"
+                        },
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrprey-frontend"
+                        },
+                        {
+                                "name":"docker",
+                                "url":"https://github.com/yrprey/yrprey-application"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "TypeScript",
+                        "NextJs"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"YrpreyPHP",
+                "notes":"A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities. YrpreyPHP was created for educational purposes, contributing to the teaching and learning of those interested in Pentest (intrusion testing) and Application Security (AppSec).",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyPHP/"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "CSS",
+                        "Bootstrap",
+                        "MySQL"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"YrpreyBlog",
+                "notes":"A framework created in PHP/MySQL with OWASP TOP 10 Web Application vulnerabilities.",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyBlog"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "CSS",
+                        "Bootstrap",
+                        "MySQL"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"YrpreyC",
+                "notes":"YrpreyC is a framework written in the C language that contains vulnerabilities related to memory issues, categorized as overflows",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyC"
+                        }
+                ],
+                "technology":[
+                        "C"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"YrpreyC++",
+                "notes":"YrpreyC++ is a framework written in the C++ language that contains vulnerabilities related to memory issues, categorized as overflows",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyCPlus"
+                        }
+                ],
+                "technology":[
+                        "C++"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyTasksPython",
+                "notes":"yrpreyTasksPython is a vulnerable framework written in Python with a task management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyTasksPython"
+                        }
+                ],
+                "technology":[
+                        "Python",
+                        "PHP",
+                        "MySQL",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyTasksNodeJS",
+                "notes":"yrpreyTasksNodeJS is a vulnerable framework written in NodeJS with a task management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyTasksNodeJS"
+                        }
+                ],
+                "technology":[
+                        "NodeJS",
+                        "PHP",
+                        "MySQL",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyTasks",
+                "notes":"yrpreyTasks is a vulnerable framework written in PHP with a task management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyTasks"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "MySQL",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"ypreyPollsPHP",
+                "notes":"ypreyPollsPHP is a vulnerable framework written in PHP with a polls management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/ypreyPollsPHP"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "MySQL",
+                        "Materialize",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyPollsPython",
+                "notes":"yrpreyPollsPython is a vulnerable framework written in Python with a polls management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyPollsPython"
+                        }
+                ],
+                "technology":[
+                        "Python",
+                        "PHP",
+                        "MySQL",
+                        "Materialize",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyPollsNodeJS",
+                "notes":"yrpreyPollsNodeJS is a vulnerable framework written in NodeJS with a polls management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyPollsNodeJS"
+                        }
+                ],
+                "technology":[
+                        "NodeJS",
+                        "PHP",
+                        "MySQL",
+                        "Materialize",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyPollsPerl",
+                "notes":"yrpreyPollsPerl is a vulnerable framework written in Perl with a polls management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyPollsPerl"
+                        }
+                ],
+                "technology":[
+                        "Perl",
+                        "PHP",
+                        "MySQL",
+                        "Materialize",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"ypreyAPINodeJS",
+                "notes":"yrpreyAPINodeJS is a vulnerable framework written in NodeJS and based on the OWASP TOP 10 API.",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/ypreyAPINodeJS"
+                        }
+                ],
+                "technology":[
+                        "NodeJS",
+                        "PHP",
+                        "MariaDB",
+                        "Bootstrap",
+                        "JavaScript"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"ypreyAPIPython",
+                "notes":"ypreyAPIPython is a vulnerable framework written in Python and based on the OWASP TOP 10 API.",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/ypreyAPIPython"
+                        }
+                ],
+                "technology":[
+                        "Python",
+                        "PHP",
+                        "MariaDB",
+                        "Bootstrap",
+                        "JavaScript"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyLibrary",
+                "notes":"yrpreyLibrary is a vulnerable framework written in PHP, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyLibrary"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "MySQL",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyFinance",
+                "notes":"yrpreyFinance is a vulnerable framework written in PHP with a financial management scenario, based on the OWASP TOP 10",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyFinance"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "MySQL",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyASPC",
+                "notes":"yrpreyASPC is a vulnerable framework written in ASP and C with vulnerabilities based on Buffer Overflow, Command Injection, and web application vulnerabilities.",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyASPC"
+                        }
+                ],
+                "technology":[
+                        "ASP",
+                        "MySQL",
+                        "C"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"yrpreyASPCPlus",
+                "notes":"yrpreyASPCPlus is a vulnerable framework written in ASP and C++ with vulnerabilities based on Buffer Overflow, Command Injection, and web application vulnerabilities.",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/yrpreyASPCPlus"
+                        }
+                ],
+                "technology":[
+                        "ASP",
+                        "MySQL",
+                        "C++"
+                ],
+                "url":"https://yrprey.com"
+        },
+        {
+                "author":"Fernando Mengali",
+                "badge":null,
+                "collection":[
+                        "offline"
+                ],
+                "name":"YrpreyPathTraversal",
+                "notes":"YrpreyPathTraversal is a framework written in PHP, with examples of exploiting Path Traversal and Local File Inclusion vulnerabilities in different ways.",
+                "references":[
+                        {
+                                "name":"download",
+                                "url":"https://github.com/yrprey/YrpreyPathTraversal"
+                        }
+                ],
+                "technology":[
+                        "PHP",
+                        "MySQL",
+                        "Semantic UI",
+                        "Bootstrap"
+                ],
+                "url":"https://yrprey.com"
+        }
 ]
