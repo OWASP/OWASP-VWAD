@@ -33,6 +33,25 @@
 		"badge": null
 	},
 	{
+		"url": "https://github.com/dhammon/ai-goat",
+		"name": "AI-Goat",
+		"collection": [
+			"offline"
+		],
+		"technology": [
+			"Python"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/dhammon/ai-goat"
+			}
+		],
+		"author": "IBM/Watchfire",
+		"notes": "Log in with jsmith/demo1234 or admin/admin",
+		"badge": "hclproducts/AltoroJ"
+	},
+	{
 		"url": "http://demo.testfire.net/",
 		"name": "Altoro Mutual (AltoroJ)",
 		"collection": [
