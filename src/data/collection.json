@@ -47,9 +47,9 @@
 				"url": "https://github.com/dhammon/ai-goat"
 			}
 		],
-		"author": "IBM/Watchfire",
-		"notes": "Log in with jsmith/demo1234 or admin/admin",
-		"badge": "hclproducts/AltoroJ"
+		"author": "fhammon, Guanwei Hu",
+		"notes": "AI Goat uses the Vicuna LLM which derived from Meta's LLaMA and coupled with ChatGPT's response data. When installing AI Goat the LLM binary is downloaded from third party locally on your computer.",
+		"badge": null
 	},
 	{
 		"url": "http://demo.testfire.net/",
