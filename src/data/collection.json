@@ -39,7 +39,9 @@
 			"offline"
 		],
 		"technology": [
-			"Python"
+			"Python",
+			"Vicuna LLM",
+			"LLaMa"
 		],
 		"references": [
 			{
