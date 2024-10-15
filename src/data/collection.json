@@ -247,6 +247,25 @@
 		"badge": null
 	},
 	{
+		"url": "https://bugbait.io",
+		"name": "BugBait - Vulnerable Web Application",
+		"collection": [
+			"online"
+		],
+		"technology": [
+			"Node.js"
+		],
+		"references": [
+			{
+				"name": "live",
+				"url": "https://bugbait.io"
+			}
+		],
+		"author": "Blacklock Security",
+		"notes": "bugbait.io is a vulnerable web application for students, developers, cyber enthusiasts and pen testers to identify and exploit the vulnerabilities.",
+		"badge": null
+	},
+	{
 		"url": "https://sourceforge.net/projects/thebutterflytmp/files/ButterFly%20Project/",
 		"name": "Butterfly Security Project",
 		"collection": [
