@@ -15,14 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v
       with:
         ref: ${{github.event.pull_request.head.ref}}
         repository: ${{github.event.pull_request.head.repo.full_name}}
     - name: Setup Node
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v4
       with:
-        node-version: 13.x
+        node-version: '20.x'
     - name: Install dependencies
       run: |
          npm install -g ajv-formats
@@ -34,14 +34,14 @@ jobs:
       if: failure()
       run: cat log.txt
     - name: Attach Log
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: JSONValidationLog
         path: log.txt
     - name: Comment Validation Issues
       if: failure()
-      uses: actions/github-script@v2
+      uses: actions/github-script@v7
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
         script: |
