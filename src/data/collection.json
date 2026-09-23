@@ -561,6 +561,32 @@
 		"badge": "dolevf/Damn-Vulnerable-GraphQL-Application"
 	},
 	{
+		"url": "https://github.com/cpeoples/dvma",
+		"name": "Damn Vulnerable Mobile App (DVMA)",
+		"collection": [
+			"mobile"
+		],
+		"technology": [
+			"android",
+			"ios",
+			"flutter",
+			"dart"
+		],
+		"references": [
+			{
+				"name": "download",
+				"url": "https://github.com/cpeoples/dvma/releases"
+			},
+			{
+				"name": "guide",
+				"url": "https://cpeoples.github.io/dvma/"
+			}
+		],
+		"author": "cpeoples",
+		"notes": null,
+		"badge": "cpeoples/dvma"
+	},
+	{
 		"url": "https://github.com/isp1r0/DVNA",
 		"name": "Damn Vulnerable Node Application - DVNA",
 		"collection": [
