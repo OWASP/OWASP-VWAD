@@ -2,7 +2,7 @@
 
 ## 2024-10-26
 
-⚠️ This repo is being wound down. Future work should be via [`www-project-vulnerable-web-applications-directory`](https://github.com/OWASP/www-project-vulnerable-web-applications-directory)
+⚠️ This repo is being wound down. Future work should be via [`https://github.com/owasp-vwad/owasp-vwad.github.io`](https://github.com/owasp-vwad/owasp-vwad.github.io)
 
 ---
 
