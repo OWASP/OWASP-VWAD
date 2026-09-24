@@ -6,4 +6,4 @@
 
 ---
 
-The OWASP Vulnerable Web Applications Directory Project (VWAD, https://bwad.owasp.org/) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.
+The OWASP Vulnerable Web Applications Directory Project (VWAD, https://vwad.owasp.org/) is a comprehensive and well maintained registry of all known vulnerable web applications currently available.
